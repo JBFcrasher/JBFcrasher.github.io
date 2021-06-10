@@ -590,6 +590,17 @@ a.times {
 color:#0000aa;
 font-weight:bold;
 }
+
+
+td.player {
+	color:black;
+}
 td.inphlox {
 	color:purple;
+}
+td.jbfcrasher {
+	color:red;
+}
+td.axlthunder {
+	color:blue;
 }
