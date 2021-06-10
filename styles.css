@@ -557,26 +557,22 @@ table.tabletime {
 table.bttable_{
 	  border: 1px solid black;
 	  height: 30px;
-	  color:#000000;
 	  border-collapse: collapse;
 }
 table.bttable_ tr{
 	  border: 1px solid black;
 	  height: 30px;
-	  color:#000000;
 	  border-collapse: collapse;
 	  font-weight: bold;
 }
 table.bttable_ td{
 	  border: 1px solid black;
 	  height: 30px;
-	  color:#000000;
 	  border-collapse: collapse;
 }
 table.bttable_ th{
 	  border: 1px solid black;
 	  height: 30px;
-	  color:#000000;
 	  border-collapse: collapse;
 }
 tr.first td {
