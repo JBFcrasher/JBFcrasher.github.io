@@ -565,6 +565,7 @@ table.bttable_ tr{
 	  height: 30px;
 	  color:#000000;
 	  border-collapse: collapse;
+	  font-weight: bold;
 }
 table.bttable_ td{
 	  border: 1px solid black;
