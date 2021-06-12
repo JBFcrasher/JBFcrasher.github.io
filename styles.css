@@ -576,7 +576,7 @@ table.bttable_ th{
 	  border-collapse: collapse;
 }
 tr.first td {
-background-color: gold;
+background-color: #DAA520;
 }
 tr.second td {
 background-color: silver;
