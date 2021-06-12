@@ -1,5 +1,5 @@
 body {
-background-color: blanchedalmond;
+background-color: black;
 }
 a {
   color: red;
@@ -7,7 +7,7 @@ a {
 	font-family: serif;
 }
 h1 {
-	color:#000000;
+	color:white;
 }
 a .hover-img { 
   position:relative;
@@ -26,7 +26,7 @@ p{
 	display: inline-block;
 	font-size: 12pt;
 	font-family: serif;
-	color:#000000;
+	color:white;
 }
 ul {
   padding-left: 10px;
@@ -196,7 +196,7 @@ img {
     margin-left: 72pt;
     padding-bottom: 0;
     padding-top: 0;
-	color:#000000;
+	color:white;
     }
 .block_12 {
     display: list-item;
@@ -206,7 +206,7 @@ img {
     margin-top: 0;
     padding-bottom: 0;
     padding-top: 0;
-	color:#000000;
+	color:white;
     }
 .block_13 {
     display: list-item;
@@ -216,7 +216,7 @@ img {
     margin-top: 0;
     padding-bottom: 0;
     padding-top: 0;
-	color:#000000;
+	color:white;
     }
 .block_14 {
     display: block;
@@ -258,7 +258,7 @@ img {
     padding-left: 36pt;
     padding-right: 0;
     padding-top: 0;
-	color:#000000;
+	color:white;
     }
 .block_17 {
     display: list-item;
@@ -268,7 +268,7 @@ img {
     margin-top: 0;
     padding-bottom: 0;
     padding-top: 0;
-	color:#000000;
+	color:white;
     }
 .block_18 {
     display: list-item;
@@ -331,7 +331,7 @@ img {
     }
 .calibre1 {
     line-height: 1.2;
-    white-space: pre-wrap
+    black-space: pre-wrap
     }
 .calibre2 {
     display: block;
@@ -386,18 +386,18 @@ img {
 .text_ {
     font-size: 1em
 	display: inline-block;
-	color:#000000;
+	color:white;
     }
 .text_1 {
     font-size: 1em;
     line-height: 1.2
 	display: inline-block;
-	color:#000000;
+	color:white;
     }
 .text_2 {
     font-size: 1em;
     line-height: 1.2;
-	color:#000000;
+	color:white;
     }
 
 @page {
@@ -420,26 +420,26 @@ table.tableizer-table {
 }
 .tableizer-table th {
 	background-color: #2b7cff; 
-	color: #000000;
+	color: white;
 	font-weight: bold;
 	font-size:16pt;
 }
 table.mtgtable_{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
-	  color:#000000;
+	  color:white;
 	  border-collapse: collapse;
 }
 table.mtgtable_ tr{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
-	  color:#000000;
+	  color:white;
 	  border-collapse: collapse;
 }
 table.mtgtable_ td{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
-	  color:#000000;
+	  color:white;
 	  border-collapse: collapse;
 }
 table.tablepage_{
@@ -464,7 +464,7 @@ table.footer {
    bottom: 0;
    width: 100%;
    background-color: blanchedalmond;
-   color: #000000;
+   color: white;
    text-align: center;
    margin: auto;
    height: auto;
@@ -496,41 +496,41 @@ table.abouttable_ td{
 .achievementdescription_ {
 }
 table.timestable{
-	border: 1px solid black;
+	border: 1px solid white;
 	border-collapse: collapse;
 	text-align: center;
 }
 table.timestable th{
 	font-weight:bold;
-	border: 1px solid black;
+	border: 1px solid white;
 	border-collapse: collapse;
 	font-size:12pt;
 }
 table.timestable td{
-	border: 1px solid black;
+	border: 1px solid white;
 	border-collapse: collapse;
 }
 table.timestable tr{
-	border: 1px solid black;
+	border: 1px solid white;
 	border-collapse: collapse;
 	line-height: 30px;
 }
 table.httable_{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
-	  color:#000000;
+	  color:white;
 	  border-collapse: collapse;
 }
 table.httable_ tr{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
-	  color:#000000;
+	  color:white;
 	  border-collapse: collapse;
 }
 table.httable_ td{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
-	  color:#000000;
+	  color:white;
 	  border-collapse: collapse;
 }
 table.tablehead {
@@ -555,23 +555,23 @@ table.tabletime {
 	font-size: 8pt;
 }
 table.bttable_{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
 	  border-collapse: collapse;
 }
 table.bttable_ tr{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
 	  border-collapse: collapse;
 	  font-weight: bold;
 }
 table.bttable_ td{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
 	  border-collapse: collapse;
 }
 table.bttable_ th{
-	  border: 1px solid black;
+	  border: 1px solid white;
 	  height: 30px;
 	  border-collapse: collapse;
 }
@@ -587,13 +587,13 @@ background-color: #cd7f32;
 tr.fourth td {
 }
 a.times {
-color:#0000aa;
+color:#0fdcf7;
 font-weight:bold;
 }
 
 
 td.player {
-	color:black;
+	color:white;
 }
 td.inphlox {
 	color:purple;
