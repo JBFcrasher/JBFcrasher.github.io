@@ -144,11 +144,13 @@ table.tableizer-table {
 	font-size: 12pt;
 	border: 1px solid #CCC; 
 	font-family: Serif;
+	color: white;
 } 
 .tableizer-table td {
 	padding: 4px;
 	margin: 3px;
 	border: 1px solid #CCC;
+	color: white;
 }
 .tableizer-table th {
 	background-color: #2b7cff; 
