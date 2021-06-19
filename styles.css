@@ -7,8 +7,66 @@ a {
 	font-family: serif;
 }
 h1 {
+    display: block;
+    font-family: Calibri;
+    font-size: 24pt;
+    line-height: 1.08;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
 	color:white;
-}
+    }
+h2 {
+    display: block;
+    font-family: Calibri;
+    font-size: 20pt;
+    line-height: 1.08;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+	color:white;
+    }
+h3 {
+    display: block;
+    font-family: Calibri;
+    font-size: 18pt;
+    line-height: 1.08;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+	color:white;
+    }
+h4{
+    display: block;
+    font-family: Calibri;
+    font-size: 16pt;
+    line-height: 1.08;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 30pt;
+    padding-bottom: 0pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+	color:white;
+    }
+	
 a .hover-img { 
   position:relative;
   display: inline-block;
@@ -25,8 +83,28 @@ a:hover .hover-img span {
 p{
 	display: inline-block;
 	font-size: 12pt;
-	font-family: serif;
+	font-family: calibri;
 	color:white;
+	text-indent: 40px;
+}
+ul{
+	display: inline-block;
+	font-size: 12pt;
+	font-family: calibri;
+	color:white;
+	padding-left:40px;
+}
+li{
+	font-size: 12pt;
+	font-family: calibri;
+	padding-left:40px;
+}
+i{
+	display: inline-block;
+	font-size: 12pt;
+	font-family: calibri;
+	color:white;
+	text-indent: 40px;
 }
 ul {
   padding-left: 10px;
@@ -34,7 +112,293 @@ ul {
 img {
 	display:inline-block;
 }
-.block_ {
+
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+	margin-left: 50pt;
+	margin-right: 50pt;
+    }
+
+
+.head1 {
+    display: block;
+    font-family: Calibri;
+    font-size: 24pt;
+    line-height: 1.08;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+
+
+
+
+table.tableizer-table {
+	font-size: 12pt;
+	border: 1px solid #CCC; 
+	font-family: Serif;
+} 
+.tableizer-table td {
+	padding: 4px;
+	margin: 3px;
+	border: 1px solid #CCC;
+}
+.tableizer-table th {
+	background-color: #2b7cff; 
+	color: white;
+	font-weight: bold;
+	font-size:16pt;
+}
+table.mtgtable_{
+	  border: 1px solid white;
+	  height: 30px;
+	  color:white;
+	  border-collapse: collapse;
+}
+table.mtgtable_ tr{
+	  border: 1px solid white;
+	  height: 30px;
+	  color:white;
+	  border-collapse: collapse;
+}
+table.mtgtable_ td{
+	  border: 1px solid white;
+	  height: 30px;
+	  color:white;
+	  border-collapse: collapse;
+}
+table.tablepage_{
+	border: none;
+	border-collapse: collapse;
+	width:70%;
+}
+table.tablepage_ tr{
+	border: none;
+	border-collapse: collapse;
+}
+table.tablepage_ td{
+	border: none;
+	border-collapse: collapse;
+}
+table.footer {
+	width:70%;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   margin: auto;
+   height: auto;
+   padding: 10px;
+}
+table.abouttable_{
+	border: none;
+	border-collapse: collapse;
+	width:70%;
+}
+table.abouttable_ tr{
+	border: none;
+	border-collapse: collapse;
+}
+table.abouttable_ td{
+	border: none;
+	border-collapse: collapse;
+}
+.small {
+	width: 70%;
+}
+.achievementname_ {
+	font-weight:bold;
+	font-size:13pt;
+}
+.achievementvalue_ {
+	text-align: center;
+}
+.achievementdescription_ {
+}
+table.timestable{
+	border: 1px solid white;
+	border-collapse: collapse;
+	text-align: center;
+}
+table.timestable th{
+	font-weight:bold;
+	border: 1px solid white;
+	border-collapse: collapse;
+	font-size:12pt;
+}
+table.timestable td{
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+table.timestable tr{
+	border: 1px solid white;
+	border-collapse: collapse;
+	line-height: 30px;
+}
+table.httable_{
+	  border: 1px solid white;
+	  height: 30px;
+	  color:white;
+	  border-collapse: collapse;
+}
+table.httable_ tr{
+	  border: 1px solid white;
+	  height: 30px;
+	  color:white;
+	  border-collapse: collapse;
+}
+table.httable_ td{
+	  border: 1px solid white;
+	  height: 30px;
+	  color:white;
+	  border-collapse: collapse;
+}
+table.tablehead {
+	font-weight:bold;
+}
+table.tabletime {
+}
+.easy {
+	background-color: #0000ff;
+}
+.medium {
+	background-color: #eecc22;
+}
+.hard {
+	background-color: #ee1100;
+}
+.bonus {
+	background-color: #00cc66;
+}
+.disclaimer {
+	font-style:italic;
+	font-size: 8pt;
+}
+table.bttable_{
+	  border: 1px solid white;
+	  height: 30px;
+	  border-collapse: collapse;
+}
+table.bttable_ tr{
+	  border: 1px solid white;
+	  height: 30px;
+	  border-collapse: collapse;
+	  font-weight: bold;
+}
+table.bttable_ td{
+	  border: 1px solid white;
+	  height: 30px;
+	  border-collapse: collapse;
+}
+table.bttable_ th{
+	  border: 1px solid white;
+	  height: 30px;
+	  border-collapse: collapse;
+	  color:white;
+}
+tr.first td {
+background-color: #DAA520;
+}
+tr.second td {
+background-color: #9c9c9c;
+}
+tr.third td {
+background-color: #cd7f32;
+}
+tr.fourth td {
+}
+a.times {
+color:#0fdcf7;
+font-weight:bold;
+}
+
+
+td.player {
+	color:white;
+}
+td.inphlox {
+	color:purple;
+}
+td.jbfcrasher {
+	color:red;
+}
+td.axlthunder {
+	color:#0041cc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.block_ {
     display: block;
     font-family: serif;
     font-size: 12pt;
@@ -398,210 +762,4 @@ img {
     font-size: 1em;
     line-height: 1.2;
 	color:white;
-    }
-
-@page {
-    margin-bottom: 5pt;
-    margin-top: 5pt;
-	margin-left: 50pt;
-	margin-right: 50pt;
-    }
-
-
-table.tableizer-table {
-	font-size: 12pt;
-	border: 1px solid #CCC; 
-	font-family: Serif;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #CCC;
-}
-.tableizer-table th {
-	background-color: #2b7cff; 
-	color: white;
-	font-weight: bold;
-	font-size:16pt;
-}
-table.mtgtable_{
-	  border: 1px solid white;
-	  height: 30px;
-	  color:white;
-	  border-collapse: collapse;
-}
-table.mtgtable_ tr{
-	  border: 1px solid white;
-	  height: 30px;
-	  color:white;
-	  border-collapse: collapse;
-}
-table.mtgtable_ td{
-	  border: 1px solid white;
-	  height: 30px;
-	  color:white;
-	  border-collapse: collapse;
-}
-table.tablepage_{
-	border: none;
-	border-collapse: collapse;
-	width:70%;
-}
-table.tablepage_ tr{
-	border: none;
-	border-collapse: collapse;
-}
-table.tablepage_ td{
-	border: none;
-	border-collapse: collapse;
-}
-table.footer {
-	width:70%;
-}
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: black;
-   color: white;
-   text-align: center;
-   margin: auto;
-   height: auto;
-   padding: 10px;
-}
-table.abouttable_{
-	border: none;
-	border-collapse: collapse;
-	width:70%;
-}
-table.abouttable_ tr{
-	border: none;
-	border-collapse: collapse;
-}
-table.abouttable_ td{
-	border: none;
-	border-collapse: collapse;
-}
-.small {
-	width: 70%;
-}
-.achievementname_ {
-	font-weight:bold;
-	font-size:13pt;
-}
-.achievementvalue_ {
-	text-align: center;
-}
-.achievementdescription_ {
-}
-table.timestable{
-	border: 1px solid white;
-	border-collapse: collapse;
-	text-align: center;
-}
-table.timestable th{
-	font-weight:bold;
-	border: 1px solid white;
-	border-collapse: collapse;
-	font-size:12pt;
-}
-table.timestable td{
-	border: 1px solid white;
-	border-collapse: collapse;
-}
-table.timestable tr{
-	border: 1px solid white;
-	border-collapse: collapse;
-	line-height: 30px;
-}
-table.httable_{
-	  border: 1px solid white;
-	  height: 30px;
-	  color:white;
-	  border-collapse: collapse;
-}
-table.httable_ tr{
-	  border: 1px solid white;
-	  height: 30px;
-	  color:white;
-	  border-collapse: collapse;
-}
-table.httable_ td{
-	  border: 1px solid white;
-	  height: 30px;
-	  color:white;
-	  border-collapse: collapse;
-}
-table.tablehead {
-	font-weight:bold;
-}
-table.tabletime {
-}
-.easy {
-	background-color: #0000ff;
-}
-.medium {
-	background-color: #eecc22;
-}
-.hard {
-	background-color: #ee1100;
-}
-.bonus {
-	background-color: #00cc66;
-}
-.disclaimer {
-	font-style:italic;
-	font-size: 8pt;
-}
-table.bttable_{
-	  border: 1px solid white;
-	  height: 30px;
-	  border-collapse: collapse;
-}
-table.bttable_ tr{
-	  border: 1px solid white;
-	  height: 30px;
-	  border-collapse: collapse;
-	  font-weight: bold;
-}
-table.bttable_ td{
-	  border: 1px solid white;
-	  height: 30px;
-	  border-collapse: collapse;
-}
-table.bttable_ th{
-	  border: 1px solid white;
-	  height: 30px;
-	  border-collapse: collapse;
-	  color:white;
-}
-tr.first td {
-background-color: #DAA520;
-}
-tr.second td {
-background-color: #9c9c9c;
-}
-tr.third td {
-background-color: #cd7f32;
-}
-tr.fourth td {
-}
-a.times {
-color:#0fdcf7;
-font-weight:bold;
-}
-
-
-td.player {
-	color:white;
-}
-td.inphlox {
-	color:purple;
-}
-td.jbfcrasher {
-	color:red;
-}
-td.axlthunder {
-	color:#0041cc;
-}
+    }*/
