@@ -3,7 +3,7 @@ background-color: black;
 }
 a {
   color: red;
-  display: inline-block;
+  /*display: inline-block;*/
 	font-family: serif;
 }
 h1 {
@@ -66,7 +66,6 @@ h4{
     text-align: center;
 	color:white;
     }
-	
 a .hover-img { 
   position:relative;
   display: inline-block;
@@ -235,6 +234,7 @@ table.timestable{
 	text-align: center;
 }
 table.timestable th{
+    /*color:blue;*/
 	font-weight:bold;
 	border: 1px solid white;
 	border-collapse: collapse;
@@ -249,7 +249,17 @@ table.timestable tr{
 	border-collapse: collapse;
 	line-height: 30px;
 }
+table.platform_{
+      margin: auto;
+      padding: 10px;
+	  height: 30px;
+	  border-collapse: collapse;
+    font-size: 20pt;
+}
 table.httable_{
+      margin: auto;
+  width: 50%;
+  padding: 10px;
 	  border: 1px solid white;
 	  height: 30px;
 	  color:white;
@@ -287,6 +297,10 @@ table.tabletime {
 .disclaimer {
 	font-style:italic;
 	font-size: 8pt;
+}
+.form {
+	/*font-style:italic;*/
+	font-size: 12 pt;
 }
 table.bttable_{
 	  border: 1px solid white;
@@ -400,7 +414,7 @@ td.axlthunder {
 
 
 
-/*.block_ {
+.block_ {
     display: block;
     font-family: serif;
     font-size: 12pt;
@@ -764,4 +778,4 @@ td.axlthunder {
     font-size: 1em;
     line-height: 1.2;
 	color:white;
-    }*/
+    }
