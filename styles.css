@@ -347,9 +347,9 @@ body {
      color:lightgray;
      background-color:#0041cc;
 }
- tr.WeenieWhistle, td.WeenieWhistle, a.WeenieWhistle {
+.WeenieWhistle {
      color:#39FF14;
-     background-color:black;
+     background-color:darkred;
 }
  tr.JBFcrasher, td.JBFcrasher, a.JBFcrasher {
      color:black;
