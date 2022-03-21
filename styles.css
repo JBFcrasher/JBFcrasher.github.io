@@ -343,15 +343,15 @@ body {
      color:coral;
      background-color:red;
 }
- td.AxlThunder, tr.AxlThunder, a.AxlThunder {
+.AxlThunder {
      color:lightgray;
      background-color:#0041cc;
 }
 .WeenieWhistle {
      color:#39FF14;
-     background-color:darkred;
+     background-color:black;
 }
- tr.JBFcrasher, td.JBFcrasher, a.JBFcrasher {
+.JBFcrasher {
      color:black;
      background-color:darkred;
 }
