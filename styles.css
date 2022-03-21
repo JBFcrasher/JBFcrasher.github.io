@@ -2,10 +2,17 @@ body {
 background-color: black;
 }
 a {
-  color: red;
-  /*display: inline-block;*/
+ /* color: red;
+  display: inline-block;*/
 	font-family: serif;
 }
+
+
+
+
+
+
+
 h1 {
     display: block;
     font-family: Calibri;
@@ -335,24 +342,30 @@ background-color: #cd7f32;
 }
 tr.fourth td {
 }
+tr.linktest {
+	color:coral;
+}
 a.times {
 color:#0fdcf7;
 font-weight:bold;
 }
 
 
-td.player {
-	color:white;
+
+
+td.template {
+	color:coral;
 }
-td.inphlox {
-	color:purple;
+a.template {
+	color:coral;
 }
-td.jbfcrasher {
-	color:red;
+/*
+td.WeenieWhistle {
+	color:coral;
 }
-td.axlthunder {
-	color:#0041cc;
-}
+a.WeenieWhistle {
+	color:coral;
+}*/
 
 
 
@@ -393,28 +406,7 @@ td.axlthunder {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.block_ {
+/*.block_ {
     display: block;
     font-family: serif;
     font-size: 12pt;
