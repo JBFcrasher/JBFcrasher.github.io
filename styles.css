@@ -3,7 +3,7 @@ body {
 }
  a {
      color: red;
-     display: inline-block;
+     /*display: inline-block;*/
      font-family: serif;
 }
  h1 {
