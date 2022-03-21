@@ -305,7 +305,6 @@ body {
      border: 1px solid white;
      height: 30px;
      border-collapse: collapse;
-     width:150px;
 }
  table.bttable_ tr{
      border: 1px solid white;
@@ -317,6 +316,7 @@ body {
      border: 1px solid white;
      height: 30px;
      border-collapse: collapse;
+      width:150px;
 }
  table.bttable_ th{
      border: 1px solid white;
