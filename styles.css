@@ -339,23 +339,28 @@ body {
      color:#0fdcf7;
      font-weight:bold;
 }
- tr.test, td.test, a.test {
+.test {
      color:coral;
      background-color:red;
+     font-weight:bold;
 }
 .AxlThunder {
      color:lightgray;
      background-color:#0041cc;
+     font-weight:bold;
 }
 .WeenieWhistle {
      color:#39FF14;
      background-color:black;
+     font-weight:bold;
 }
 .JBFcrasher {
      color:black;
      background-color:darkred;
+     font-weight:bold;
 }
 .Inphlox {
      color:white;
      background-color:#DF00FF;
+     font-weight:bold;
 }
