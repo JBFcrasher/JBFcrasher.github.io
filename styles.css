@@ -372,3 +372,6 @@ body {
      background-color:#FFFF00;
      font-weight:bold;
 }
+.unverified {
+     font-weight:italic;
+}
