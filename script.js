@@ -33,7 +33,7 @@ function applycss(){
         var scrt_var = 10;
       var strLink = "2.html&Key=" + scrt_var;
 
-   document.getElementById("64dttp1").setAttribute("href",strLink); document.getElementById("64dttp1").classList.add('JBFcrasher');
+   document.getElementById("64dttp1l").setAttribute("href",strLink); document.getElementById("64dttp1").classList.add('JBFcrasher');
     
 
 
