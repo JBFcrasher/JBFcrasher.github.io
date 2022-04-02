@@ -2,7 +2,7 @@ body {
      background-color: black;
 }
  a {
-     color: red;
+      color: inherit;
      font-family: serif;
 }
  h1 {
@@ -372,11 +372,6 @@ body {
      font-weight:bold;
 }
 .Lazy {
-     color:black;
-     background-color:#FF8229;
-     font-weight:bold;
-}
-a.Lazy {
      color:black;
      background-color:#FF8229;
      font-weight:bold;
