@@ -26,7 +26,8 @@ setTimeout(function(){
     
     
  
-
+   document.getElementById("64rhfe1").classList.add('Gamedraco');
+    document.getElementById("64rhac1").classList.add('Gamedraco');
 
 
 
