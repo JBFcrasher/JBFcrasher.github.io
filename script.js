@@ -1,4 +1,4 @@
-function(applycss){
+function applycss(){
     document.getElementById("64bftp1").classList.add('AxlThunder');
     document.getElementById("64bfli1").classList.add('AxlThunder');
     document.getElementById("64bfac1").classList.add('AxlThunder');
