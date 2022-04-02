@@ -2,7 +2,7 @@
 
 
 function applycss(){
-    let nidttp1r ="JBFcrasher"; let time="1:23.45"; 
+    let nidttp1r ="JBFcrasher"; let nidttp1t="1:23.45"; 
     let nirhac1r="Gamedraco", let nirhac1t="1:33.79"; let nirhac1l="https://www.youtube.com/watch?v=nOOIJa7WsMo";
     let nirhfe1r="Gamedraco", let nirhfe1t="1:25.43"; let nirhfe1l="https://www.youtube.com/watch?v=OKjYxLI12ak";
     
@@ -33,13 +33,13 @@ function applycss(){
     
     
  
-   document.getElementById("nirhfe1t").textContent = time;document.getElementById("nirhfe1").classList.add(nirhfe1r);
-    document.getElementById("nirhac1t").textContent = time;document.getElementById("nirhac1").classList.add(nirhac1r);
+   document.getElementById("nirhfe1").textContent = nirhfe1t;document.getElementById("nirhfe1").classList.add(nirhfe1r);
+    document.getElementById("nirhac1").textContent = nirhac1t;document.getElementById("nirhac1").classList.add(nirhac1r);
 
     
 
     //document.getElementById("nidttp1").classList.add('JBFcrasher'); document.GetElementById("nidttp1l").innerHTML = "1:12.29";
-  document.getElementById("nidttp1l").textContent = time; document.getElementById("nidttp1").classList.add(nidttp1r);
+  document.getElementById("nidttp1l").textContent = nidttp1t; document.getElementById("nidttp1").classList.add(nidttp1r);
 }
 
 
