@@ -33,8 +33,8 @@ function applycss(){
     
     
  
-   document.getElementById("nirhfe1").classList.add('nirhfe1r');
-    document.getElementById("nirhac1").classList.add('nirhac1r');
+   document.getElementById("nirhfe1").classList.add(nirhfe1r);
+    document.getElementById("nirhac1").classList.add(nirhac1r);
 
     
 
