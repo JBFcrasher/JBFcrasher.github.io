@@ -227,6 +227,7 @@ a.links {
  .achievementdescription_ {
 }
  table.timestable{
+      color:#0fdcf7;
      border: 1px solid white;
      border-collapse: collapse;
      text-align: center;
@@ -345,10 +346,10 @@ a.links {
  tr.linktest {
      color:coral;
 }
- a.times {
+ /*a.times {
      color:#0fdcf7;
      font-weight:bold;
-}
+}*/
  td.times{
      color:#0fdcf7;
      font-weight:bold;
