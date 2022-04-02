@@ -32,5 +32,5 @@ function applycss(){
     
 
     //document.getElementById("64dttp1").classList.add('JBFcrasher'); document.GetElementById("64dttp1l").innerHTML = "1:12.29";
-  document.getElementById("64dttp1").textContent = "test";
+  document.getElementById("64dttp1l").textContent = "test";
 }
