@@ -21,7 +21,6 @@ setTimeout(function(){
 
 
     document.getElementById("64ctgi1").classList.add('Inphlox');
-    document.getElementById("64tbfe1").classList.add('Inphlox');
     document.getElementById("64rhgi1").classList.add('Inphlox');
     
     
