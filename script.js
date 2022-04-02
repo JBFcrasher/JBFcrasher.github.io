@@ -2,8 +2,9 @@
 
 
 function applycss(){
-    let nidttp1r ="JBFcrasher";
-    let time="1:23.45";
+    let nidttp1r ="JBFcrasher"; let time="1:23.45"; 
+    let nirhac1r="Gamedraco", let nirhac1t="1:33.79"; let nirhac1l="https://www.youtube.com/watch?v=nOOIJa7WsMo";
+    let nirhfe1r="Gamedraco", let nirhfe1t="1:25.43"; let nirhfe1l="https://www.youtube.com/watch?v=OKjYxLI12ak";
     
     document.getElementById("nibftp1").classList.add('AxlThunder');
     document.getElementById("nibfli1").classList.add('AxlThunder');
@@ -32,8 +33,8 @@ function applycss(){
     
     
  
-   document.getElementById("nirhfe1").classList.add('Gamedraco');
-    document.getElementById("nirhac1").classList.add('Gamedraco');
+   document.getElementById("nirhfe1").classList.add('nirhfe1r');
+    document.getElementById("nirhac1").classList.add('nirhac1r');
 
     
 
