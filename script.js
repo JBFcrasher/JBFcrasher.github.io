@@ -30,4 +30,4 @@ function applycss(){
     document.getElementById("64rhac1").classList.add('Gamedraco');
 
 
-}, 1);
+}
