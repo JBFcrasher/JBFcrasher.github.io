@@ -30,9 +30,4 @@ setTimeout(function(){
     document.getElementById("64rhac1").classList.add('Gamedraco');
 
 
-
-
-
-
-
-}, 500);
+}, 1);
