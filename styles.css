@@ -379,7 +379,11 @@ body {
 }
 
 
-
+#idtest {
+     color:black;
+     background-color:#FF8229;
+     font-weight:bold;
+}
 
 
 
