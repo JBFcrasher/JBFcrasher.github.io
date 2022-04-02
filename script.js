@@ -2,7 +2,7 @@
 
 
 function applycss(){
-    let 64dttp1r ="AxlThunder";
+    let 64dttp1r ="JBFcrasher";
     let time="1:23.45";
     
     document.getElementById("64bftp1").classList.add('AxlThunder');
