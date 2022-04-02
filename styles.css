@@ -285,15 +285,19 @@ a.links {
 }
  .easy {
      background-color: #0000ff;
+      color:black;
 }
  .medium {
      background-color: #eecc22;
+      color:black;
 }
  .hard {
      background-color: #ee1100;
+      color:black;
 }
  .bonus {
      background-color: #00cc66;
+      color:black;
 }
  .disclaimer {
      font-style:italic;
