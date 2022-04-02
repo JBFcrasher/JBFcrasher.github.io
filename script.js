@@ -2,7 +2,7 @@
 
 
 function applycss(){
-    let 64dttp1r ="JBFcrasher";
+    let dttp641r ="JBFcrasher";
     let time="1:23.45";
     
     document.getElementById("64bftp1").classList.add('AxlThunder');
@@ -38,5 +38,5 @@ function applycss(){
     
 
     //document.getElementById("64dttp1").classList.add('JBFcrasher'); document.GetElementById("64dttp1l").innerHTML = "1:12.29";
-  document.getElementById("64dttp1l").textContent = time; document.getElementById("64dttp1").classList.add(64dttp1r);
+  document.getElementById("64dttp1l").textContent = time; document.getElementById("64dttp1").classList.add(dttp641r);
 }
