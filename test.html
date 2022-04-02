@@ -5,21 +5,41 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <p class="JBFcrasher">Testing</p>
+
+  
+  <style>
+    .hotel {
+        color: red;
+    }
+
+    .garage {
+        color: blue;
+    }
+
+    .house {
+        color: black;
+    }
+
+    ...
+</style>
 <script>
     function assignClass(assign) {
-        $('.assign').removeClass('AxlThunder JBFcrasher Inphlox').addClass(assign);
+        $('.assign').removeClass('hotel house garage').addClass(assign);
     }
 </script>
-  <button id="Inphlox-button">Inphlox</button>
+  <button id="hotel-button">hotel</button>
 <script>
-    $('#Inphlox-button').on('click', function(e) {
+    $('#hotel-button').on('click', function(e) {
         e.preventDefault();
-        assignClass('Inphlox');
+        assignClass('hotel');
     });
 </script>
-<span class="JBFcrasher">Test</span>
-    
+<span class="assign">test</span>
+  
+  
+  
+  
+  
     
 </body>
 </html>
