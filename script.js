@@ -29,6 +29,12 @@ function applycss(){
    document.getElementById("64rhfe1").classList.add('Gamedraco');
     document.getElementById("64rhac1").classList.add('Gamedraco');
 
-   document.getElementById("64dttp1").innerHTML = "1:16.30"; document.getElementById("64dttp1").classList.add('JBFcrasher');
+    
+        var scrt_var = 10;
+      var strLink = "2.html&Key=" + scrt_var;
+
+   document.getElementById("64dttp1").setAttribute("href",strLink); document.getElementById("64dttp1").classList.add('JBFcrasher');
+    
+
 
 }
