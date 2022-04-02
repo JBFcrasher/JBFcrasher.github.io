@@ -4,32 +4,12 @@
 
 </head>
 <body>
-<script>
-$(document).ready(function(){
-
-var json = [{"name": "name1","email":"email1@domain.com"},{"name": "name2","link":"email2@domain.com"}];
-//while running this code the template will be appended in your div with json data
-$("#tbody").jPut({
-    jsonData:json,
-    ajax_url:"example.json",
-    name:"tbody_template",
-});
-
-});
-</script>   
-
-<table jput="t_template">
- <tbody jput="tbody_template">
-     <tr>
-         <td>{{name}}</td>
-         <td>{{email}}</td>
-     </tr>
- </tbody>
-</table>
-
-<table>
- <tbody id="tbody">
- </tbody>
-</table>
+  <link rel="stylesheet" href="styles.css">
+    <p class="XXX" id="rhgi">Testing</p>
+var element = document.getElementById("rhgi");
+element.className=AxlThunder;
+    
+    
+    
 </body>
 </html>
