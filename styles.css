@@ -1,10 +1,10 @@
 body {
      background-color: black;
 }
- a {
+ /*a {
      color: red;
-     /*display: inline-block;*/
-     font-family: serif;
+     display: inline-block;
+     font-family: serif;*/
 }
  h1 {
      display: block;
