@@ -29,5 +29,6 @@ function applycss(){
    document.getElementById("64rhfe1").classList.add('Gamedraco');
     document.getElementById("64rhac1").classList.add('Gamedraco');
 
+   document.getElementById("64dttp1").innerHTML = "1:16.30";
 
 }
