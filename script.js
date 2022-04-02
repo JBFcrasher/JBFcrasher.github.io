@@ -1,5 +1,5 @@
 //example time: JBFcrasher N64 Thunder Park Damn the Torpedoes 1:23.45
-var 64dttp1r = "JBFcrasher";
+var 64dttp1r ="JBFcrasher";
 
 function applycss(){
     
@@ -38,5 +38,5 @@ function applycss(){
     
 
     //document.getElementById("64dttp1").classList.add('JBFcrasher'); document.GetElementById("64dttp1l").innerHTML = "1:12.29";
-  document.getElementById("64dttp1l").textContent = "test"; document.getElementById("64dttp1").classList.add(64dttp1r);
+  document.getElementById("64dttp1l").textContent = "test"; document.getElementById("64dttp1").classList.add("64dttp1r");
 }
