@@ -3,7 +3,7 @@
 
 function applycss(){
     let nidttp1r ="JBFcrasher"; let nidttp1t="1:23.45"; 
-    //let nirhacfr="Gamedraco", let nirhacft="1:33.79"; let nirhacfl="https://www.youtube.com/watch?v=nOOIJa7WsMo";
+    let nirhacfr="Gamedraco", let nirhacft="1:33.79"; let nirhacfl="https://www.youtube.com/watch?v=nOOIJa7WsMo";
     //let nirhfe1r="Gamedraco", let nirhfe1t="1:25.43"; let nirhfe1l="https://www.youtube.com/watch?v=OKjYxLI12ak";
     
     document.getElementById("nibftp1").classList.add('AxlThunder');
