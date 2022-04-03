@@ -15,7 +15,7 @@ let nitbgi1r="LazyComet"; let nitbgi1t="1:41.85"; let nitbgi1a="https://www.twit
 let nitblp1r="LazyComet"; let nitblp1t="1:54.78"; let nitblp1a="https://www.twitch.tv/videos/1445009092"; 
 let nitbny1r="LazyComet"; let nitbny1t="1:48.75"; let nitbny1a="https://www.twitch.tv/videos/1445009093";    
 let nitbsg1r="LazyComet"; let nitbsg1t="1:41.96"; let nitbsg1a="https://www.twitch.tv/videos/1445009094";    
-let nitbvxc1r="LazyComet"; let nitbvc1t="1:30.99"; let nitbvc1a="https://www.twitch.tv/videos/1445009090";    
+let nitbvc1r="LazyComet"; let nitbvc1t="1:30.99"; let nitbvc1a="https://www.twitch.tv/videos/1445009090";    
     
     
  // document.getElementById("nibfna1l").textContent = nibfna1t; document.getElementById("nibfna1").classList.add(nibfna1r);
