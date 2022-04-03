@@ -3,7 +3,7 @@
 
 function applycss(){
    // let nidttp1r ="JBFcrasher"; let nidttp1t="1:23.45"; 
-    let nirhac1r="Gamedraco", let nirhac1t="1:33.79"; let nirhac1l="https://www.youtube.com/watch?v=nOOIJa7WsMo";
+    let nirhacfr="Gamedraco", let nirhacft="1:33.79"; let nirhacfl="https://www.youtube.com/watch?v=nOOIJa7WsMo";
     //let nirhfe1r="Gamedraco", let nirhfe1t="1:25.43"; let nirhfe1l="https://www.youtube.com/watch?v=OKjYxLI12ak";
     
     document.getElementById("nibftp1").classList.add('AxlThunder');
@@ -34,7 +34,7 @@ function applycss(){
     
  
    //document.getElementById("nirhfe1l").textContent = nirhfe1t;document.getElementById("nirhfe1").classList.add(nirhfe1r);
-    document.getElementById("nirhac1l").textContent = nirhac1t;document.getElementById("nirhac1").classList.add(nirhac1r);
+    document.getElementById("nirhac1l").textContent = nirhacft;document.getElementById("nirhac1").classList.add(nirhacfr);
 
     
 
