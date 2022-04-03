@@ -5,11 +5,11 @@ function applycss(){
 let nibfna2r	="Gamedraco";	let nibfna2t	="2:44.40";	let nibfna2a	="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";
 let nirhac1r	="Gamedraco";	let nirhac1t	="1:33.79";	let nirhac1a	="https://www.youtube.com/watch?v=nOOIJa7WsMo";
 let nirhfe1r	="Gamedraco";	let nirhfe1t	="1:25.43";	let nirhfe1a	="https://www.youtube.com/watch?v=OKjYxLI12ak";
-let nitbac1r	="Lazy";	let nitbac1t	="1:50.32";	let nitbac1a	="https://www.twitch.tv/videos/1441988243";
-let nitbfe1r	="Lazy";	let nitbfe1t	="1:45.79";	let nitbfe1a	="https://www.twitch.tv/videos/1441988249";
-let nitbgi1r	="Lazy";	let nitbgi1t	="1:45.75";	let nitbgi1a	="https://www.twitch.tv/videos/1441988244";
-let nitbli1r	="Lazy";	let nitbli1t	="1:46.06";	let nitbli1a	="https://www.twitch.tv/videos/1441988245";
-let nitbna1r	="Lazy";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch.tv/videos/1441988246";
+let nitbac1r	="LazyComet";	let nitbac1t	="1:50.32";	let nitbac1a	="https://www.twitch.tv/videos/1441988243";
+let nitbfe1r	="LazyComet";	let nitbfe1t	="1:45.79";	let nitbfe1a	="https://www.twitch.tv/videos/1441988249";
+let nitbgi1r	="LazyComet";	let nitbgi1t	="1:45.75";	let nitbgi1a	="https://www.twitch.tv/videos/1441988244";
+let nitbli1r	="LazyComet";	let nitbli1t	="1:46.06";	let nitbli1a	="https://www.twitch.tv/videos/1441988245";
+let nitbna1r	="LazyComet";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch.tv/videos/1441988246";
     
     document.getElementById("nibftp1").classList.add('AxlThunder');
     document.getElementById("nibfli1").classList.add('AxlThunder');
@@ -46,5 +46,3 @@ let nitbna1r	="Lazy";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch
   document.getElementById("nitbli1l").textContent = nitbli1t; document.getElementById("nitbli1").classList.add(nitbli1r);
   document.getElementById("nitbna1l").textContent = nitbna1t; document.getElementById("nitbna1").classList.add(nitbna1r);
 }
-
-
