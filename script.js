@@ -27,12 +27,12 @@ let nitbvxc1r="LazyComet"; let nitbvc1t="1:30.99"; let nitbvc1a="https://www.twi
   document.getElementById("nitbli1l").textContent = nitbli1t; document.getElementById("nitbli1").classList.add(nitbli1r);
   document.getElementById("nitbna1l").textContent = nitbna1t; document.getElementById("nitbna1").classList.add(nitbna1r);    
     
-  document.getElementById("nitbny1l").textContent = nitbny1t; document.getElementById("nitbny1").classList.add = nitbny1r;
-document.getElementById("nitbsg1l").textContent = nitbsg1t; document.getElementById("nitbsg1").classList.add = nitbsg1r;
-document.getElementById("nitbvc1l").textContent = nitbvc1t; document.getElementById("nitbvc1").classList.add = nitbvc1r;
-    document.getElementById("nitblp1l").textContent = nitblp1t; document.getElementById("nitblp1").classList.add = nitblp1r;
-    document.getElementById("nitbgi1l").textContent = nitbgi1t; document.getElementById("nitbgi1").classList.add = nitbgi1r;
-    document.getElementById("nitbfe1l").textContent = nitbfe1t; document.getElementById("nitbfe1").classList.add = nitbfe1r;
+  document.getElementById("nitbny1l").textContent = nitbny1t; document.getElementById("nitbny1").classList.add(nitbny1r);
+document.getElementById("nitbsg1l").textContent = nitbsg1t; document.getElementById("nitbsg1").classList.add(nitbsg1r);
+document.getElementById("nitbvc1l").textContent = nitbvc1t; document.getElementById("nitbvc1").classList.add(nitbvc1r);
+    document.getElementById("nitblp1l").textContent = nitblp1t; document.getElementById("nitblp1").classList.add(nitblp1r);
+    document.getElementById("nitbgi1l").textContent = nitbgi1t; document.getElementById("nitbgi1").classList.add(nitbgi1r);
+    document.getElementById("nitbfe1l").textContent = nitbfe1t; document.getElementById("nitbfe1").classList.add(nitbfe1r);
     
     
     
