@@ -2,14 +2,14 @@
 
 
 function applycss(){
-let nibfna2r	="Gamedraco";	let nibfna2t	="2:44.40";	let nibfna2a	="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";
-let nirhac1r	="Gamedraco";	let nirhac1t	="1:33.79";	let nirhac1a	="https://www.youtube.com/watch?v=nOOIJa7WsMo";
-let nirhfe1r	="Gamedraco";	let nirhfe1t	="1:25.43";	let nirhfe1a	="https://www.youtube.com/watch?v=OKjYxLI12ak";
-let nitbac1r	="LazyComet";	let nitbac1t	="1:50.32";	let nitbac1a	="https://www.twitch.tv/videos/1441988243";
+let nibfna2r="Gamedraco";let nibfna2t="2:44.40";let nibfna2a="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";
+let nirhac1r="Gamedraco";let nirhac1t="1:33.79";let nirhac1a="https://www.youtube.com/watch?v=nOOIJa7WsMo";
+let nirhfe1r="Gamedraco";let nirhfe1t="1:25.43";let nirhfe1a="https://www.youtube.com/watch?v=OKjYxLI12ak";
+let nitbac1r="LazyComet";let nitbac1t="1:50.32";let nitbac1a="https://www.twitch.tv/videos/1441988243";
 //let nitbfe1r	="LazyComet";	let nitbfe1t	="1:45.79";	let nitbfe1a	="https://www.twitch.tv/videos/1441988249";
 //let nitbgi1r	="LazyComet";	let nitbgi1t	="1:45.75";	let nitbgi1a	="https://www.twitch.tv/videos/1441988244";
-let nitbli1r	="LazyComet";	let nitbli1t	="1:46.06";	let nitbli1a	="https://www.twitch.tv/videos/1441988245";
-let nitbna1r	="LazyComet";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch.tv/videos/1441988246";
+let nitbli1r="LazyComet";let nitbli1t="1:46.06";let nitbli1a="https://www.twitch.tv/videos/1441988245";
+let nitbna1r="LazyComet";let nitbna1t="3:15.76";let nitbna1a="https://www.twitch.tv/videos/1441988246";
 let nitbfe1r="LazyComet"; let nitbfe1t="1:39.82"; let nitbfe1a="https://www.twitch.tv/videos/1445009096";
 let nitbgi1r="LazyComet"; let nitbgi1t="1:41.85"; let nitbgi1a="https://www.twitch.tv/videos/1445009095";    
 let nitblp1r="LazyComet"; let nitblp1t="1:54.78"; let nitblp1a="https://www.twitch.tv/videos/1445009092"; 
