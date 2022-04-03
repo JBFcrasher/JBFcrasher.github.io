@@ -2,9 +2,9 @@
 
 
 function applycss(){
-    let nidttp1r ="JBFcrasher"; let nidttp1t="1:23.45"; 
+    let nidttp1r ="JBFcrasher"; let nidttp1t="test"; 
     let nirhac1r="Gamedraco"; let nirhac1t="1:33.79";
-    let nirhfe1r="Gamedraco"; let nirhfe1t="1:25.43"; let nirhfe1l="https://www.youtube.com/watch?v=OKjYxLI12ak";
+    let nirhfe1r="Gamedraco"; let nirhfe1t="1:25.43"; let nirhfe1a="https://www.youtube.com/watch?v=OKjYxLI12ak";
     
     document.getElementById("nibftp1").classList.add('AxlThunder');
     document.getElementById("nibfli1").classList.add('AxlThunder');
