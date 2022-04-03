@@ -5,11 +5,11 @@ function applycss(){
 let nibfna1r	="Gamedraco";	let nibfna1t	="2:44.40";	let nibfna1a	="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";
 let nirhac1r	="Gamedraco";	let nirhac1t	="1:33.79";	let nirhac1a	="https://www.youtube.com/watch?v=nOOIJa7WsMo";
 let nirhfe1r	="Gamedraco";	let nirhfe1t	="1:25.43";	let nirhfe1a	="https://www.youtube.com/watch?v=OKjYxLI12ak";
-let nitbac1r	="Lazy Comet";	let nitbac1t	="1:50.32";	let nitbac1a	="https://www.twitch.tv/videos/1441988243";
-let nitbfe1r	="Lazy Comet";	let nitbfe1t	="1:45.79";	let nitbfe1a	="https://www.twitch.tv/videos/1441988249";
-let nitbgi1r	="Lazy Comet";	let nitbgi1t	="1:45.75";	let nitbgi1a	="https://www.twitch.tv/videos/1441988244";
-let nitbli1r	="Lazy Comet";	let nitbli1t	="1:46.06";	let nitbli1a	="https://www.twitch.tv/videos/1441988245";
-let nitbna1r	="Lazy Comet";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch.tv/videos/1441988246";
+let nitbac1r	="Lazy";	let nitbac1t	="1:50.32";	let nitbac1a	="https://www.twitch.tv/videos/1441988243";
+let nitbfe1r	="Lazy";	let nitbfe1t	="1:45.79";	let nitbfe1a	="https://www.twitch.tv/videos/1441988249";
+let nitbgi1r	="Lazy";	let nitbgi1t	="1:45.75";	let nitbgi1a	="https://www.twitch.tv/videos/1441988244";
+let nitbli1r	="Lazy";	let nitbli1t	="1:46.06";	let nitbli1a	="https://www.twitch.tv/videos/1441988245";
+let nitbna1r	="Lazy";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch.tv/videos/1441988246";
     
     document.getElementById("nibftp1").classList.add('AxlThunder');
     document.getElementById("nibfli1").classList.add('AxlThunder');
@@ -23,14 +23,6 @@ let nitbna1r	="Lazy Comet";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.
     document.getElementById("nibfcc1").classList.add('AxlThunder');
     document.getElementById("nibfhs1").classList.add('AxlThunder');
     document.getElementById("nibfna1").classList.add('AxlThunder');
-
-    
-    document.getElementById("nitbli1").classList.add('Lazy');
-    document.getElementById("nitbac1").classList.add('Lazy');
-    document.getElementById("nitbgi1").classList.add('Lazy');
-    document.getElementById("nitbfe1").classList.add('Lazy');
-    document.getElementById("nitbna1").classList.add('Lazy');
-
 
     document.getElementById("nictgi1").classList.add('Inphlox');
     document.getElementById("nirhgi1").classList.add('Inphlox');
