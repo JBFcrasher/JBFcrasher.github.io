@@ -40,7 +40,7 @@ function applycss(){
 
     //document.getElementById("nidttp1").classList.add('JBFcrasher'); document.GetElementById("nidttp1l").innerHTML = "1:12.29";
   document.getElementById("nidttp1l").textContent = nidttp1t; document.getElementById("nidttp1").classList.add(nidttp1r);
-  document.getElementById("nirhacfl").textContent = nirhacft; document.getElementById("nirhac1").classList.add(nirhacfr);
+  document.getElementById("nirhac1l").textContent = nirhacft; document.getElementById("nirhac1").classList.add(nirhacfr);
 }
 
 
