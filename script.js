@@ -37,7 +37,7 @@ let nitbna1r	="Lazy";	let nitbna1t	="3:15.76";	let nitbna1a	="https://www.twitch
 //                          cell link id                  track time                       cell ID           track runner
 //  document.getElementById("nidttp1l").textContent = nidttp1t; document.getElementById("nidttp1").classList.add(nidttp1r);
 
-  document.getElementById("nibfna1l").textContent = nibfna1t; document.getElementById("nibfna1").classList.add(nibfna1r);
+ // document.getElementById("nibfna1l").textContent = nibfna1t; document.getElementById("nibfna1").classList.add(nibfna1r);
   document.getElementById("nirhac1l").textContent = nirhac1t; document.getElementById("nirhac1").classList.add(nirhac1r);
   document.getElementById("nirhfe1l").textContent = nirhfe1t; document.getElementById("nirhfe1").classList.add(nirhfe1r);
   document.getElementById("nitbac1l").textContent = nitbac1t; document.getElementById("nitbac1").classList.add(nitbac1r);
