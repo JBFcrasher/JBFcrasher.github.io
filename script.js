@@ -2,7 +2,7 @@
 
 
 function applycss(){
-let nibfna1r	="Gamedraco";	let nibfna1t	="2:44.40";	let nibfna1a	="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";
+let nibfna2r	="Gamedraco";	let nibfna2t	="2:44.40";	let nibfna2a	="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";
 let nirhac1r	="Gamedraco";	let nirhac1t	="1:33.79";	let nirhac1a	="https://www.youtube.com/watch?v=nOOIJa7WsMo";
 let nirhfe1r	="Gamedraco";	let nirhfe1t	="1:25.43";	let nirhfe1a	="https://www.youtube.com/watch?v=OKjYxLI12ak";
 let nitbac1r	="Lazy";	let nitbac1t	="1:50.32";	let nitbac1a	="https://www.twitch.tv/videos/1441988243";
