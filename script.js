@@ -44,7 +44,7 @@ let psrhgi1r="Gamedraco"; let psrhgi1t="1:31.18"; let psrhgi1a="https://www.yout
 //var myElementnibfna1 = document.getElementById("nibfna1");if(myElementnibfna1){ document.getElementById("nibfna1l").textContent = nibfna1t;document.getElementById("nibfna1").classList.add(nibfna1r);}
 //var myElementnirhac1 = document.getElementById("nirhac1");if(myElementnirhac1){ document.getElementById("nirhac1l").textContent = nirhac1t;document.getElementById("nirhac1").classList.add(nirhac1r);}
 var myElementnirhfe1 = document.getElementById("nirhfe1");if(myElementnirhfe1){ document.getElementById("nirhfe1l").textContent = nirhfe1t;document.getElementById("nirhfe1").classList.add(nirhfe1r);}
-//var myElementnitbac1 = document.getElementById("nitbac1");if(myElementnitbac1){ document.getElementById("nitbac1l").textContent = nitbac1t;document.getElementById("nitbac1").classList.add(nitbac1r);}
+var myElementnitbac1 = document.getElementById("nitbac1");if(myElementnitbac1){ document.getElementById("nitbac1l").textContent = nitbac1t;document.getElementById("nitbac1").classList.add(nitbac1r);}
 //var myElementnitbfe1 = document.getElementById("nitbfe1");if(myElementnitbfe1){ document.getElementById("nitbfe1l").textContent = nitbfe1t;document.getElementById("nitbfe1").classList.add(nitbfe1r);}
 //var myElementnitbgi1 = document.getElementById("nitbgi1");if(myElementnitbgi1){ document.getElementById("nitbgi1l").textContent = nitbgi1t;document.getElementById("nitbgi1").classList.add(nitbgi1r);}
 //var myElementnitbli1 = document.getElementById("nitbli1");if(myElementnitbli1){ document.getElementById("nitbli1l").textContent = nitbli1t;document.getElementById("nitbli1").classList.add(nitbli1r);}
