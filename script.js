@@ -54,15 +54,15 @@ var myElementnitbny1 = document.getElementById("nitbny1");if(myElementnitbny1){ 
 var myElementnitbsg1 = document.getElementById("nitbsg1");if(myElementnitbsg1){ document.getElementById("nitbsg1l").textContent = nitbsg1t;document.getElementById("nitbsg1").classList.add(nitbsg1r);}
 var myElementnitbvc1 = document.getElementById("nitbvc1");if(myElementnitbvc1){ document.getElementById("nitbvc1l").textContent = nitbvc1t;document.getElementById("nitbvc1").classList.add(nitbvc1r);}
 var myElementpcarli1 = document.getElementById("pcarli1");if(myElementpcarli1){ document.getElementById("pcarli1l").textContent = pcarli1t;document.getElementById("pcarli1").classList.add(pcarli1r);}
-//var myElementpcarvc1 = document.getElementById("pcarvc1");if(myElementpcarvc1){ document.getElementById("pcarvc1l").textContent = pcarvc1t;document.getElementById("pcarvc1").classList.add(pcarvc1r);}
-//var myElementpcarvc2 = document.getElementById("pcarvc2");if(myElementpcarvc2){ document.getElementById("pcarvc2l").textContent = pcarvc2t;document.getElementById("pcarvc2").classList.add(pcarvc2r);}
-//var myElementpcctgi1 = document.getElementById("pcctgi1");if(myElementpcctgi1){ document.getElementById("pcctgi1l").textContent = pcctgi1t;document.getElementById("pcctgi1").classList.add(pcctgi1r);}
-//var myElementpcrbli1 = document.getElementById("pcrbli1");if(myElementpcrbli1){ document.getElementById("pcrbli1l").textContent = pcrbli1t;document.getElementById("pcrbli1").classList.add(pcrbli1r);}
-//var myElementpcrhli1 = document.getElementById("pcrhli1");if(myElementpcrhli1){ document.getElementById("pcrhli1l").textContent = pcrhli1t;document.getElementById("pcrhli1").classList.add(pcrhli1r);}
-//var myElementpctbli1 = document.getElementById("pctbli1");if(myElementpctbli1){ document.getElementById("pctbli1l").textContent = pctbli1t;document.getElementById("pctbli1").classList.add(pctbli1r);}
-//var myElementpctblp1 = document.getElementById("pctblp1");if(myElementpctblp1){ document.getElementById("pctblp1l").textContent = pctblp1t;document.getElementById("pctblp1").classList.add(pctblp1r);}
-//var myElementpsrhac1 = document.getElementById("psrhac1");if(myElementpsrhac1){ document.getElementById("psrhac1l").textContent = psrhac1t;document.getElementById("psrhac1").classList.add(psrhac1r);}
-//var myElementpsrhgi1 = document.getElementById("psrhgi1");if(myElementpsrhgi1){ document.getElementById("psrhgi1l").textContent = psrhgi1t;document.getElementById("psrhgi1").classList.add(psrhgi1r);}    
+var myElementpcarvc1 = document.getElementById("pcarvc1");if(myElementpcarvc1){ document.getElementById("pcarvc1l").textContent = pcarvc1t;document.getElementById("pcarvc1").classList.add(pcarvc1r);}
+var myElementpcarvc2 = document.getElementById("pcarvc2");if(myElementpcarvc2){ document.getElementById("pcarvc2l").textContent = pcarvc2t;document.getElementById("pcarvc2").classList.add(pcarvc2r);}
+var myElementpcctgi1 = document.getElementById("pcctgi1");if(myElementpcctgi1){ document.getElementById("pcctgi1l").textContent = pcctgi1t;document.getElementById("pcctgi1").classList.add(pcctgi1r);}
+var myElementpcrbli1 = document.getElementById("pcrbli1");if(myElementpcrbli1){ document.getElementById("pcrbli1l").textContent = pcrbli1t;document.getElementById("pcrbli1").classList.add(pcrbli1r);}
+var myElementpcrhli1 = document.getElementById("pcrhli1");if(myElementpcrhli1){ document.getElementById("pcrhli1l").textContent = pcrhli1t;document.getElementById("pcrhli1").classList.add(pcrhli1r);}
+var myElementpctbli1 = document.getElementById("pctbli1");if(myElementpctbli1){ document.getElementById("pctbli1l").textContent = pctbli1t;document.getElementById("pctbli1").classList.add(pctbli1r);}
+var myElementpctblp1 = document.getElementById("pctblp1");if(myElementpctblp1){ document.getElementById("pctblp1l").textContent = pctblp1t;document.getElementById("pctblp1").classList.add(pctblp1r);}
+var myElementpsrhac1 = document.getElementById("psrhac1");if(myElementpsrhac1){ document.getElementById("psrhac1l").textContent = psrhac1t;document.getElementById("psrhac1").classList.add(psrhac1r);}
+var myElementpsrhgi1 = document.getElementById("psrhgi1");if(myElementpsrhgi1){ document.getElementById("psrhgi1l").textContent = psrhgi1t;document.getElementById("psrhgi1").classList.add(psrhgi1r);}    
     
     
     
