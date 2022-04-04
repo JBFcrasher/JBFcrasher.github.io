@@ -47,7 +47,7 @@ var myElementnirhfe1 = document.getElementById("nirhfe1");if(myElementnirhfe1){ 
 var myElementnitbac1 = document.getElementById("nitbac1");if(myElementnitbac1){ document.getElementById("nitbac1l").textContent = nitbac1t;document.getElementById("nitbac1").classList.add(nitbac1r);}
 var myElementnitbfe1 = document.getElementById("nitbfe1");if(myElementnitbfe1){ document.getElementById("nitbfe1l").textContent = nitbfe1t;document.getElementById("nitbfe1").classList.add(nitbfe1r);}
 var myElementnitbgi1 = document.getElementById("nitbgi1");if(myElementnitbgi1){ document.getElementById("nitbgi1l").textContent = nitbgi1t;document.getElementById("nitbgi1").classList.add(nitbgi1r);}
-var myElementnitbli1 = document.getElementById("nitbli1");if(myElementnitbli1){ document.getElementById("nitbli1l").textContent = nitbli1t;document.getElementById("nitbli1").classList.add(nitbli1r);}
+//var myElementnitbli1 = document.getElementById("nitbli1");if(myElementnitbli1){ document.getElementById("nitbli1l").textContent = nitbli1t;document.getElementById("nitbli1").classList.add(nitbli1r);}
 var myElementnitblp1 = document.getElementById("nitblp1");if(myElementnitblp1){ document.getElementById("nitblp1l").textContent = nitblp1t;document.getElementById("nitblp1").classList.add(nitblp1r);}
 var myElementnitbna1 = document.getElementById("nitbna1");if(myElementnitbna1){ document.getElementById("nitbna1l").textContent = nitbna1t;document.getElementById("nitbna1").classList.add(nitbna1r);}
 var myElementnitbny1 = document.getElementById("nitbny1");if(myElementnitbny1){ document.getElementById("nitbny1l").textContent = nitbny1t;document.getElementById("nitbny1").classList.add(nitbny1r);}
