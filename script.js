@@ -19,7 +19,13 @@ let nitbvc1r="LazyComet"; let nitbvc1t="1:30.99"; let nitbvc1a="https://www.twit
     
     
  // document.getElementById("nibfna1l").textContent = nibfna1t; document.getElementById("nibfna1").classList.add(nibfna1r);
-  document.getElementById("nirhac1l").textContent = nirhac1t; document.getElementById("nirhac1").classList.add(nirhac1r);
+    
+    var myElement = document.getElementById("nirhac1");
+if(myElement){
+  // Element exists
+
+    
+  document.getElementById("nirhac1l").textContent = nirhac1t; document.getElementById("nirhac1").classList.add(nirhac1r);}
   document.getElementById("nirhfe1l").textContent = nirhfe1t; document.getElementById("nirhfe1").classList.add(nirhfe1r);
   document.getElementById("nitbac1l").textContent = nitbac1t; document.getElementById("nitbac1").classList.add(nitbac1r);
 //  document.getElementById("nitbfe1l").textContent = nitbfe1t; document.getElementById("nitbfe1").classList.add(nitbfe1r);
