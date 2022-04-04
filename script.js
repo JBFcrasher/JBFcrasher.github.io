@@ -30,7 +30,8 @@ let psrhac1r="Gamedraco"; let psrhac1t="1:36.42"; let psrhac1a="https://www.yout
 let psrhgi1r="Gamedraco"; let psrhgi1t="1:31.18"; let psrhgi1a="https://www.youtube.com/watch?v=koiaHQzfUGw";    
     
 
-var myElementnitbli1p = document.getElementById("nitbli1p");if(myElementnitbli1p){ document.getElementById("nitbli1d").textContent = nitbli1t;document.getElementById("nitbli1p").classList.add(nitbli1r);}    
+var myElementnitbli1p = document.getElementById("nitbli1p");if(myElementnitbli1p){ document.getElementById("nitbli1d").textContent = nitbli1t;document.getElementById("nitbli1p").classList.add(nitbli1r);
+var a = document.getElementById('nitbli1d');a.href = nitbli1a}    
     
     
     
