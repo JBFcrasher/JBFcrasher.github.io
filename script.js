@@ -18,27 +18,72 @@ let nitbsg1r="LazyComet"; let nitbsg1t="1:41.96"; let nitbsg1a="https://www.twit
 let nitbvc1r="LazyComet"; let nitbvc1t="1:30.99"; let nitbvc1a="https://www.twitch.tv/videos/1445009090";    
     
     
- // document.getElementById("nibfna1l").textContent = nibfna1t; document.getElementById("nibfna1").classList.add(nibfna1r);
-    
-    var myElement = document.getElementById("nirhac1");
-if(myElement){
-  // Element exists
 
     
-  document.getElementById("nirhac1l").textContent = nirhac1t; document.getElementById("nirhac1").classList.add(nirhac1r);}
-  document.getElementById("nirhfe1l").textContent = nirhfe1t; document.getElementById("nirhfe1").classList.add(nirhfe1r);
-  document.getElementById("nitbac1l").textContent = nitbac1t; document.getElementById("nitbac1").classList.add(nitbac1r);
+    
+    
+    
+    
+    
+    
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("dcbfgi1l").textContent = dcbfgi1t;document.getElementById("dcbfgi1").classList.add(dcbfgi1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("dcbfli1l").textContent = dcbfli1t;document.getElementById("dcbfli1").classList.add(dcbfli1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("dcbfsg1l").textContent = dcbfsg1t;document.getElementById("dcbfsg1").classList.add(dcbfsg1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("dcrhgi1l").textContent = dcrhgi1t;document.getElementById("dcrhgi1").classList.add(dcrhgi1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nibfna1l").textContent = nibfna1t;document.getElementById("nibfna1").classList.add(nibfna1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nirhac1l").textContent = nirhac1t;document.getElementById("nirhac1").classList.add(nirhac1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nirhfe1l").textContent = nirhfe1t;document.getElementById("nirhfe1").classList.add(nirhfe1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbac1l").textContent = nitbac1t;document.getElementById("nitbac1").classList.add(nitbac1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbfe1l").textContent = nitbfe1t;document.getElementById("nitbfe1").classList.add(nitbfe1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbgi1l").textContent = nitbgi1t;document.getElementById("nitbgi1").classList.add(nitbgi1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbli1l").textContent = nitbli1t;document.getElementById("nitbli1").classList.add(nitbli1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitblp1l").textContent = nitblp1t;document.getElementById("nitblp1").classList.add(nitblp1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbna1l").textContent = nitbna1t;document.getElementById("nitbna1").classList.add(nitbna1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbny1l").textContent = nitbny1t;document.getElementById("nitbny1").classList.add(nitbny1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbsg1l").textContent = nitbsg1t;document.getElementById("nitbsg1").classList.add(nitbsg1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nitbvc1l").textContent = nitbvc1t;document.getElementById("nitbvc1").classList.add(nitbvc1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pcarli1l").textContent = pcarli1t;document.getElementById("pcarli1").classList.add(pcarli1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pcarvc1l").textContent = pcarvc1t;document.getElementById("pcarvc1").classList.add(pcarvc1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pcarvc2l").textContent = pcarvc2t;document.getElementById("pcarvc2").classList.add(pcarvc2r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pcctgi1l").textContent = pcctgi1t;document.getElementById("pcctgi1").classList.add(pcctgi1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pcrbli1l").textContent = pcrbli1t;document.getElementById("pcrbli1").classList.add(pcrbli1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pcrhli1l").textContent = pcrhli1t;document.getElementById("pcrhli1").classList.add(pcrhli1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pctbli1l").textContent = pctbli1t;document.getElementById("pctbli1").classList.add(pctbli1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("pctblp1l").textContent = pctblp1t;document.getElementById("pctblp1").classList.add(pctblp1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("psrhac1l").textContent = psrhac1t;document.getElementById("psrhac1").classList.add(psrhac1r);}
+var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("psrhgi1l").textContent = psrhgi1t;document.getElementById("psrhgi1").classList.add(psrhgi1r);}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ // document.getElementById("nibfna1l").textContent = nibfna1t; document.getElementById("nibfna1").classList.add(nibfna1r);
+    
+    //var myElement = document.getElementById("nirhac1");if(myElement){ document.getElementById("nirhac1l").textContent = nirhac1t; document.getElementById("nirhac1").classList.add(nirhac1r);}
+  //document.getElementById("nirhfe1l").textContent = nirhfe1t; document.getElementById("nirhfe1").classList.add(nirhfe1r);
+  //document.getElementById("nitbac1l").textContent = nitbac1t; document.getElementById("nitbac1").classList.add(nitbac1r);
 //  document.getElementById("nitbfe1l").textContent = nitbfe1t; document.getElementById("nitbfe1").classList.add(nitbfe1r);
 //  document.getElementById("nitbgi1l").textContent = nitbgi1t; document.getElementById("nitbgi1").classList.add(nitbgi1r);
-  document.getElementById("nitbli1l").textContent = nitbli1t; document.getElementById("nitbli1").classList.add(nitbli1r);
-  document.getElementById("nitbna1l").textContent = nitbna1t; document.getElementById("nitbna1").classList.add(nitbna1r);    
+ // document.getElementById("nitbli1l").textContent = nitbli1t; document.getElementById("nitbli1").classList.add(nitbli1r);
+  //document.getElementById("nitbna1l").textContent = nitbna1t; document.getElementById("nitbna1").classList.add(nitbna1r);    
     
-  document.getElementById("nitbny1l").textContent = nitbny1t; document.getElementById("nitbny1").classList.add(nitbny1r);
-document.getElementById("nitbsg1l").textContent = nitbsg1t; document.getElementById("nitbsg1").classList.add(nitbsg1r);
-document.getElementById("nitbvc1l").textContent = nitbvc1t; document.getElementById("nitbvc1").classList.add(nitbvc1r);
-    document.getElementById("nitblp1l").textContent = nitblp1t; document.getElementById("nitblp1").classList.add(nitblp1r);
-    document.getElementById("nitbgi1l").textContent = nitbgi1t; document.getElementById("nitbgi1").classList.add(nitbgi1r);
-    document.getElementById("nitbfe1l").textContent = nitbfe1t; document.getElementById("nitbfe1").classList.add(nitbfe1r);
+  //document.getElementById("nitbny1l").textContent = nitbny1t; document.getElementById("nitbny1").classList.add(nitbny1r);
+//document.getElementById("nitbsg1l").textContent = nitbsg1t; document.getElementById("nitbsg1").classList.add(nitbsg1r);
+//document.getElementById("nitbvc1l").textContent = nitbvc1t; document.getElementById("nitbvc1").classList.add(nitbvc1r);
+ //   document.getElementById("nitblp1l").textContent = nitblp1t; document.getElementById("nitblp1").classList.add(nitblp1r);
+   // document.getElementById("nitbgi1l").textContent = nitbgi1t; document.getElementById("nitbgi1").classList.add(nitbgi1r);
+   // document.getElementById("nitbfe1l").textContent = nitbfe1t; document.getElementById("nitbfe1").classList.add(nitbfe1r);
     
     
     
