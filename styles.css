@@ -310,6 +310,7 @@ a.links {
      font-size: 12 pt;
 }
  table.bttable_{
+      color:white;
      border: 1px solid white;
      height: 30px;
      border-collapse: collapse;
