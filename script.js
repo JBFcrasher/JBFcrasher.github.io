@@ -1,1000 +1,237 @@
 function applycss(){
+
 let dcbfac1r="AxlThunder"; let dcbfac1c="AxlThunder"; let dcbfac1t="1:27.78"; let dcbfac1a="https://www.youtube.com/watch?v=8e3c_47IO-o";var myElementdcbfac1 = document.getElementById("dcbfac1");if(myElementdcbfac1){ document.getElementById("dcbfac1l").textContent = dcbfac1t;document.getElementById("dcbfac1").classList.add(dcbfac1r);}var myElementdcbfac1p = document.getElementById("dcbfac1p");if(myElementdcbfac1p){ document.getElementById("dcbfac1d").textContent = dcbfac1t;document.getElementById("dcbfac1p").classList.add(dcbfac1r);var a = document.getElementById('dcbfac1d');a.href = dcbfac1a;document.getElementById("dcbfac1r").textContent = dcbfac1c}
+
 let dcbfgi1r="AxlThunder"; let dcbfgi1c="AxlThunder"; let dcbfgi1t="1:21.52"; let dcbfgi1a="https://www.youtube.com/watch?v=0qVxl6PueuQ";var myElementdcbfgi1 = document.getElementById("dcbfgi1");if(myElementdcbfgi1){ document.getElementById("dcbfgi1l").textContent = dcbfgi1t;document.getElementById("dcbfgi1").classList.add(dcbfgi1r);}var myElementdcbfgi1p = document.getElementById("dcbfgi1p");if(myElementdcbfgi1p){ document.getElementById("dcbfgi1d").textContent = dcbfgi1t;document.getElementById("dcbfgi1p").classList.add(dcbfgi1r);var a = document.getElementById('dcbfgi1d');a.href = dcbfgi1a;document.getElementById("dcbfgi1r").textContent = dcbfgi1c}
+
 let dcbflp1r="AxlThunder"; let dcbflp1c="AxlThunder"; let dcbflp1t="1:33.05"; let dcbflp1a="https://www.youtube.com/watch?v=NcLn8EJxaMA";var myElementdcbflp1 = document.getElementById("dcbflp1");if(myElementdcbflp1){ document.getElementById("dcbflp1l").textContent = dcbflp1t;document.getElementById("dcbflp1").classList.add(dcbflp1r);}var myElementdcbflp1p = document.getElementById("dcbflp1p");if(myElementdcbflp1p){ document.getElementById("dcbflp1d").textContent = dcbflp1t;document.getElementById("dcbflp1p").classList.add(dcbflp1r);var a = document.getElementById('dcbflp1d');a.href = dcbflp1a;document.getElementById("dcbflp1r").textContent = dcbflp1c}
+
 let dcbfli1r="AxlThunder"; let dcbfli1c="AxlThunder"; let dcbfli1t="1:24.08"; let dcbfli1a="https://www.youtube.com/watch?v=8xgGGFmWdzQ";var myElementdcbfli1 = document.getElementById("dcbfli1");if(myElementdcbfli1){ document.getElementById("dcbfli1l").textContent = dcbfli1t;document.getElementById("dcbfli1").classList.add(dcbfli1r);}var myElementdcbfli1p = document.getElementById("dcbfli1p");if(myElementdcbfli1p){ document.getElementById("dcbfli1d").textContent = dcbfli1t;document.getElementById("dcbfli1p").classList.add(dcbfli1r);var a = document.getElementById('dcbfli1d');a.href = dcbfli1a;document.getElementById("dcbfli1r").textContent = dcbfli1c}
+
 let dcbfny1r="AxlThunder"; let dcbfny1c="AxlThunder"; let dcbfny1t="1:29.45"; let dcbfny1a="https://www.youtube.com/watch?v=lpeQtOhB3LM";var myElementdcbfny1 = document.getElementById("dcbfny1");if(myElementdcbfny1){ document.getElementById("dcbfny1l").textContent = dcbfny1t;document.getElementById("dcbfny1").classList.add(dcbfny1r);}var myElementdcbfny1p = document.getElementById("dcbfny1p");if(myElementdcbfny1p){ document.getElementById("dcbfny1d").textContent = dcbfny1t;document.getElementById("dcbfny1p").classList.add(dcbfny1r);var a = document.getElementById('dcbfny1d');a.href = dcbfny1a;document.getElementById("dcbfny1r").textContent = dcbfny1c}
+
 let dcbfna1r="AxlThunder"; let dcbfna1c="AxlThunder"; let dcbfna1t="2:32.94"; let dcbfna1a="https://www.youtube.com/watch?v=oEF14vE84s8";var myElementdcbfna1 = document.getElementById("dcbfna1");if(myElementdcbfna1){ document.getElementById("dcbfna1l").textContent = dcbfna1t;document.getElementById("dcbfna1").classList.add(dcbfna1r);}var myElementdcbfna1p = document.getElementById("dcbfna1p");if(myElementdcbfna1p){ document.getElementById("dcbfna1d").textContent = dcbfna1t;document.getElementById("dcbfna1p").classList.add(dcbfna1r);var a = document.getElementById('dcbfna1d');a.href = dcbfna1a;document.getElementById("dcbfna1r").textContent = dcbfna1c}
+
 let dcbfsg1r="AxlThunder"; let dcbfsg1c="AxlThunder"; let dcbfsg1t="1:26.75"; let dcbfsg1a="https://www.youtube.com/watch?v=UuzAz5GfNog";var myElementdcbfsg1 = document.getElementById("dcbfsg1");if(myElementdcbfsg1){ document.getElementById("dcbfsg1l").textContent = dcbfsg1t;document.getElementById("dcbfsg1").classList.add(dcbfsg1r);}var myElementdcbfsg1p = document.getElementById("dcbfsg1p");if(myElementdcbfsg1p){ document.getElementById("dcbfsg1d").textContent = dcbfsg1t;document.getElementById("dcbfsg1p").classList.add(dcbfsg1r);var a = document.getElementById('dcbfsg1d');a.href = dcbfsg1a;document.getElementById("dcbfsg1r").textContent = dcbfsg1c}
+
 let dcbffe1r="AxlThunder"; let dcbffe1c="AxlThunder"; let dcbffe1t="1:26.22"; let dcbffe1a="https://www.youtube.com/watch?v=czywArBMWko";var myElementdcbffe1 = document.getElementById("dcbffe1");if(myElementdcbffe1){ document.getElementById("dcbffe1l").textContent = dcbffe1t;document.getElementById("dcbffe1").classList.add(dcbffe1r);}var myElementdcbffe1p = document.getElementById("dcbffe1p");if(myElementdcbffe1p){ document.getElementById("dcbffe1d").textContent = dcbffe1t;document.getElementById("dcbffe1p").classList.add(dcbffe1r);var a = document.getElementById('dcbffe1d');a.href = dcbffe1a;document.getElementById("dcbffe1r").textContent = dcbffe1c}
+
 let dcbftp1r="AxlThunder"; let dcbftp1c="AxlThunder"; let dcbftp1t="1:28.05"; let dcbftp1a="https://www.youtube.com/watch?v=Mv-5dbHd8ZE";var myElementdcbftp1 = document.getElementById("dcbftp1");if(myElementdcbftp1){ document.getElementById("dcbftp1l").textContent = dcbftp1t;document.getElementById("dcbftp1").classList.add(dcbftp1r);}var myElementdcbftp1p = document.getElementById("dcbftp1p");if(myElementdcbftp1p){ document.getElementById("dcbftp1d").textContent = dcbftp1t;document.getElementById("dcbftp1p").classList.add(dcbftp1r);var a = document.getElementById('dcbftp1d');a.href = dcbftp1a;document.getElementById("dcbftp1r").textContent = dcbftp1c}
+
 let dcmwny1r="AxlThunder"; let dcmwny1c="AxlThunder"; let dcmwny1t="1:50.15"; let dcmwny1a="https://www.youtube.com/watch?v=ItdSRJElE-c";var myElementdcmwny1 = document.getElementById("dcmwny1");if(myElementdcmwny1){ document.getElementById("dcmwny1l").textContent = dcmwny1t;document.getElementById("dcmwny1").classList.add(dcmwny1r);}var myElementdcmwny1p = document.getElementById("dcmwny1p");if(myElementdcmwny1p){ document.getElementById("dcmwny1d").textContent = dcmwny1t;document.getElementById("dcmwny1p").classList.add(dcmwny1r);var a = document.getElementById('dcmwny1d');a.href = dcmwny1a;document.getElementById("dcmwny1r").textContent = dcmwny1c}
+
 let dcmwna1r="AxlThunder"; let dcmwna1c="AxlThunder"; let dcmwna1t="2:58.77"; let dcmwna1a="https://www.youtube.com/watch?v=uJWsR7vB-bs";var myElementdcmwna1 = document.getElementById("dcmwna1");if(myElementdcmwna1){ document.getElementById("dcmwna1l").textContent = dcmwna1t;document.getElementById("dcmwna1").classList.add(dcmwna1r);}var myElementdcmwna1p = document.getElementById("dcmwna1p");if(myElementdcmwna1p){ document.getElementById("dcmwna1d").textContent = dcmwna1t;document.getElementById("dcmwna1p").classList.add(dcmwna1r);var a = document.getElementById('dcmwna1d');a.href = dcmwna1a;document.getElementById("dcmwna1r").textContent = dcmwna1c}
+
 let dcmwsg1r="AxlThunder"; let dcmwsg1c="AxlThunder"; let dcmwsg1t="1:46.95"; let dcmwsg1a="https://www.youtube.com/watch?v=WH5z6LDwRGQ";var myElementdcmwsg1 = document.getElementById("dcmwsg1");if(myElementdcmwsg1){ document.getElementById("dcmwsg1l").textContent = dcmwsg1t;document.getElementById("dcmwsg1").classList.add(dcmwsg1r);}var myElementdcmwsg1p = document.getElementById("dcmwsg1p");if(myElementdcmwsg1p){ document.getElementById("dcmwsg1d").textContent = dcmwsg1t;document.getElementById("dcmwsg1p").classList.add(dcmwsg1r);var a = document.getElementById('dcmwsg1d');a.href = dcmwsg1a;document.getElementById("dcmwsg1r").textContent = dcmwsg1c}
+
 let dcmwvc1r="AxlThunder"; let dcmwvc1c="AxlThunder"; let dcmwvc1t="1:32.72"; let dcmwvc1a="https://www.youtube.com/watch?v=PCCRquY5I4w";var myElementdcmwvc1 = document.getElementById("dcmwvc1");if(myElementdcmwvc1){ document.getElementById("dcmwvc1l").textContent = dcmwvc1t;document.getElementById("dcmwvc1").classList.add(dcmwvc1r);}var myElementdcmwvc1p = document.getElementById("dcmwvc1p");if(myElementdcmwvc1p){ document.getElementById("dcmwvc1d").textContent = dcmwvc1t;document.getElementById("dcmwvc1p").classList.add(dcmwvc1r);var a = document.getElementById('dcmwvc1d');a.href = dcmwvc1a;document.getElementById("dcmwvc1r").textContent = dcmwvc1c}
+
 let dcrhgi1r="AxlThunder"; let dcrhgi1c="AxlThunder"; let dcrhgi1t="1:26.25"; let dcrhgi1a="https://www.youtube.com/watch?v=B2_evQM4d88";var myElementdcrhgi1 = document.getElementById("dcrhgi1");if(myElementdcrhgi1){ document.getElementById("dcrhgi1l").textContent = dcrhgi1t;document.getElementById("dcrhgi1").classList.add(dcrhgi1r);}var myElementdcrhgi1p = document.getElementById("dcrhgi1p");if(myElementdcrhgi1p){ document.getElementById("dcrhgi1d").textContent = dcrhgi1t;document.getElementById("dcrhgi1p").classList.add(dcrhgi1r);var a = document.getElementById('dcrhgi1d');a.href = dcrhgi1a;document.getElementById("dcrhgi1r").textContent = dcrhgi1c}
+
 let nibsac1r="Gamedraco"; let nibsac1c="Gamedraco"; let nibsac1t="1:40.39"; let nibsac1a="https://youtu.be/-Vrp2M1IBsc ";var myElementnibsac1 = document.getElementById("nibsac1");if(myElementnibsac1){ document.getElementById("nibsac1l").textContent = nibsac1t;document.getElementById("nibsac1").classList.add(nibsac1r);}var myElementnibsac1p = document.getElementById("nibsac1p");if(myElementnibsac1p){ document.getElementById("nibsac1d").textContent = nibsac1t;document.getElementById("nibsac1p").classList.add(nibsac1r);var a = document.getElementById('nibsac1d');a.href = nibsac1a;document.getElementById("nibsac1r").textContent = nibsac1c}
+
 let nibscd1r="Gamedraco"; let nibscd1c="Gamedraco"; let nibscd1t="1:47.93"; let nibscd1a="https://youtu.be/6RG_zKYkHxE ";var myElementnibscd1 = document.getElementById("nibscd1");if(myElementnibscd1){ document.getElementById("nibscd1l").textContent = nibscd1t;document.getElementById("nibscd1").classList.add(nibscd1r);}var myElementnibscd1p = document.getElementById("nibscd1p");if(myElementnibscd1p){ document.getElementById("nibscd1d").textContent = nibscd1t;document.getElementById("nibscd1p").classList.add(nibscd1r);var a = document.getElementById('nibscd1d');a.href = nibscd1a;document.getElementById("nibscd1r").textContent = nibscd1c}
+
 let nibscc1r="Gamedraco"; let nibscc1c="Gamedraco"; let nibscc1t="2:10.98"; let nibscc1a="https://youtu.be/tlzz7NSfj40 ";var myElementnibscc1 = document.getElementById("nibscc1");if(myElementnibscc1){ document.getElementById("nibscc1l").textContent = nibscc1t;document.getElementById("nibscc1").classList.add(nibscc1r);}var myElementnibscc1p = document.getElementById("nibscc1p");if(myElementnibscc1p){ document.getElementById("nibscc1d").textContent = nibscc1t;document.getElementById("nibscc1p").classList.add(nibscc1r);var a = document.getElementById('nibscc1d');a.href = nibscc1a;document.getElementById("nibscc1r").textContent = nibscc1c}
+
 let nibsgi1r="Gamedraco"; let nibsgi1c="Gamedraco"; let nibsgi1t="1:42.66"; let nibsgi1a="https://youtu.be/0pq11zSdZko ";var myElementnibsgi1 = document.getElementById("nibsgi1");if(myElementnibsgi1){ document.getElementById("nibsgi1l").textContent = nibsgi1t;document.getElementById("nibsgi1").classList.add(nibsgi1r);}var myElementnibsgi1p = document.getElementById("nibsgi1p");if(myElementnibsgi1p){ document.getElementById("nibsgi1d").textContent = nibsgi1t;document.getElementById("nibsgi1p").classList.add(nibsgi1r);var a = document.getElementById('nibsgi1d');a.href = nibsgi1a;document.getElementById("nibsgi1r").textContent = nibsgi1c}
+
 let nibshs1r="Gamedraco"; let nibshs1c="Gamedraco"; let nibshs1t="1:47.53"; let nibshs1a="https://youtu.be/2w_2s6T5Xjs";var myElementnibshs1 = document.getElementById("nibshs1");if(myElementnibshs1){ document.getElementById("nibshs1l").textContent = nibshs1t;document.getElementById("nibshs1").classList.add(nibshs1r);}var myElementnibshs1p = document.getElementById("nibshs1p");if(myElementnibshs1p){ document.getElementById("nibshs1d").textContent = nibshs1t;document.getElementById("nibshs1p").classList.add(nibshs1r);var a = document.getElementById('nibshs1d');a.href = nibshs1a;document.getElementById("nibshs1r").textContent = nibshs1c}
+
 let nibslp1r="Gamedraco"; let nibslp1c="Gamedraco"; let nibslp1t="1:47.56"; let nibslp1a="https://youtu.be/rkSO7zXIctQ ";var myElementnibslp1 = document.getElementById("nibslp1");if(myElementnibslp1){ document.getElementById("nibslp1l").textContent = nibslp1t;document.getElementById("nibslp1").classList.add(nibslp1r);}var myElementnibslp1p = document.getElementById("nibslp1p");if(myElementnibslp1p){ document.getElementById("nibslp1d").textContent = nibslp1t;document.getElementById("nibslp1p").classList.add(nibslp1r);var a = document.getElementById('nibslp1d');a.href = nibslp1a;document.getElementById("nibslp1r").textContent = nibslp1c}
+
 let nibsli1r="Gamedraco"; let nibsli1c="Gamedraco"; let nibsli1t="1:39.79"; let nibsli1a="https://youtu.be/ERQK50rMvCY";var myElementnibsli1 = document.getElementById("nibsli1");if(myElementnibsli1){ document.getElementById("nibsli1l").textContent = nibsli1t;document.getElementById("nibsli1").classList.add(nibsli1r);}var myElementnibsli1p = document.getElementById("nibsli1p");if(myElementnibsli1p){ document.getElementById("nibsli1d").textContent = nibsli1t;document.getElementById("nibsli1p").classList.add(nibsli1r);var a = document.getElementById('nibsli1d');a.href = nibsli1a;document.getElementById("nibsli1r").textContent = nibsli1c}
+
 let nibsny1r="Gamedraco"; let nibsny1c="Gamedraco"; let nibsny1t="1:47.39"; let nibsny1a="https://youtu.be/rvypKfSSji0";var myElementnibsny1 = document.getElementById("nibsny1");if(myElementnibsny1){ document.getElementById("nibsny1l").textContent = nibsny1t;document.getElementById("nibsny1").classList.add(nibsny1r);}var myElementnibsny1p = document.getElementById("nibsny1p");if(myElementnibsny1p){ document.getElementById("nibsny1d").textContent = nibsny1t;document.getElementById("nibsny1p").classList.add(nibsny1r);var a = document.getElementById('nibsny1d');a.href = nibsny1a;document.getElementById("nibsny1r").textContent = nibsny1c}
+
 let nibsna1r="Gamedraco"; let nibsna1c="Gamedraco"; let nibsna1t="2:58.54"; let nibsna1a="https://youtu.be/oz-dkS66T8I";var myElementnibsna1 = document.getElementById("nibsna1");if(myElementnibsna1){ document.getElementById("nibsna1l").textContent = nibsna1t;document.getElementById("nibsna1").classList.add(nibsna1r);}var myElementnibsna1p = document.getElementById("nibsna1p");if(myElementnibsna1p){ document.getElementById("nibsna1d").textContent = nibsna1t;document.getElementById("nibsna1p").classList.add(nibsna1r);var a = document.getElementById('nibsna1d');a.href = nibsna1a;document.getElementById("nibsna1r").textContent = nibsna1c}
+
 let nibssg1r="Gamedraco"; let nibssg1c="Gamedraco"; let nibssg1t="1:42.18"; let nibssg1a="https://youtu.be/_UoQElva0BU ";var myElementnibssg1 = document.getElementById("nibssg1");if(myElementnibssg1){ document.getElementById("nibssg1l").textContent = nibssg1t;document.getElementById("nibssg1").classList.add(nibssg1r);}var myElementnibssg1p = document.getElementById("nibssg1p");if(myElementnibssg1p){ document.getElementById("nibssg1d").textContent = nibssg1t;document.getElementById("nibssg1p").classList.add(nibssg1r);var a = document.getElementById('nibssg1d');a.href = nibssg1a;document.getElementById("nibssg1r").textContent = nibssg1c}
+
 let nibsfe1r="Gamedraco"; let nibsfe1c="Gamedraco"; let nibsfe1t="1:34.89"; let nibsfe1a="https://youtu.be/ZOxqB-VGHrs ";var myElementnibsfe1 = document.getElementById("nibsfe1");if(myElementnibsfe1){ document.getElementById("nibsfe1l").textContent = nibsfe1t;document.getElementById("nibsfe1").classList.add(nibsfe1r);}var myElementnibsfe1p = document.getElementById("nibsfe1p");if(myElementnibsfe1p){ document.getElementById("nibsfe1d").textContent = nibsfe1t;document.getElementById("nibsfe1p").classList.add(nibsfe1r);var a = document.getElementById('nibsfe1d');a.href = nibsfe1a;document.getElementById("nibsfe1r").textContent = nibsfe1c}
+
 let nibstp1r="Gamedraco"; let nibstp1c="Gamedraco"; let nibstp1t="1:45.63"; let nibstp1a="https://youtu.be/IR1xy0g1Tk0 ";var myElementnibstp1 = document.getElementById("nibstp1");if(myElementnibstp1){ document.getElementById("nibstp1l").textContent = nibstp1t;document.getElementById("nibstp1").classList.add(nibstp1r);}var myElementnibstp1p = document.getElementById("nibstp1p");if(myElementnibstp1p){ document.getElementById("nibstp1d").textContent = nibstp1t;document.getElementById("nibstp1p").classList.add(nibstp1r);var a = document.getElementById('nibstp1d');a.href = nibstp1a;document.getElementById("nibstp1r").textContent = nibstp1c}
+
 let nibsvc1r="Gamedraco"; let nibsvc1c="Gamedraco"; let nibsvc1t="1:26.93"; let nibsvc1a="https://youtu.be/xQHIZwu9r1w ";var myElementnibsvc1 = document.getElementById("nibsvc1");if(myElementnibsvc1){ document.getElementById("nibsvc1l").textContent = nibsvc1t;document.getElementById("nibsvc1").classList.add(nibsvc1r);}var myElementnibsvc1p = document.getElementById("nibsvc1p");if(myElementnibsvc1p){ document.getElementById("nibsvc1d").textContent = nibsvc1t;document.getElementById("nibsvc1p").classList.add(nibsvc1r);var a = document.getElementById('nibsvc1d');a.href = nibsvc1a;document.getElementById("nibsvc1r").textContent = nibsvc1c}
+
 let nibfna1r="Gamedraco"; let nibfna1c="Gamedraco"; let nibfna1t="2:44.40"; let nibfna1a="https://www.youtube.com/watch?v=xeFMb4eP05Y&t=1s";var myElementnibfna1 = document.getElementById("nibfna1");if(myElementnibfna1){ document.getElementById("nibfna1l").textContent = nibfna1t;document.getElementById("nibfna1").classList.add(nibfna1r);}var myElementnibfna1p = document.getElementById("nibfna1p");if(myElementnibfna1p){ document.getElementById("nibfna1d").textContent = nibfna1t;document.getElementById("nibfna1p").classList.add(nibfna1r);var a = document.getElementById('nibfna1d');a.href = nibfna1a;document.getElementById("nibfna1r").textContent = nibfna1c}
+
 let nicdgi1r="inphlox"; let nicdgi1c="inphlox"; let nicdgi1t="1:27.66"; let nicdgi1a="https://youtube.com/shorts/RUQ7mACfItY?feature=share";var myElementnicdgi1 = document.getElementById("nicdgi1");if(myElementnicdgi1){ document.getElementById("nicdgi1l").textContent = nicdgi1t;document.getElementById("nicdgi1").classList.add(nicdgi1r);}var myElementnicdgi1p = document.getElementById("nicdgi1p");if(myElementnicdgi1p){ document.getElementById("nicdgi1d").textContent = nicdgi1t;document.getElementById("nicdgi1p").classList.add(nicdgi1r);var a = document.getElementById('nicdgi1d');a.href = nicdgi1a;document.getElementById("nicdgi1r").textContent = nicdgi1c}
+
 let nictgi1r="JBFcrasher"; let nictgi1c="JBFcrasher"; let nictgi1t="1:34.39"; let nictgi1a="https://youtu.be/mZhRs_bDup4";var myElementnictgi1 = document.getElementById("nictgi1");if(myElementnictgi1){ document.getElementById("nictgi1l").textContent = nictgi1t;document.getElementById("nictgi1").classList.add(nictgi1r);}var myElementnictgi1p = document.getElementById("nictgi1p");if(myElementnictgi1p){ document.getElementById("nictgi1d").textContent = nictgi1t;document.getElementById("nictgi1p").classList.add(nictgi1r);var a = document.getElementById('nictgi1d');a.href = nictgi1a;document.getElementById("nictgi1r").textContent = nictgi1c}
+
 let nictli1r="inphlox"; let nictli1c="inphlox"; let nictli1t="1:26.66"; let nictli1a="https://youtu.be/HSLvjUczbf0";var myElementnictli1 = document.getElementById("nictli1");if(myElementnictli1){ document.getElementById("nictli1l").textContent = nictli1t;document.getElementById("nictli1").classList.add(nictli1r);}var myElementnictli1p = document.getElementById("nictli1p");if(myElementnictli1p){ document.getElementById("nictli1d").textContent = nictli1t;document.getElementById("nictli1p").classList.add(nictli1r);var a = document.getElementById('nictli1d');a.href = nictli1a;document.getElementById("nictli1r").textContent = nictli1c}
+
 let nictli2r="Gamedraco"; let nictli2c="Gamedraco"; let nictli2t="1:36.96"; let nictli2a="https://youtu.be/QKiXYJTQFIY";var myElementnictli2 = document.getElementById("nictli2");if(myElementnictli2){ document.getElementById("nictli2l").textContent = nictli2t;document.getElementById("nictli2").classList.add(nictli2r);}var myElementnictli2p = document.getElementById("nictli2p");if(myElementnictli2p){ document.getElementById("nictli2d").textContent = nictli2t;document.getElementById("nictli2p").classList.add(nictli2r);var a = document.getElementById('nictli2d');a.href = nictli2a;document.getElementById("nictli2r").textContent = nictli2c}
+
 let nimbli1r="Gamedraco"; let nimbli1c="Gamedraco"; let nimbli1t="1:41.16"; let nimbli1a="https://youtu.be/78RGnnCSvdg ";var myElementnimbli1 = document.getElementById("nimbli1");if(myElementnimbli1){ document.getElementById("nimbli1l").textContent = nimbli1t;document.getElementById("nimbli1").classList.add(nimbli1r);}var myElementnimbli1p = document.getElementById("nimbli1p");if(myElementnimbli1p){ document.getElementById("nimbli1d").textContent = nimbli1t;document.getElementById("nimbli1p").classList.add(nimbli1r);var a = document.getElementById('nimbli1d');a.href = nimbli1a;document.getElementById("nimbli1r").textContent = nimbli1c}
+
 let nirhac1r="Gamedraco"; let nirhac1c="Gamedraco"; let nirhac1t="1:33.79"; let nirhac1a="https://www.youtube.com/watch?v=nOOIJa7WsMo";var myElementnirhac1 = document.getElementById("nirhac1");if(myElementnirhac1){ document.getElementById("nirhac1l").textContent = nirhac1t;document.getElementById("nirhac1").classList.add(nirhac1r);}var myElementnirhac1p = document.getElementById("nirhac1p");if(myElementnirhac1p){ document.getElementById("nirhac1d").textContent = nirhac1t;document.getElementById("nirhac1p").classList.add(nirhac1r);var a = document.getElementById('nirhac1d');a.href = nirhac1a;document.getElementById("nirhac1r").textContent = nirhac1c}
+
 let nirhcd1r="Gamedraco"; let nirhcd1c="Gamedraco"; let nirhcd1t="1:46.25"; let nirhcd1a="https://youtu.be/qK6LFmpY3Yo";var myElementnirhcd1 = document.getElementById("nirhcd1");if(myElementnirhcd1){ document.getElementById("nirhcd1l").textContent = nirhcd1t;document.getElementById("nirhcd1").classList.add(nirhcd1r);}var myElementnirhcd1p = document.getElementById("nirhcd1p");if(myElementnirhcd1p){ document.getElementById("nirhcd1d").textContent = nirhcd1t;document.getElementById("nirhcd1p").classList.add(nirhcd1r);var a = document.getElementById('nirhcd1d');a.href = nirhcd1a;document.getElementById("nirhcd1r").textContent = nirhcd1c}
+
 let nirhcd2r="Gamedraco"; let nirhcd2c="Gamedraco"; let nirhcd2t="1:46.43"; let nirhcd2a="https://youtu.be/DlFZLtBo6do ";var myElementnirhcd2 = document.getElementById("nirhcd2");if(myElementnirhcd2){ document.getElementById("nirhcd2l").textContent = nirhcd2t;document.getElementById("nirhcd2").classList.add(nirhcd2r);}var myElementnirhcd2p = document.getElementById("nirhcd2p");if(myElementnirhcd2p){ document.getElementById("nirhcd2d").textContent = nirhcd2t;document.getElementById("nirhcd2p").classList.add(nirhcd2r);var a = document.getElementById('nirhcd2d');a.href = nirhcd2a;document.getElementById("nirhcd2r").textContent = nirhcd2c}
+
 let nirhcc1r="Gamedraco"; let nirhcc1c="Gamedraco"; let nirhcc1t="2:06.79"; let nirhcc1a="https://youtu.be/hUZC07XeQU0 ";var myElementnirhcc1 = document.getElementById("nirhcc1");if(myElementnirhcc1){ document.getElementById("nirhcc1l").textContent = nirhcc1t;document.getElementById("nirhcc1").classList.add(nirhcc1r);}var myElementnirhcc1p = document.getElementById("nirhcc1p");if(myElementnirhcc1p){ document.getElementById("nirhcc1d").textContent = nirhcc1t;document.getElementById("nirhcc1p").classList.add(nirhcc1r);var a = document.getElementById('nirhcc1d');a.href = nirhcc1a;document.getElementById("nirhcc1r").textContent = nirhcc1c}
+
 let nirhgi1r="inphlox"; let nirhgi1c="inphlox"; let nirhgi1t="1:26.03"; let nirhgi1a="https://youtu.be/xDzdaN99g7w";var myElementnirhgi1 = document.getElementById("nirhgi1");if(myElementnirhgi1){ document.getElementById("nirhgi1l").textContent = nirhgi1t;document.getElementById("nirhgi1").classList.add(nirhgi1r);}var myElementnirhgi1p = document.getElementById("nirhgi1p");if(myElementnirhgi1p){ document.getElementById("nirhgi1d").textContent = nirhgi1t;document.getElementById("nirhgi1p").classList.add(nirhgi1r);var a = document.getElementById('nirhgi1d');a.href = nirhgi1a;document.getElementById("nirhgi1r").textContent = nirhgi1c}
+
 let nirhgi2r="JBFcrasher"; let nirhgi2c="JBFcrasher"; let nirhgi2t="1:27.33"; let nirhgi2a="https://youtu.be/u-3eKz4u1mc";var myElementnirhgi2 = document.getElementById("nirhgi2");if(myElementnirhgi2){ document.getElementById("nirhgi2l").textContent = nirhgi2t;document.getElementById("nirhgi2").classList.add(nirhgi2r);}var myElementnirhgi2p = document.getElementById("nirhgi2p");if(myElementnirhgi2p){ document.getElementById("nirhgi2d").textContent = nirhgi2t;document.getElementById("nirhgi2p").classList.add(nirhgi2r);var a = document.getElementById('nirhgi2d');a.href = nirhgi2a;document.getElementById("nirhgi2r").textContent = nirhgi2c}
+
 let nirhgi3r="AxlThunder"; let nirhgi3c="AxlThunder"; let nirhgi3t="1:29.13"; let nirhgi3a="https://youtu.be/-OTZzxnFfWE";var myElementnirhgi3 = document.getElementById("nirhgi3");if(myElementnirhgi3){ document.getElementById("nirhgi3l").textContent = nirhgi3t;document.getElementById("nirhgi3").classList.add(nirhgi3r);}var myElementnirhgi3p = document.getElementById("nirhgi3p");if(myElementnirhgi3p){ document.getElementById("nirhgi3d").textContent = nirhgi3t;document.getElementById("nirhgi3p").classList.add(nirhgi3r);var a = document.getElementById('nirhgi3d');a.href = nirhgi3a;document.getElementById("nirhgi3r").textContent = nirhgi3c}
+
 let nirhgi4r="Gamedraco"; let nirhgi4c="Gamedraco"; let nirhgi4t="1:35.96"; let nirhgi4a="https://www.youtube.com/watch?v=qsftYsWnczw";var myElementnirhgi4 = document.getElementById("nirhgi4");if(myElementnirhgi4){ document.getElementById("nirhgi4l").textContent = nirhgi4t;document.getElementById("nirhgi4").classList.add(nirhgi4r);}var myElementnirhgi4p = document.getElementById("nirhgi4p");if(myElementnirhgi4p){ document.getElementById("nirhgi4d").textContent = nirhgi4t;document.getElementById("nirhgi4p").classList.add(nirhgi4r);var a = document.getElementById('nirhgi4d');a.href = nirhgi4a;document.getElementById("nirhgi4r").textContent = nirhgi4c}
+
 let nirhhs1r="Gamedraco"; let nirhhs1c="Gamedraco"; let nirhhs1t="1:41.46"; let nirhhs1a="https://youtu.be/m0FgSw8W2N4 ";var myElementnirhhs1 = document.getElementById("nirhhs1");if(myElementnirhhs1){ document.getElementById("nirhhs1l").textContent = nirhhs1t;document.getElementById("nirhhs1").classList.add(nirhhs1r);}var myElementnirhhs1p = document.getElementById("nirhhs1p");if(myElementnirhhs1p){ document.getElementById("nirhhs1d").textContent = nirhhs1t;document.getElementById("nirhhs1p").classList.add(nirhhs1r);var a = document.getElementById('nirhhs1d');a.href = nirhhs1a;document.getElementById("nirhhs1r").textContent = nirhhs1c}
+
 let nirhlp1r="Gamedraco"; let nirhlp1c="Gamedraco"; let nirhlp1t="1:44.89"; let nirhlp1a="https://youtu.be/9O_MyLEseUQ ";var myElementnirhlp1 = document.getElementById("nirhlp1");if(myElementnirhlp1){ document.getElementById("nirhlp1l").textContent = nirhlp1t;document.getElementById("nirhlp1").classList.add(nirhlp1r);}var myElementnirhlp1p = document.getElementById("nirhlp1p");if(myElementnirhlp1p){ document.getElementById("nirhlp1d").textContent = nirhlp1t;document.getElementById("nirhlp1p").classList.add(nirhlp1r);var a = document.getElementById('nirhlp1d');a.href = nirhlp1a;document.getElementById("nirhlp1r").textContent = nirhlp1c}
+
 let nirhli1r="Gamedraco"; let nirhli1c="Gamedraco"; let nirhli1t="1:35.39"; let nirhli1a="https://youtu.be/u6-bgmXEI4c";var myElementnirhli1 = document.getElementById("nirhli1");if(myElementnirhli1){ document.getElementById("nirhli1l").textContent = nirhli1t;document.getElementById("nirhli1").classList.add(nirhli1r);}var myElementnirhli1p = document.getElementById("nirhli1p");if(myElementnirhli1p){ document.getElementById("nirhli1d").textContent = nirhli1t;document.getElementById("nirhli1p").classList.add(nirhli1r);var a = document.getElementById('nirhli1d');a.href = nirhli1a;document.getElementById("nirhli1r").textContent = nirhli1c}
+
 let nirhli2r="Gamedraco"; let nirhli2c="Gamedraco"; let nirhli2t="1:36.23"; let nirhli2a="https://youtu.be/_AVvZyXpA7k ";var myElementnirhli2 = document.getElementById("nirhli2");if(myElementnirhli2){ document.getElementById("nirhli2l").textContent = nirhli2t;document.getElementById("nirhli2").classList.add(nirhli2r);}var myElementnirhli2p = document.getElementById("nirhli2p");if(myElementnirhli2p){ document.getElementById("nirhli2d").textContent = nirhli2t;document.getElementById("nirhli2p").classList.add(nirhli2r);var a = document.getElementById('nirhli2d');a.href = nirhli2a;document.getElementById("nirhli2r").textContent = nirhli2c}
+
 let nirhny1r="Gamedraco"; let nirhny1c="Gamedraco"; let nirhny1t="1:41.53"; let nirhny1a="https://youtu.be/acFODMWaEL4 ";var myElementnirhny1 = document.getElementById("nirhny1");if(myElementnirhny1){ document.getElementById("nirhny1l").textContent = nirhny1t;document.getElementById("nirhny1").classList.add(nirhny1r);}var myElementnirhny1p = document.getElementById("nirhny1p");if(myElementnirhny1p){ document.getElementById("nirhny1d").textContent = nirhny1t;document.getElementById("nirhny1p").classList.add(nirhny1r);var a = document.getElementById('nirhny1d');a.href = nirhny1a;document.getElementById("nirhny1r").textContent = nirhny1c}
+
 let nirhna1r="Gamedraco"; let nirhna1c="Gamedraco"; let nirhna1t="2.52.94"; let nirhna1a="https://youtu.be/jiEVyFUxoFc";var myElementnirhna1 = document.getElementById("nirhna1");if(myElementnirhna1){ document.getElementById("nirhna1l").textContent = nirhna1t;document.getElementById("nirhna1").classList.add(nirhna1r);}var myElementnirhna1p = document.getElementById("nirhna1p");if(myElementnirhna1p){ document.getElementById("nirhna1d").textContent = nirhna1t;document.getElementById("nirhna1p").classList.add(nirhna1r);var a = document.getElementById('nirhna1d');a.href = nirhna1a;document.getElementById("nirhna1r").textContent = nirhna1c}
+
 let nirhsg1r="Gamedraco"; let nirhsg1c="Gamedraco"; let nirhsg1t="1:37.39"; let nirhsg1a="https://youtu.be/hNiayJ5WOeQ ";var myElementnirhsg1 = document.getElementById("nirhsg1");if(myElementnirhsg1){ document.getElementById("nirhsg1l").textContent = nirhsg1t;document.getElementById("nirhsg1").classList.add(nirhsg1r);}var myElementnirhsg1p = document.getElementById("nirhsg1p");if(myElementnirhsg1p){ document.getElementById("nirhsg1d").textContent = nirhsg1t;document.getElementById("nirhsg1p").classList.add(nirhsg1r);var a = document.getElementById('nirhsg1d');a.href = nirhsg1a;document.getElementById("nirhsg1r").textContent = nirhsg1c}
+
 let nirhsg2r="Gamedraco"; let nirhsg2c="Gamedraco"; let nirhsg2t="1:38.16"; let nirhsg2a="https://youtu.be/LqStVUrMJJk ";var myElementnirhsg2 = document.getElementById("nirhsg2");if(myElementnirhsg2){ document.getElementById("nirhsg2l").textContent = nirhsg2t;document.getElementById("nirhsg2").classList.add(nirhsg2r);}var myElementnirhsg2p = document.getElementById("nirhsg2p");if(myElementnirhsg2p){ document.getElementById("nirhsg2d").textContent = nirhsg2t;document.getElementById("nirhsg2p").classList.add(nirhsg2r);var a = document.getElementById('nirhsg2d');a.href = nirhsg2a;document.getElementById("nirhsg2r").textContent = nirhsg2c}
+
 let nirhfe1r="inphlox"; let nirhfe1c="inphlox"; let nirhfe1t="1:18.65"; let nirhfe1a="https://www.youtube.com/watch?v=WgJLeaRHlCU";var myElementnirhfe1 = document.getElementById("nirhfe1");if(myElementnirhfe1){ document.getElementById("nirhfe1l").textContent = nirhfe1t;document.getElementById("nirhfe1").classList.add(nirhfe1r);}var myElementnirhfe1p = document.getElementById("nirhfe1p");if(myElementnirhfe1p){ document.getElementById("nirhfe1d").textContent = nirhfe1t;document.getElementById("nirhfe1p").classList.add(nirhfe1r);var a = document.getElementById('nirhfe1d');a.href = nirhfe1a;document.getElementById("nirhfe1r").textContent = nirhfe1c}
+
 let nirhfe2r="AxlThunder"; let nirhfe2c="AxlThunder"; let nirhfe2t="1:19.53"; let nirhfe2a="https://www.youtube.com/watch?v=EKySA8Omq9A";var myElementnirhfe2 = document.getElementById("nirhfe2");if(myElementnirhfe2){ document.getElementById("nirhfe2l").textContent = nirhfe2t;document.getElementById("nirhfe2").classList.add(nirhfe2r);}var myElementnirhfe2p = document.getElementById("nirhfe2p");if(myElementnirhfe2p){ document.getElementById("nirhfe2d").textContent = nirhfe2t;document.getElementById("nirhfe2p").classList.add(nirhfe2r);var a = document.getElementById('nirhfe2d');a.href = nirhfe2a;document.getElementById("nirhfe2r").textContent = nirhfe2c}
+
 let nirhfe3r="Gamedraco"; let nirhfe3c="Gamedraco"; let nirhfe3t="1:25.43"; let nirhfe3a="https://www.youtube.com/watch?v=OKjYxLI12ak";var myElementnirhfe3 = document.getElementById("nirhfe3");if(myElementnirhfe3){ document.getElementById("nirhfe3l").textContent = nirhfe3t;document.getElementById("nirhfe3").classList.add(nirhfe3r);}var myElementnirhfe3p = document.getElementById("nirhfe3p");if(myElementnirhfe3p){ document.getElementById("nirhfe3d").textContent = nirhfe3t;document.getElementById("nirhfe3p").classList.add(nirhfe3r);var a = document.getElementById('nirhfe3d');a.href = nirhfe3a;document.getElementById("nirhfe3r").textContent = nirhfe3c}
+
 let nirhfe4r="Oxylen"; let nirhfe4c="Oxylen"; let nirhfe4t="1:27.68"; let nirhfe4a="https://www.youtube.com/watch?v=iz8G5DK9LLI";var myElementnirhfe4 = document.getElementById("nirhfe4");if(myElementnirhfe4){ document.getElementById("nirhfe4l").textContent = nirhfe4t;document.getElementById("nirhfe4").classList.add(nirhfe4r);}var myElementnirhfe4p = document.getElementById("nirhfe4p");if(myElementnirhfe4p){ document.getElementById("nirhfe4d").textContent = nirhfe4t;document.getElementById("nirhfe4p").classList.add(nirhfe4r);var a = document.getElementById('nirhfe4d');a.href = nirhfe4a;document.getElementById("nirhfe4r").textContent = nirhfe4c}
+
 let nirhtp1r="Gamedraco"; let nirhtp1c="Gamedraco"; let nirhtp1t="1:39.66"; let nirhtp1a="https://youtu.be/urVZiLTYSQQ";var myElementnirhtp1 = document.getElementById("nirhtp1");if(myElementnirhtp1){ document.getElementById("nirhtp1l").textContent = nirhtp1t;document.getElementById("nirhtp1").classList.add(nirhtp1r);}var myElementnirhtp1p = document.getElementById("nirhtp1p");if(myElementnirhtp1p){ document.getElementById("nirhtp1d").textContent = nirhtp1t;document.getElementById("nirhtp1p").classList.add(nirhtp1r);var a = document.getElementById('nirhtp1d');a.href = nirhtp1a;document.getElementById("nirhtp1r").textContent = nirhtp1c}
+
 let nirhvc1r="Gamedraco"; let nirhvc1c="Gamedraco"; let nirhvc1t="1:27.09"; let nirhvc1a="https://youtu.be/CoWPmBRlhDs ";var myElementnirhvc1 = document.getElementById("nirhvc1");if(myElementnirhvc1){ document.getElementById("nirhvc1l").textContent = nirhvc1t;document.getElementById("nirhvc1").classList.add(nirhvc1r);}var myElementnirhvc1p = document.getElementById("nirhvc1p");if(myElementnirhvc1p){ document.getElementById("nirhvc1d").textContent = nirhvc1t;document.getElementById("nirhvc1p").classList.add(nirhvc1r);var a = document.getElementById('nirhvc1d');a.href = nirhvc1a;document.getElementById("nirhvc1r").textContent = nirhvc1c}
+
 let nirbli1r="Gamedraco"; let nirbli1c="Gamedraco"; let nirbli1t="1:38.53"; let nirbli1a="https://youtu.be/CIESRgq_sgw";var myElementnirbli1 = document.getElementById("nirbli1");if(myElementnirbli1){ document.getElementById("nirbli1l").textContent = nirbli1t;document.getElementById("nirbli1").classList.add(nirbli1r);}var myElementnirbli1p = document.getElementById("nirbli1p");if(myElementnirbli1p){ document.getElementById("nirbli1d").textContent = nirbli1t;document.getElementById("nirbli1p").classList.add(nirbli1r);var a = document.getElementById('nirbli1d');a.href = nirbli1a;document.getElementById("nirbli1r").textContent = nirbli1c}
+
 let nithac1r="Gamedraco"; let nithac1c="Gamedraco"; let nithac1t="1:37.39"; let nithac1a="https://youtu.be/B0BEzr20XsA";var myElementnithac1 = document.getElementById("nithac1");if(myElementnithac1){ document.getElementById("nithac1l").textContent = nithac1t;document.getElementById("nithac1").classList.add(nithac1r);}var myElementnithac1p = document.getElementById("nithac1p");if(myElementnithac1p){ document.getElementById("nithac1d").textContent = nithac1t;document.getElementById("nithac1p").classList.add(nithac1r);var a = document.getElementById('nithac1d');a.href = nithac1a;document.getElementById("nithac1r").textContent = nithac1c}
+
 let nithcd1r="Gamedraco"; let nithcd1c="Gamedraco"; let nithcd1t="1:46.29"; let nithcd1a=" https://youtu.be/mNfgu1IgP-I ";var myElementnithcd1 = document.getElementById("nithcd1");if(myElementnithcd1){ document.getElementById("nithcd1l").textContent = nithcd1t;document.getElementById("nithcd1").classList.add(nithcd1r);}var myElementnithcd1p = document.getElementById("nithcd1p");if(myElementnithcd1p){ document.getElementById("nithcd1d").textContent = nithcd1t;document.getElementById("nithcd1p").classList.add(nithcd1r);var a = document.getElementById('nithcd1d');a.href = nithcd1a;document.getElementById("nithcd1r").textContent = nithcd1c}
+
 let nithcc1r="Gamedraco"; let nithcc1c="Gamedraco"; let nithcc1t="2:11.16"; let nithcc1a="https://youtu.be/XNtrEHBlHYA ";var myElementnithcc1 = document.getElementById("nithcc1");if(myElementnithcc1){ document.getElementById("nithcc1l").textContent = nithcc1t;document.getElementById("nithcc1").classList.add(nithcc1r);}var myElementnithcc1p = document.getElementById("nithcc1p");if(myElementnithcc1p){ document.getElementById("nithcc1d").textContent = nithcc1t;document.getElementById("nithcc1p").classList.add(nithcc1r);var a = document.getElementById('nithcc1d');a.href = nithcc1a;document.getElementById("nithcc1r").textContent = nithcc1c}
+
 let nithgi1r="Gamedraco"; let nithgi1c="Gamedraco"; let nithgi1t="1:45.16"; let nithgi1a="https://youtu.be/iUTpyEGE4RU ";var myElementnithgi1 = document.getElementById("nithgi1");if(myElementnithgi1){ document.getElementById("nithgi1l").textContent = nithgi1t;document.getElementById("nithgi1").classList.add(nithgi1r);}var myElementnithgi1p = document.getElementById("nithgi1p");if(myElementnithgi1p){ document.getElementById("nithgi1d").textContent = nithgi1t;document.getElementById("nithgi1p").classList.add(nithgi1r);var a = document.getElementById('nithgi1d');a.href = nithgi1a;document.getElementById("nithgi1r").textContent = nithgi1c}
+
 let nithhs1r="Gamedraco"; let nithhs1c="Gamedraco"; let nithhs1t="1:44.99"; let nithhs1a=" https://youtu.be/Jh0ntDJUpMk ";var myElementnithhs1 = document.getElementById("nithhs1");if(myElementnithhs1){ document.getElementById("nithhs1l").textContent = nithhs1t;document.getElementById("nithhs1").classList.add(nithhs1r);}var myElementnithhs1p = document.getElementById("nithhs1p");if(myElementnithhs1p){ document.getElementById("nithhs1d").textContent = nithhs1t;document.getElementById("nithhs1p").classList.add(nithhs1r);var a = document.getElementById('nithhs1d');a.href = nithhs1a;document.getElementById("nithhs1r").textContent = nithhs1c}
+
 let nithlp1r="Gamedraco"; let nithlp1c="Gamedraco"; let nithlp1t="1:45.66"; let nithlp1a="https://youtu.be/zLYnsTGnDAE ";var myElementnithlp1 = document.getElementById("nithlp1");if(myElementnithlp1){ document.getElementById("nithlp1l").textContent = nithlp1t;document.getElementById("nithlp1").classList.add(nithlp1r);}var myElementnithlp1p = document.getElementById("nithlp1p");if(myElementnithlp1p){ document.getElementById("nithlp1d").textContent = nithlp1t;document.getElementById("nithlp1p").classList.add(nithlp1r);var a = document.getElementById('nithlp1d');a.href = nithlp1a;document.getElementById("nithlp1r").textContent = nithlp1c}
+
 let nithli1r="Gamedraco"; let nithli1c="Gamedraco"; let nithli1t="1:43.13"; let nithli1a="https://youtu.be/YfqJj1Gqvpo";var myElementnithli1 = document.getElementById("nithli1");if(myElementnithli1){ document.getElementById("nithli1l").textContent = nithli1t;document.getElementById("nithli1").classList.add(nithli1r);}var myElementnithli1p = document.getElementById("nithli1p");if(myElementnithli1p){ document.getElementById("nithli1d").textContent = nithli1t;document.getElementById("nithli1p").classList.add(nithli1r);var a = document.getElementById('nithli1d');a.href = nithli1a;document.getElementById("nithli1r").textContent = nithli1c}
+
 let nithny1r="Gamedraco"; let nithny1c="Gamedraco"; let nithny1t="1:47.68"; let nithny1a="https://youtu.be/naC_2fO26iI";var myElementnithny1 = document.getElementById("nithny1");if(myElementnithny1){ document.getElementById("nithny1l").textContent = nithny1t;document.getElementById("nithny1").classList.add(nithny1r);}var myElementnithny1p = document.getElementById("nithny1p");if(myElementnithny1p){ document.getElementById("nithny1d").textContent = nithny1t;document.getElementById("nithny1p").classList.add(nithny1r);var a = document.getElementById('nithny1d');a.href = nithny1a;document.getElementById("nithny1r").textContent = nithny1c}
+
 let nithna1r="Gamedraco"; let nithna1c="Gamedraco"; let nithna1t="2:58.10"; let nithna1a="https://youtu.be/4643k3vHfuE ";var myElementnithna1 = document.getElementById("nithna1");if(myElementnithna1){ document.getElementById("nithna1l").textContent = nithna1t;document.getElementById("nithna1").classList.add(nithna1r);}var myElementnithna1p = document.getElementById("nithna1p");if(myElementnithna1p){ document.getElementById("nithna1d").textContent = nithna1t;document.getElementById("nithna1p").classList.add(nithna1r);var a = document.getElementById('nithna1d');a.href = nithna1a;document.getElementById("nithna1r").textContent = nithna1c}
+
 let nithsg1r="Gamedraco"; let nithsg1c="Gamedraco"; let nithsg1t="1:41.53"; let nithsg1a="https://youtu.be/whLYBKxBtpY ";var myElementnithsg1 = document.getElementById("nithsg1");if(myElementnithsg1){ document.getElementById("nithsg1l").textContent = nithsg1t;document.getElementById("nithsg1").classList.add(nithsg1r);}var myElementnithsg1p = document.getElementById("nithsg1p");if(myElementnithsg1p){ document.getElementById("nithsg1d").textContent = nithsg1t;document.getElementById("nithsg1p").classList.add(nithsg1r);var a = document.getElementById('nithsg1d');a.href = nithsg1a;document.getElementById("nithsg1r").textContent = nithsg1c}
+
 let nithfe1r="Gamedraco"; let nithfe1c="Gamedraco"; let nithfe1t="1:36.96"; let nithfe1a="https://youtu.be/Uw2PUANKzBo ";var myElementnithfe1 = document.getElementById("nithfe1");if(myElementnithfe1){ document.getElementById("nithfe1l").textContent = nithfe1t;document.getElementById("nithfe1").classList.add(nithfe1r);}var myElementnithfe1p = document.getElementById("nithfe1p");if(myElementnithfe1p){ document.getElementById("nithfe1d").textContent = nithfe1t;document.getElementById("nithfe1p").classList.add(nithfe1r);var a = document.getElementById('nithfe1d');a.href = nithfe1a;document.getElementById("nithfe1r").textContent = nithfe1c}
+
 let nithtp1r="Gamedraco"; let nithtp1c="Gamedraco"; let nithtp1t=" 1:41.09"; let nithtp1a=" https://youtu.be/73Nr2yqotcg ";var myElementnithtp1 = document.getElementById("nithtp1");if(myElementnithtp1){ document.getElementById("nithtp1l").textContent = nithtp1t;document.getElementById("nithtp1").classList.add(nithtp1r);}var myElementnithtp1p = document.getElementById("nithtp1p");if(myElementnithtp1p){ document.getElementById("nithtp1d").textContent = nithtp1t;document.getElementById("nithtp1p").classList.add(nithtp1r);var a = document.getElementById('nithtp1d');a.href = nithtp1a;document.getElementById("nithtp1r").textContent = nithtp1c}
+
 let nithvc1r="Gamedraco"; let nithvc1c="Gamedraco"; let nithvc1t="1:25.06"; let nithvc1a=" https://youtu.be/Zc2Ds93fneM ";var myElementnithvc1 = document.getElementById("nithvc1");if(myElementnithvc1){ document.getElementById("nithvc1l").textContent = nithvc1t;document.getElementById("nithvc1").classList.add(nithvc1r);}var myElementnithvc1p = document.getElementById("nithvc1p");if(myElementnithvc1p){ document.getElementById("nithvc1d").textContent = nithvc1t;document.getElementById("nithvc1p").classList.add(nithvc1r);var a = document.getElementById('nithvc1d');a.href = nithvc1a;document.getElementById("nithvc1r").textContent = nithvc1c}
+
 let nitbac1r="Gamedraco"; let nitbac1c="Gamedraco"; let nitbac1t="1:42.13"; let nitbac1a="https://youtu.be/kyfu0Yn8ZMc ";var myElementnitbac1 = document.getElementById("nitbac1");if(myElementnitbac1){ document.getElementById("nitbac1l").textContent = nitbac1t;document.getElementById("nitbac1").classList.add(nitbac1r);}var myElementnitbac1p = document.getElementById("nitbac1p");if(myElementnitbac1p){ document.getElementById("nitbac1d").textContent = nitbac1t;document.getElementById("nitbac1p").classList.add(nitbac1r);var a = document.getElementById('nitbac1d');a.href = nitbac1a;document.getElementById("nitbac1r").textContent = nitbac1c}
+
 let nitbac2r="LazyComet"; let nitbac2c="Lazy Comet"; let nitbac2t="1:50.32"; let nitbac2a="https://www.twitch.tv/videos/1441988243";var myElementnitbac2 = document.getElementById("nitbac2");if(myElementnitbac2){ document.getElementById("nitbac2l").textContent = nitbac2t;document.getElementById("nitbac2").classList.add(nitbac2r);}var myElementnitbac2p = document.getElementById("nitbac2p");if(myElementnitbac2p){ document.getElementById("nitbac2d").textContent = nitbac2t;document.getElementById("nitbac2p").classList.add(nitbac2r);var a = document.getElementById('nitbac2d');a.href = nitbac2a;document.getElementById("nitbac2r").textContent = nitbac2c}
+
 let nitbcd1r="Gamedraco"; let nitbcd1c="Gamedraco"; let nitbcd1t="1:47.75"; let nitbcd1a=" https://youtu.be/2E6Zkbi3UpQ";var myElementnitbcd1 = document.getElementById("nitbcd1");if(myElementnitbcd1){ document.getElementById("nitbcd1l").textContent = nitbcd1t;document.getElementById("nitbcd1").classList.add(nitbcd1r);}var myElementnitbcd1p = document.getElementById("nitbcd1p");if(myElementnitbcd1p){ document.getElementById("nitbcd1d").textContent = nitbcd1t;document.getElementById("nitbcd1p").classList.add(nitbcd1r);var a = document.getElementById('nitbcd1d');a.href = nitbcd1a;document.getElementById("nitbcd1r").textContent = nitbcd1c}
+
 let nitbcc1r="Gamedraco"; let nitbcc1c="Gamedraco"; let nitbcc1t="2:09.73"; let nitbcc1a="https://youtu.be/dOqFOfuuDWU ";var myElementnitbcc1 = document.getElementById("nitbcc1");if(myElementnitbcc1){ document.getElementById("nitbcc1l").textContent = nitbcc1t;document.getElementById("nitbcc1").classList.add(nitbcc1r);}var myElementnitbcc1p = document.getElementById("nitbcc1p");if(myElementnitbcc1p){ document.getElementById("nitbcc1d").textContent = nitbcc1t;document.getElementById("nitbcc1p").classList.add(nitbcc1r);var a = document.getElementById('nitbcc1d');a.href = nitbcc1a;document.getElementById("nitbcc1r").textContent = nitbcc1c}
+
 let nitbgi1r="Gamedraco"; let nitbgi1c="Gamedraco"; let nitbgi1t="1:40.56"; let nitbgi1a="https://youtu.be/AU9f2cGF0tQ ";var myElementnitbgi1 = document.getElementById("nitbgi1");if(myElementnitbgi1){ document.getElementById("nitbgi1l").textContent = nitbgi1t;document.getElementById("nitbgi1").classList.add(nitbgi1r);}var myElementnitbgi1p = document.getElementById("nitbgi1p");if(myElementnitbgi1p){ document.getElementById("nitbgi1d").textContent = nitbgi1t;document.getElementById("nitbgi1p").classList.add(nitbgi1r);var a = document.getElementById('nitbgi1d');a.href = nitbgi1a;document.getElementById("nitbgi1r").textContent = nitbgi1c}
+
 let nitbgi2r="LazyComet"; let nitbgi2c="Lazy Comet"; let nitbgi2t="1:41.85"; let nitbgi2a="https://www.twitch.tv/videos/1445009095";var myElementnitbgi2 = document.getElementById("nitbgi2");if(myElementnitbgi2){ document.getElementById("nitbgi2l").textContent = nitbgi2t;document.getElementById("nitbgi2").classList.add(nitbgi2r);}var myElementnitbgi2p = document.getElementById("nitbgi2p");if(myElementnitbgi2p){ document.getElementById("nitbgi2d").textContent = nitbgi2t;document.getElementById("nitbgi2p").classList.add(nitbgi2r);var a = document.getElementById('nitbgi2d');a.href = nitbgi2a;document.getElementById("nitbgi2r").textContent = nitbgi2c}
+
 let nitbhs1r="Gamedraco"; let nitbhs1c="Gamedraco"; let nitbhs1t="1:46.82"; let nitbhs1a=" https://youtu.be/fAiPo4JV37A ";var myElementnitbhs1 = document.getElementById("nitbhs1");if(myElementnitbhs1){ document.getElementById("nitbhs1l").textContent = nitbhs1t;document.getElementById("nitbhs1").classList.add(nitbhs1r);}var myElementnitbhs1p = document.getElementById("nitbhs1p");if(myElementnitbhs1p){ document.getElementById("nitbhs1d").textContent = nitbhs1t;document.getElementById("nitbhs1p").classList.add(nitbhs1r);var a = document.getElementById('nitbhs1d');a.href = nitbhs1a;document.getElementById("nitbhs1r").textContent = nitbhs1c}
+
 let nitblp1r="Gamedraco"; let nitblp1c="Gamedraco"; let nitblp1t="1:44.75"; let nitblp1a="https://youtu.be/I68owPTfZM0 ";var myElementnitblp1 = document.getElementById("nitblp1");if(myElementnitblp1){ document.getElementById("nitblp1l").textContent = nitblp1t;document.getElementById("nitblp1").classList.add(nitblp1r);}var myElementnitblp1p = document.getElementById("nitblp1p");if(myElementnitblp1p){ document.getElementById("nitblp1d").textContent = nitblp1t;document.getElementById("nitblp1p").classList.add(nitblp1r);var a = document.getElementById('nitblp1d');a.href = nitblp1a;document.getElementById("nitblp1r").textContent = nitblp1c}
+
 let nitblp2r="LazyComet"; let nitblp2c="Lazy Comet"; let nitblp2t="1:54.78"; let nitblp2a="https://www.twitch.tv/videos/1445009092";var myElementnitblp2 = document.getElementById("nitblp2");if(myElementnitblp2){ document.getElementById("nitblp2l").textContent = nitblp2t;document.getElementById("nitblp2").classList.add(nitblp2r);}var myElementnitblp2p = document.getElementById("nitblp2p");if(myElementnitblp2p){ document.getElementById("nitblp2d").textContent = nitblp2t;document.getElementById("nitblp2p").classList.add(nitblp2r);var a = document.getElementById('nitblp2d');a.href = nitblp2a;document.getElementById("nitblp2r").textContent = nitblp2c}
+
 let nitbli1r="Gamedraco"; let nitbli1c="Gamedraco"; let nitbli1t="1:39.56"; let nitbli1a="https://youtu.be/YByP8GRXSeA ";var myElementnitbli1 = document.getElementById("nitbli1");if(myElementnitbli1){ document.getElementById("nitbli1l").textContent = nitbli1t;document.getElementById("nitbli1").classList.add(nitbli1r);}var myElementnitbli1p = document.getElementById("nitbli1p");if(myElementnitbli1p){ document.getElementById("nitbli1d").textContent = nitbli1t;document.getElementById("nitbli1p").classList.add(nitbli1r);var a = document.getElementById('nitbli1d');a.href = nitbli1a;document.getElementById("nitbli1r").textContent = nitbli1c}
+
 let nitbli2r="LazyComet"; let nitbli2c="Lazy Comet"; let nitbli2t="1:46.06"; let nitbli2a="https://www.twitch.tv/videos/1441988245";var myElementnitbli2 = document.getElementById("nitbli2");if(myElementnitbli2){ document.getElementById("nitbli2l").textContent = nitbli2t;document.getElementById("nitbli2").classList.add(nitbli2r);}var myElementnitbli2p = document.getElementById("nitbli2p");if(myElementnitbli2p){ document.getElementById("nitbli2d").textContent = nitbli2t;document.getElementById("nitbli2p").classList.add(nitbli2r);var a = document.getElementById('nitbli2d');a.href = nitbli2a;document.getElementById("nitbli2r").textContent = nitbli2c}
+
 let nitbny1r="Gamedraco"; let nitbny1c="Gamedraco"; let nitbny1t="1:47.56"; let nitbny1a="https://youtu.be/UCFnKb_2a94 ";var myElementnitbny1 = document.getElementById("nitbny1");if(myElementnitbny1){ document.getElementById("nitbny1l").textContent = nitbny1t;document.getElementById("nitbny1").classList.add(nitbny1r);}var myElementnitbny1p = document.getElementById("nitbny1p");if(myElementnitbny1p){ document.getElementById("nitbny1d").textContent = nitbny1t;document.getElementById("nitbny1p").classList.add(nitbny1r);var a = document.getElementById('nitbny1d');a.href = nitbny1a;document.getElementById("nitbny1r").textContent = nitbny1c}
+
 let nitbny2r="LazyComet"; let nitbny2c="Lazy Comet"; let nitbny2t="1:48.75"; let nitbny2a="https://www.twitch.tv/videos/1445009093";var myElementnitbny2 = document.getElementById("nitbny2");if(myElementnitbny2){ document.getElementById("nitbny2l").textContent = nitbny2t;document.getElementById("nitbny2").classList.add(nitbny2r);}var myElementnitbny2p = document.getElementById("nitbny2p");if(myElementnitbny2p){ document.getElementById("nitbny2d").textContent = nitbny2t;document.getElementById("nitbny2p").classList.add(nitbny2r);var a = document.getElementById('nitbny2d');a.href = nitbny2a;document.getElementById("nitbny2r").textContent = nitbny2c}
+
 let nitbna1r="Gamedraco"; let nitbna1c="Gamedraco"; let nitbna1t="2:55.00"; let nitbna1a="https://youtu.be/KtsjVws5Py0";var myElementnitbna1 = document.getElementById("nitbna1");if(myElementnitbna1){ document.getElementById("nitbna1l").textContent = nitbna1t;document.getElementById("nitbna1").classList.add(nitbna1r);}var myElementnitbna1p = document.getElementById("nitbna1p");if(myElementnitbna1p){ document.getElementById("nitbna1d").textContent = nitbna1t;document.getElementById("nitbna1p").classList.add(nitbna1r);var a = document.getElementById('nitbna1d');a.href = nitbna1a;document.getElementById("nitbna1r").textContent = nitbna1c}
+
 let nitbna2r="LazyComet"; let nitbna2c="Lazy Comet"; let nitbna2t="3:15.76"; let nitbna2a="https://www.twitch.tv/videos/1441988246";var myElementnitbna2 = document.getElementById("nitbna2");if(myElementnitbna2){ document.getElementById("nitbna2l").textContent = nitbna2t;document.getElementById("nitbna2").classList.add(nitbna2r);}var myElementnitbna2p = document.getElementById("nitbna2p");if(myElementnitbna2p){ document.getElementById("nitbna2d").textContent = nitbna2t;document.getElementById("nitbna2p").classList.add(nitbna2r);var a = document.getElementById('nitbna2d');a.href = nitbna2a;document.getElementById("nitbna2r").textContent = nitbna2c}
+
 let nitbsg1r="Gamedraco"; let nitbsg1c="Gamedraco"; let nitbsg1t="1:40.23"; let nitbsg1a="https://youtu.be/lvZlF5owUho ";var myElementnitbsg1 = document.getElementById("nitbsg1");if(myElementnitbsg1){ document.getElementById("nitbsg1l").textContent = nitbsg1t;document.getElementById("nitbsg1").classList.add(nitbsg1r);}var myElementnitbsg1p = document.getElementById("nitbsg1p");if(myElementnitbsg1p){ document.getElementById("nitbsg1d").textContent = nitbsg1t;document.getElementById("nitbsg1p").classList.add(nitbsg1r);var a = document.getElementById('nitbsg1d');a.href = nitbsg1a;document.getElementById("nitbsg1r").textContent = nitbsg1c}
+
 let nitbsg2r="LazyComet"; let nitbsg2c="Lazy Comet"; let nitbsg2t="1:41.96"; let nitbsg2a="https://www.twitch.tv/videos/1445009094";var myElementnitbsg2 = document.getElementById("nitbsg2");if(myElementnitbsg2){ document.getElementById("nitbsg2l").textContent = nitbsg2t;document.getElementById("nitbsg2").classList.add(nitbsg2r);}var myElementnitbsg2p = document.getElementById("nitbsg2p");if(myElementnitbsg2p){ document.getElementById("nitbsg2d").textContent = nitbsg2t;document.getElementById("nitbsg2p").classList.add(nitbsg2r);var a = document.getElementById('nitbsg2d');a.href = nitbsg2a;document.getElementById("nitbsg2r").textContent = nitbsg2c}
+
 let nitbfe1r="Gamedraco"; let nitbfe1c="Gamedraco"; let nitbfe1t="1:38.63"; let nitbfe1a="https://youtu.be/8t21sBkPNSE ";var myElementnitbfe1 = document.getElementById("nitbfe1");if(myElementnitbfe1){ document.getElementById("nitbfe1l").textContent = nitbfe1t;document.getElementById("nitbfe1").classList.add(nitbfe1r);}var myElementnitbfe1p = document.getElementById("nitbfe1p");if(myElementnitbfe1p){ document.getElementById("nitbfe1d").textContent = nitbfe1t;document.getElementById("nitbfe1p").classList.add(nitbfe1r);var a = document.getElementById('nitbfe1d');a.href = nitbfe1a;document.getElementById("nitbfe1r").textContent = nitbfe1c}
+
 let nitbfe2r="LazyComet"; let nitbfe2c="Lazy Comet"; let nitbfe2t="1:39.82"; let nitbfe2a="https://www.twitch.tv/videos/1445009096";var myElementnitbfe2 = document.getElementById("nitbfe2");if(myElementnitbfe2){ document.getElementById("nitbfe2l").textContent = nitbfe2t;document.getElementById("nitbfe2").classList.add(nitbfe2r);}var myElementnitbfe2p = document.getElementById("nitbfe2p");if(myElementnitbfe2p){ document.getElementById("nitbfe2d").textContent = nitbfe2t;document.getElementById("nitbfe2p").classList.add(nitbfe2r);var a = document.getElementById('nitbfe2d');a.href = nitbfe2a;document.getElementById("nitbfe2r").textContent = nitbfe2c}
+
 let nitbtp1r="inphlox"; let nitbtp1c="inphlox"; let nitbtp1t="1:38.89"; let nitbtp1a="https://youtu.be/ZUklIegFBIk";var myElementnitbtp1 = document.getElementById("nitbtp1");if(myElementnitbtp1){ document.getElementById("nitbtp1l").textContent = nitbtp1t;document.getElementById("nitbtp1").classList.add(nitbtp1r);}var myElementnitbtp1p = document.getElementById("nitbtp1p");if(myElementnitbtp1p){ document.getElementById("nitbtp1d").textContent = nitbtp1t;document.getElementById("nitbtp1p").classList.add(nitbtp1r);var a = document.getElementById('nitbtp1d');a.href = nitbtp1a;document.getElementById("nitbtp1r").textContent = nitbtp1c}
+
 let nitbtp2r="Gamedraco"; let nitbtp2c="Gamedraco"; let nitbtp2t="1:40.46"; let nitbtp2a="https://youtu.be/PAOk3ePF2fc";var myElementnitbtp2 = document.getElementById("nitbtp2");if(myElementnitbtp2){ document.getElementById("nitbtp2l").textContent = nitbtp2t;document.getElementById("nitbtp2").classList.add(nitbtp2r);}var myElementnitbtp2p = document.getElementById("nitbtp2p");if(myElementnitbtp2p){ document.getElementById("nitbtp2d").textContent = nitbtp2t;document.getElementById("nitbtp2p").classList.add(nitbtp2r);var a = document.getElementById('nitbtp2d');a.href = nitbtp2a;document.getElementById("nitbtp2r").textContent = nitbtp2c}
+
 let nitbtp3r="LazyComet"; let nitbtp3c="Lazy Comet"; let nitbtp3t="1:41.99"; let nitbtp3a="https://www.twitch.tv/videos/1484363654";var myElementnitbtp3 = document.getElementById("nitbtp3");if(myElementnitbtp3){ document.getElementById("nitbtp3l").textContent = nitbtp3t;document.getElementById("nitbtp3").classList.add(nitbtp3r);}var myElementnitbtp3p = document.getElementById("nitbtp3p");if(myElementnitbtp3p){ document.getElementById("nitbtp3d").textContent = nitbtp3t;document.getElementById("nitbtp3p").classList.add(nitbtp3r);var a = document.getElementById('nitbtp3d');a.href = nitbtp3a;document.getElementById("nitbtp3r").textContent = nitbtp3c}
+
 let nitbvc1r="Gamedraco"; let nitbvc1c="Gamedraco"; let nitbvc1t="1:24.93"; let nitbvc1a="https://youtu.be/65rszTrkKgM";var myElementnitbvc1 = document.getElementById("nitbvc1");if(myElementnitbvc1){ document.getElementById("nitbvc1l").textContent = nitbvc1t;document.getElementById("nitbvc1").classList.add(nitbvc1r);}var myElementnitbvc1p = document.getElementById("nitbvc1p");if(myElementnitbvc1p){ document.getElementById("nitbvc1d").textContent = nitbvc1t;document.getElementById("nitbvc1p").classList.add(nitbvc1r);var a = document.getElementById('nitbvc1d');a.href = nitbvc1a;document.getElementById("nitbvc1r").textContent = nitbvc1c}
+
 let nitbvc2r="LazyComet"; let nitbvc2c="Lazy Comet"; let nitbvc2t="1:30.99"; let nitbvc2a="https://www.twitch.tv/videos/1445009090";var myElementnitbvc2 = document.getElementById("nitbvc2");if(myElementnitbvc2){ document.getElementById("nitbvc2l").textContent = nitbvc2t;document.getElementById("nitbvc2").classList.add(nitbvc2r);}var myElementnitbvc2p = document.getElementById("nitbvc2p");if(myElementnitbvc2p){ document.getElementById("nitbvc2d").textContent = nitbvc2t;document.getElementById("nitbvc2p").classList.add(nitbvc2r);var a = document.getElementById('nitbvc2d');a.href = nitbvc2a;document.getElementById("nitbvc2r").textContent = nitbvc2c}
+
+let nittac1r="JBFcrasher"; let nittac1c="JBFcrasher"; let nittac1t="1:30.23"; let nittac1a="https://youtu.be/SEhjQ5LjYbk";var myElementnittac1 = document.getElementById("nittac1");if(myElementnittac1){ document.getElementById("nittac1l").textContent = nittac1t;document.getElementById("nittac1").classList.add(nittac1r);}var myElementnittac1p = document.getElementById("nittac1p");if(myElementnittac1p){ document.getElementById("nittac1d").textContent = nittac1t;document.getElementById("nittac1p").classList.add(nittac1r);var a = document.getElementById('nittac1d');a.href = nittac1a;document.getElementById("nittac1r").textContent = nittac1c}
+
 let nittgi1r="inphlox"; let nittgi1c="inphlox"; let nittgi1t="1:25.73"; let nittgi1a="https://youtu.be/PSKu266A-2A";var myElementnittgi1 = document.getElementById("nittgi1");if(myElementnittgi1){ document.getElementById("nittgi1l").textContent = nittgi1t;document.getElementById("nittgi1").classList.add(nittgi1r);}var myElementnittgi1p = document.getElementById("nittgi1p");if(myElementnittgi1p){ document.getElementById("nittgi1d").textContent = nittgi1t;document.getElementById("nittgi1p").classList.add(nittgi1r);var a = document.getElementById('nittgi1d');a.href = nittgi1a;document.getElementById("nittgi1r").textContent = nittgi1c}
+
 let pcarli1r="AxlThunder"; let pcarli1c="AxlThunder"; let pcarli1t="1:36.86"; let pcarli1a="https://www.youtube.com/watch?v=iHgbVQKXUWo";var myElementpcarli1 = document.getElementById("pcarli1");if(myElementpcarli1){ document.getElementById("pcarli1l").textContent = pcarli1t;document.getElementById("pcarli1").classList.add(pcarli1r);}var myElementpcarli1p = document.getElementById("pcarli1p");if(myElementpcarli1p){ document.getElementById("pcarli1d").textContent = pcarli1t;document.getElementById("pcarli1p").classList.add(pcarli1r);var a = document.getElementById('pcarli1d');a.href = pcarli1a;document.getElementById("pcarli1r").textContent = pcarli1c}
+
 let pcarvc1r="WeenieWhistle"; let pcarvc1c="WeenieWhistle"; let pcarvc1t="1:19.43"; let pcarvc1a="https://youtu.be/rl6L6onWTyo";var myElementpcarvc1 = document.getElementById("pcarvc1");if(myElementpcarvc1){ document.getElementById("pcarvc1l").textContent = pcarvc1t;document.getElementById("pcarvc1").classList.add(pcarvc1r);}var myElementpcarvc1p = document.getElementById("pcarvc1p");if(myElementpcarvc1p){ document.getElementById("pcarvc1d").textContent = pcarvc1t;document.getElementById("pcarvc1p").classList.add(pcarvc1r);var a = document.getElementById('pcarvc1d');a.href = pcarvc1a;document.getElementById("pcarvc1r").textContent = pcarvc1c}
+
 let pcarvc2r="AxlThunder"; let pcarvc2c="AxlThunder"; let pcarvc2t="1:19.89"; let pcarvc2a="https://www.youtube.com/watch?v=Sl1HWo1ZihE";var myElementpcarvc2 = document.getElementById("pcarvc2");if(myElementpcarvc2){ document.getElementById("pcarvc2l").textContent = pcarvc2t;document.getElementById("pcarvc2").classList.add(pcarvc2r);}var myElementpcarvc2p = document.getElementById("pcarvc2p");if(myElementpcarvc2p){ document.getElementById("pcarvc2d").textContent = pcarvc2t;document.getElementById("pcarvc2p").classList.add(pcarvc2r);var a = document.getElementById('pcarvc2d');a.href = pcarvc2a;document.getElementById("pcarvc2r").textContent = pcarvc2c}
+
 let pcbfac1r="AxlThunder"; let pcbfac1c="AxlThunder"; let pcbfac1t="1:12.76"; let pcbfac1a="https://www.youtube.com/watch?v=eswoTMGZgzo&t=194s";var myElementpcbfac1 = document.getElementById("pcbfac1");if(myElementpcbfac1){ document.getElementById("pcbfac1l").textContent = pcbfac1t;document.getElementById("pcbfac1").classList.add(pcbfac1r);}var myElementpcbfac1p = document.getElementById("pcbfac1p");if(myElementpcbfac1p){ document.getElementById("pcbfac1d").textContent = pcbfac1t;document.getElementById("pcbfac1p").classList.add(pcbfac1r);var a = document.getElementById('pcbfac1d');a.href = pcbfac1a;document.getElementById("pcbfac1r").textContent = pcbfac1c}
+
 let pcctgi1r="AxlThunder"; let pcctgi1c="AxlThunder"; let pcctgi1t="1:17.39"; let pcctgi1a="https://www.youtube.com/watch?v=SIO4W85xzmg";var myElementpcctgi1 = document.getElementById("pcctgi1");if(myElementpcctgi1){ document.getElementById("pcctgi1l").textContent = pcctgi1t;document.getElementById("pcctgi1").classList.add(pcctgi1r);}var myElementpcctgi1p = document.getElementById("pcctgi1p");if(myElementpcctgi1p){ document.getElementById("pcctgi1d").textContent = pcctgi1t;document.getElementById("pcctgi1p").classList.add(pcctgi1r);var a = document.getElementById('pcctgi1d');a.href = pcctgi1a;document.getElementById("pcctgi1r").textContent = pcctgi1c}
+
 let pcrhli1r="AxlThunder"; let pcrhli1c="AxlThunder"; let pcrhli1t="1:26.86"; let pcrhli1a="https://www.youtube.com/watch?v=M5Fn4Lfc4Eo";var myElementpcrhli1 = document.getElementById("pcrhli1");if(myElementpcrhli1){ document.getElementById("pcrhli1l").textContent = pcrhli1t;document.getElementById("pcrhli1").classList.add(pcrhli1r);}var myElementpcrhli1p = document.getElementById("pcrhli1p");if(myElementpcrhli1p){ document.getElementById("pcrhli1d").textContent = pcrhli1t;document.getElementById("pcrhli1p").classList.add(pcrhli1r);var a = document.getElementById('pcrhli1d');a.href = pcrhli1a;document.getElementById("pcrhli1r").textContent = pcrhli1c}
+
 let pcrbli1r="AxlThunder"; let pcrbli1c="AxlThunder"; let pcrbli1t="1:31.89"; let pcrbli1a="https://www.youtube.com/watch?v=V1flcTZ8TCw";var myElementpcrbli1 = document.getElementById("pcrbli1");if(myElementpcrbli1){ document.getElementById("pcrbli1l").textContent = pcrbli1t;document.getElementById("pcrbli1").classList.add(pcrbli1r);}var myElementpcrbli1p = document.getElementById("pcrbli1p");if(myElementpcrbli1p){ document.getElementById("pcrbli1d").textContent = pcrbli1t;document.getElementById("pcrbli1p").classList.add(pcrbli1r);var a = document.getElementById('pcrbli1d');a.href = pcrbli1a;document.getElementById("pcrbli1r").textContent = pcrbli1c}
+
 let pctblp1r="AxlThunder"; let pctblp1c="AxlThunder"; let pctblp1t="1:38.79"; let pctblp1a="https://www.youtube.com/watch?v=sTNq-KkcWXo";var myElementpctblp1 = document.getElementById("pctblp1");if(myElementpctblp1){ document.getElementById("pctblp1l").textContent = pctblp1t;document.getElementById("pctblp1").classList.add(pctblp1r);}var myElementpctblp1p = document.getElementById("pctblp1p");if(myElementpctblp1p){ document.getElementById("pctblp1d").textContent = pctblp1t;document.getElementById("pctblp1p").classList.add(pctblp1r);var a = document.getElementById('pctblp1d');a.href = pctblp1a;document.getElementById("pctblp1r").textContent = pctblp1c}
+
 let pctbli1r="AxlThunder"; let pctbli1c="AxlThunder"; let pctbli1t="1:33.32"; let pctbli1a="https://www.youtube.com/watch?v=EpnQNmZM6xU";var myElementpctbli1 = document.getElementById("pctbli1");if(myElementpctbli1){ document.getElementById("pctbli1l").textContent = pctbli1t;document.getElementById("pctbli1").classList.add(pctbli1r);}var myElementpctbli1p = document.getElementById("pctbli1p");if(myElementpctbli1p){ document.getElementById("pctbli1d").textContent = pctbli1t;document.getElementById("pctbli1p").classList.add(pctbli1r);var a = document.getElementById('pctbli1d');a.href = pctbli1a;document.getElementById("pctbli1r").textContent = pctbli1c}
+
 let psbfcd1r="Gamedraco"; let psbfcd1c="Gamedraco"; let psbfcd1t="1:36.46"; let psbfcd1a="https://www.youtube.com/watch?v=bs_8DChad4k";var myElementpsbfcd1 = document.getElementById("psbfcd1");if(myElementpsbfcd1){ document.getElementById("psbfcd1l").textContent = psbfcd1t;document.getElementById("psbfcd1").classList.add(psbfcd1r);}var myElementpsbfcd1p = document.getElementById("psbfcd1p");if(myElementpsbfcd1p){ document.getElementById("psbfcd1d").textContent = psbfcd1t;document.getElementById("psbfcd1p").classList.add(psbfcd1r);var a = document.getElementById('psbfcd1d');a.href = psbfcd1a;document.getElementById("psbfcd1r").textContent = psbfcd1c}
+
 let psbfcc1r="Gamedraco"; let psbfcc1c="Gamedraco"; let psbfcc1t="1:51.90"; let psbfcc1a="https://www.youtube.com/watch?v=Y6w1d2KvQRs";var myElementpsbfcc1 = document.getElementById("psbfcc1");if(myElementpsbfcc1){ document.getElementById("psbfcc1l").textContent = psbfcc1t;document.getElementById("psbfcc1").classList.add(psbfcc1r);}var myElementpsbfcc1p = document.getElementById("psbfcc1p");if(myElementpsbfcc1p){ document.getElementById("psbfcc1d").textContent = psbfcc1t;document.getElementById("psbfcc1p").classList.add(psbfcc1r);var a = document.getElementById('psbfcc1d');a.href = psbfcc1a;document.getElementById("psbfcc1r").textContent = psbfcc1c}
+
 let psbfhs1r="Gamedraco"; let psbfhs1c="Gamedraco"; let psbfhs1t="1:34.58"; let psbfhs1a="https://www.youtube.com/watch?v=IativbK__pE";var myElementpsbfhs1 = document.getElementById("psbfhs1");if(myElementpsbfhs1){ document.getElementById("psbfhs1l").textContent = psbfhs1t;document.getElementById("psbfhs1").classList.add(psbfhs1r);}var myElementpsbfhs1p = document.getElementById("psbfhs1p");if(myElementpsbfhs1p){ document.getElementById("psbfhs1d").textContent = psbfhs1t;document.getElementById("psbfhs1p").classList.add(psbfhs1r);var a = document.getElementById('psbfhs1d');a.href = psbfhs1a;document.getElementById("psbfhs1r").textContent = psbfhs1c}
+
 let psbflp1r="Gamedraco"; let psbflp1c="Gamedraco"; let psbflp1t="1:36.06"; let psbflp1a="https://www.youtube.com/watch?v=90lTo1IZB-I";var myElementpsbflp1 = document.getElementById("psbflp1");if(myElementpsbflp1){ document.getElementById("psbflp1l").textContent = psbflp1t;document.getElementById("psbflp1").classList.add(psbflp1r);}var myElementpsbflp1p = document.getElementById("psbflp1p");if(myElementpsbflp1p){ document.getElementById("psbflp1d").textContent = psbflp1t;document.getElementById("psbflp1p").classList.add(psbflp1r);var a = document.getElementById('psbflp1d');a.href = psbflp1a;document.getElementById("psbflp1r").textContent = psbflp1c}
+
 let psbfli1r="Gamedraco"; let psbfli1c="Gamedraco"; let psbfli1t="1:30.25"; let psbfli1a="https://www.youtube.com/watch?v=ImTbmIHxyEU";var myElementpsbfli1 = document.getElementById("psbfli1");if(myElementpsbfli1){ document.getElementById("psbfli1l").textContent = psbfli1t;document.getElementById("psbfli1").classList.add(psbfli1r);}var myElementpsbfli1p = document.getElementById("psbfli1p");if(myElementpsbfli1p){ document.getElementById("psbfli1d").textContent = psbfli1t;document.getElementById("psbfli1p").classList.add(psbfli1r);var a = document.getElementById('psbfli1d');a.href = psbfli1a;document.getElementById("psbfli1r").textContent = psbfli1c}
+
 let psbfny1r="Gamedraco"; let psbfny1c="Gamedraco"; let psbfny1t="1:34.08"; let psbfny1a="https://www.youtube.com/watch?v=n1kmtuULmU0";var myElementpsbfny1 = document.getElementById("psbfny1");if(myElementpsbfny1){ document.getElementById("psbfny1l").textContent = psbfny1t;document.getElementById("psbfny1").classList.add(psbfny1r);}var myElementpsbfny1p = document.getElementById("psbfny1p");if(myElementpsbfny1p){ document.getElementById("psbfny1d").textContent = psbfny1t;document.getElementById("psbfny1p").classList.add(psbfny1r);var a = document.getElementById('psbfny1d');a.href = psbfny1a;document.getElementById("psbfny1r").textContent = psbfny1c}
+
 let psbfna1r="Gamedraco"; let psbfna1c="Gamedraco"; let psbfna1t="2:39.41"; let psbfna1a="https://www.youtube.com/watch?v=913lTMfkt8c";var myElementpsbfna1 = document.getElementById("psbfna1");if(myElementpsbfna1){ document.getElementById("psbfna1l").textContent = psbfna1t;document.getElementById("psbfna1").classList.add(psbfna1r);}var myElementpsbfna1p = document.getElementById("psbfna1p");if(myElementpsbfna1p){ document.getElementById("psbfna1d").textContent = psbfna1t;document.getElementById("psbfna1p").classList.add(psbfna1r);var a = document.getElementById('psbfna1d');a.href = psbfna1a;document.getElementById("psbfna1r").textContent = psbfna1c}
+
 let psbfsg1r="Gamedraco"; let psbfsg1c="Gamedraco"; let psbfsg1t="1:29.68"; let psbfsg1a="https://www.youtube.com/watch?v=ZJXUIaFWEkQ";var myElementpsbfsg1 = document.getElementById("psbfsg1");if(myElementpsbfsg1){ document.getElementById("psbfsg1l").textContent = psbfsg1t;document.getElementById("psbfsg1").classList.add(psbfsg1r);}var myElementpsbfsg1p = document.getElementById("psbfsg1p");if(myElementpsbfsg1p){ document.getElementById("psbfsg1d").textContent = psbfsg1t;document.getElementById("psbfsg1p").classList.add(psbfsg1r);var a = document.getElementById('psbfsg1d');a.href = psbfsg1a;document.getElementById("psbfsg1r").textContent = psbfsg1c}
+
 let psbffe1r="Gamedraco"; let psbffe1c="Gamedraco"; let psbffe1t="1:26.61"; let psbffe1a="https://www.youtube.com/watch?v=rNBWfWADI20";var myElementpsbffe1 = document.getElementById("psbffe1");if(myElementpsbffe1){ document.getElementById("psbffe1l").textContent = psbffe1t;document.getElementById("psbffe1").classList.add(psbffe1r);}var myElementpsbffe1p = document.getElementById("psbffe1p");if(myElementpsbffe1p){ document.getElementById("psbffe1d").textContent = psbffe1t;document.getElementById("psbffe1p").classList.add(psbffe1r);var a = document.getElementById('psbffe1d');a.href = psbffe1a;document.getElementById("psbffe1r").textContent = psbffe1c}
+
 let psbftp1r="Gamedraco"; let psbftp1c="Gamedraco"; let psbftp1t="1:30.81"; let psbftp1a="https://www.youtube.com/watch?v=PVeoY6dmAvk";var myElementpsbftp1 = document.getElementById("psbftp1");if(myElementpsbftp1){ document.getElementById("psbftp1l").textContent = psbftp1t;document.getElementById("psbftp1").classList.add(psbftp1r);}var myElementpsbftp1p = document.getElementById("psbftp1p");if(myElementpsbftp1p){ document.getElementById("psbftp1d").textContent = psbftp1t;document.getElementById("psbftp1p").classList.add(psbftp1r);var a = document.getElementById('psbftp1d');a.href = psbftp1a;document.getElementById("psbftp1r").textContent = psbftp1c}
+
 let psbfvc1r="Gamedraco"; let psbfvc1c="Gamedraco"; let psbfvc1t="1:18.63"; let psbfvc1a="https://www.youtube.com/watch?v=rs_-LBXaIt4";var myElementpsbfvc1 = document.getElementById("psbfvc1");if(myElementpsbfvc1){ document.getElementById("psbfvc1l").textContent = psbfvc1t;document.getElementById("psbfvc1").classList.add(psbfvc1r);}var myElementpsbfvc1p = document.getElementById("psbfvc1p");if(myElementpsbfvc1p){ document.getElementById("psbfvc1d").textContent = psbfvc1t;document.getElementById("psbfvc1p").classList.add(psbfvc1r);var a = document.getElementById('psbfvc1d');a.href = psbfvc1a;document.getElementById("psbfvc1r").textContent = psbfvc1c}
+
 let psrhac1r="Gamedraco"; let psrhac1c="Gamedraco"; let psrhac1t="1:36.42"; let psrhac1a="https://www.youtube.com/watch?v=zGz7anGg2co";var myElementpsrhac1 = document.getElementById("psrhac1");if(myElementpsrhac1){ document.getElementById("psrhac1l").textContent = psrhac1t;document.getElementById("psrhac1").classList.add(psrhac1r);}var myElementpsrhac1p = document.getElementById("psrhac1p");if(myElementpsrhac1p){ document.getElementById("psrhac1d").textContent = psrhac1t;document.getElementById("psrhac1p").classList.add(psrhac1r);var a = document.getElementById('psrhac1d');a.href = psrhac1a;document.getElementById("psrhac1r").textContent = psrhac1c}
+
 let psrhgi1r="Gamedraco"; let psrhgi1c="Gamedraco"; let psrhgi1t="1:31.18"; let psrhgi1a="https://www.youtube.com/watch?v=koiaHQzfUGw";var myElementpsrhgi1 = document.getElementById("psrhgi1");if(myElementpsrhgi1){ document.getElementById("psrhgi1l").textContent = psrhgi1t;document.getElementById("psrhgi1").classList.add(psrhgi1r);}var myElementpsrhgi1p = document.getElementById("psrhgi1p");if(myElementpsrhgi1p){ document.getElementById("psrhgi1d").textContent = psrhgi1t;document.getElementById("psrhgi1p").classList.add(psrhgi1r);var a = document.getElementById('psrhgi1d');a.href = psrhgi1a;document.getElementById("psrhgi1r").textContent = psrhgi1c}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
