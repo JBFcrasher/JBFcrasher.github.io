@@ -416,7 +416,21 @@ h1.guide {
  padding: 10px;
  align:center;
 }
-
+h2.guide {
+ color:white;
+ padding: 10px;
+ align:center;
+}
+h3.guide {
+ color:white;
+ padding: 10px;
+ align:center;
+}
+h4.guide {
+ color:white;
+ padding: 10px;
+ align:center;
+}
 .unverified {
      font-weight:italic;
 }
