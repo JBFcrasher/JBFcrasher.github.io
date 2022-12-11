@@ -117,12 +117,12 @@ a.links {
  img {
      display:inline-block;
 }
- @page {
+ /*@page {
      margin-bottom: 5pt;
      margin-top: 5pt;
      margin-left: 50pt;
      margin-right: 50pt;
-}
+}*/
  .head1 {
      display: block;
      font-family: Calibri;
