@@ -410,26 +410,30 @@ a.links {
      font-weight:bold;
 }
 
-
+p.guide {
+ color:white;
+ padding: 10px;
+ text-align:center;
+}
 h1.guide {
  color:white;
  padding: 10px;
- align:center;
+ text-align:center;
 }
 h2.guide {
  color:white;
  padding: 10px;
- align:center;
+ text-align:center;
 }
 h3.guide {
  color:white;
  padding: 10px;
- align:center;
+ text-align:center;
 }
 h4.guide {
  color:white;
  padding: 10px;
- align:center;
+ text-align:center;
 }
 .unverified {
      font-weight:italic;
