@@ -9,7 +9,7 @@ a.links {
      color:red;
      font-family:serif:
 }
- h1 {
+ /*h1 {
      display: block;
      font-family: Calibri;
      font-size: 24pt;
@@ -68,7 +68,7 @@ a.links {
      padding-top: 0;
      text-align: center;
      color:white;
-}
+}*/
  a .hover-img {
      position:relative;
      display: inline-block;
@@ -411,7 +411,9 @@ a.links {
 }
 
 
-
+h1.guide {
+ padding: 10px;
+}
 
 .unverified {
      font-weight:italic;
