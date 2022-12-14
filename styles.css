@@ -9,6 +9,10 @@ a.links {
      color:red;
      font-family:serif:
 }
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
  /*h1 {
      display: block;
      font-family: Calibri;
