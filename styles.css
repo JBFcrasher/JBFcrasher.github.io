@@ -9,6 +9,13 @@ a.links {
      color:red;
      font-family:serif:
 }
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 .navbar a {
   float: left;
   display: block;
