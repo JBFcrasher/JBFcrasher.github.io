@@ -17,6 +17,7 @@ a.links {
   width: 100%;
   text-align: center;
   display: inline-block;
+  list-style-type: none;
 }
 .navbar a {
   float: left;
