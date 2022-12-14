@@ -17,27 +17,19 @@ a.links {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  margin:auto;
 }
 .navbar a:hover {
   background: #ddd;
   color: red;
 }
- /*h1 {
-     display: block;
-     font-family: Calibri;
+ h1 {
      font-size: 24pt;
      line-height: 1.08;
-     margin-left: 0;
-     margin-right: 0;
-     margin-top: 0;
-     padding-bottom: 0;
-     padding-left: 0;
-     padding-right: 0;
-     padding-top: 0;
      text-align: center;
      color:white;
 }
- h2 {
+ /*h2 {
      display: block;
      font-family: Calibri;
      font-size: 20pt;
