@@ -20,7 +20,7 @@ a.links {
   list-style-type: none;
 }
 .navbar a {
-  float: left;
+  /*float: left;*/
   display: block;
   color: red;
   text-align: center;
