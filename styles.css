@@ -32,6 +32,8 @@ a.links {
   background: #5A5A5A;
   color: red;
 }
+.list{
+}
 .button {
   color:black;
   border: none;
@@ -128,7 +130,7 @@ a.links {
      font-family: calibri;
      color:white;
      text-indent: 40px;
-	 /*margin: 5px;*/
+	 margin: 5px;
 }
  ul{
      display: inline-block;
