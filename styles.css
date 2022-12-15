@@ -112,12 +112,12 @@ a.links {
      font-size: 12pt;
      font-family: calibri;
      color:white;
-     padding-left:40px;
+     /*padding-left:40px;*/
 }
  li{
      font-size: 12pt;
      font-family: calibri;
-     padding-left:40px;
+     /*padding-left:40px;*/
 }
  i{
      display: inline-block;
@@ -127,7 +127,7 @@ a.links {
      text-indent: 40px;
 }
  ul {
-     padding-left: 10px;
+     /*padding-left: 10px;*/
 }
  img {
      display:inline-block;
