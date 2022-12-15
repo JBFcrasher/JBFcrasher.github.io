@@ -128,6 +128,7 @@ a.links {
      font-family: calibri;
      color:white;
      text-indent: 40px;
+	 margin:0;
 }
  ul{
      display: inline-block;
@@ -449,7 +450,7 @@ a.links {
 
 p.guide {
  color:white;
- /*padding: 3px;*/
+ padding: 3px;
  text-align:center;
 }
 h1.guide {
