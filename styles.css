@@ -42,6 +42,18 @@ a.links {
   font-size: 16px;
   margin: 4px 2px;
 }
+.easybutton {
+	background-color: #0000ff;
+}
+.easybutton {
+	background-color: #eecc22;
+}
+.easybutton {
+	background-color: #ee1100;
+}
+.easybutton {
+	background-color: #00cc66;
+}
 
  h1 {
      font-size: 24pt;
