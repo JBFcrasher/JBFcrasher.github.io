@@ -149,7 +149,7 @@ a.links {
      font-size: 12pt;
      font-family: calibri;
      color:white;
-     text-indent: 40px;
+    /* text-indent: 40px;*/
 }
  ul {
      /*padding-left: 10px;*/
