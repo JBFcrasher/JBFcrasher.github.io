@@ -57,7 +57,7 @@ a.links {
 
  h1 {
      font-size: 24pt;
-     line-height: 1.08;
+     /*line-height: 1.08;*/
      text-align: center;
      color:white;
 }
@@ -449,7 +449,7 @@ a.links {
 
 p.guide {
  color:white;
- padding: 3px;
+ /*padding: 3px;*/
  text-align:center;
 }
 h1.guide {
