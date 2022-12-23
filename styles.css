@@ -488,8 +488,9 @@ h4.guide {
   animation: rainbow-animation 35s linear infinite;
 }
 
-@keyframes rainbow-animation {
+/*@keyframes rainbow-animation {
     to {
         background-position: 4500vh;
     }
 }
+*/
