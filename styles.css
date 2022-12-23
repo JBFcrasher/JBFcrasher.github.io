@@ -407,7 +407,7 @@ a.links {
 .AxlThunder {
 	--main:lightgray;
 	--secondary:pink;
-     color:--main;
+     color:var(--main);
      background-color:#0041cc;
      font-weight:bold;
 	animation: color-change 1s infinite;
@@ -420,7 +420,7 @@ a.links {
 .JBFcrasher {
      --main:#00f0f0;
 	--secondary:blue;
-	color:--main;
+	color:var(--main);
      background-color:darkred;
      font-weight:bold;
 	animation: color-change 1s infinite;
@@ -485,7 +485,7 @@ h4.guide {
      font-weight:italic;
 }
 @keyframes color-change {
-  0% { color: --main; }
-  50% { color: --secondary; }
-  100% { color: --main; }
+  0% { color: var(--main); }
+  50% { color: var(--secondary); }
+  100% { color: var(--main); }
 }
