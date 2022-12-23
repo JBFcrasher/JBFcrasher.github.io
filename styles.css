@@ -441,7 +441,8 @@ a.links {
      background-color:var(--background-JBFcrasher);
      font-weight:bold;
      --main:var(--text-JBFcrasher);
-	animation: color-change 1s infinite;
+	--secondary:black;
+	animation: color-change 5s infinite;
 }
 .inphlox {
       color:var(--text-inphlox);
