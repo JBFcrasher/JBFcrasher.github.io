@@ -420,18 +420,18 @@ a.links {
      font-weight:bold;
 }*/
 .test {
-     color:coral;
-     background-color:red;
+      color:var(--text-test);
+     background-color:var(--background-test);
      font-weight:bold;
 }
 .AxlThunder {
-     color:lightgray;
-     background-color:#0041cc;
+      color:var(--text-AxlThunder);
+     background-color:var(--background-AxlThunder);
      font-weight:bold;
 }
 .WeenieWhistle {
-     color:#39FF14;
-     background-color:black;
+      color:var(--text-WeenieWhistle);
+     background-color:var(--background-WeenieWhistle);
      font-weight:bold;
 }
 .JBFcrasher {
@@ -440,23 +440,23 @@ a.links {
      font-weight:bold;
 }
 .inphlox {
-     color:white;
-     background-color:#DF00FF;
+      color:var(--text-inphlox);
+     background-color:var(--background-inphlox);
      font-weight:bold;
 }
 .Gamedraco {
-     color:#555500;
-     background-color:#FFFF00;
+      color:var(--text-Gamedraco);
+     background-color:var(--background-Gamedraco);
      font-weight:bold;
 }
 .LazyComet {
-     color:black;
-     background-color:#FF8229;
+      color:var(--text-LazyComet);
+     background-color:var(--background-LazyComet);
      font-weight:bold;
 }
 .Oxylen {
-     color:white;
-     background-color:#30D5C8;
+      color:var(--text-Oxylen);
+     background-color:var(--background-Oxylen);
      font-weight:bold;
 }
 #n64tbki {
