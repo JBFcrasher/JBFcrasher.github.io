@@ -479,7 +479,7 @@ h4.guide {
      font-weight:italic;
 }
 .fancy{
-	background: linear-gradient(-45deg, red, red, blue, blue);
+	background: linear-gradient(-45deg, red, red, yellow, yellow);
 	background-size: 300%;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
