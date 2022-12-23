@@ -405,9 +405,12 @@ a.links {
      font-weight:bold;
 }
 .AxlThunder {
-     color:lightgray;
+	--main:lightgray;
+	--secondary:pink;
+     color:--main;
      background-color:#0041cc;
      font-weight:bold;
+	animation: color-change 1s infinite;
 }
 .WeenieWhistle {
      color:#39FF14;
@@ -415,9 +418,12 @@ a.links {
      font-weight:bold;
 }
 .JBFcrasher {
-     color:#00f0f0;
+     --main:#00f0f0;
+	--secondary:blue;
+	color:--main;
      background-color:darkred;
      font-weight:bold;
+	animation: color-change 1s infinite;
 }
 .inphlox {
      color:white;
@@ -477,4 +483,9 @@ h4.guide {
 }
 .unverified {
      font-weight:italic;
+}
+@keyframes color-change {
+  0% { color: --main; }
+  50% { color: --secondary; }
+  100% { color: --main; }
 }
