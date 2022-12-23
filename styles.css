@@ -1,3 +1,23 @@
+:root{
+--text-test:coral;
+--background-test:red;
+--text-AxlThunder:lightgray;
+--background-AxlThunder:#0041cc;
+--text-WeenieWhistle:lightgray;
+--background-WeenieWhistle:#39FF14;
+--text-JBFcrasher:#00f0f0;
+--background-JBFcrasher:darkred;
+--text-inphlox:white;
+--background-inphlox:#DF00FF;
+--text-Gamedraco:#555500;
+--background-Gamedraco:#FFFF00;
+--text-LazyComet:black;
+--background-LazyComet:#FF8229;
+--text-Oxylen:white;
+--background-LazyComet:#30D5C8;}
+
+
+
 body {
      background-color: black;
 }
@@ -405,12 +425,9 @@ a.links {
      font-weight:bold;
 }
 .AxlThunder {
-	--main:lightgray;
-	--secondary:pink;
-     color:var(--main);
+     color:lightgray;
      background-color:#0041cc;
      font-weight:bold;
-	animation: color-change 1s infinite;
 }
 .WeenieWhistle {
      color:#39FF14;
@@ -418,12 +435,9 @@ a.links {
      font-weight:bold;
 }
 .JBFcrasher {
-     --main:#00f0f0;
-	--secondary:blue;
-	color:var(--main);
-     background-color:darkred;
+     color:var(--text-JBFcrasher);
+     background-color:var(--background-JBFcrasher);
      font-weight:bold;
-	animation: color-change 1s infinite;
 }
 .inphlox {
      color:white;
@@ -440,6 +454,11 @@ a.links {
      background-color:#FF8229;
      font-weight:bold;
 }
+.Oxylen {
+     color:white;
+     background-color:#30D5C8;
+     font-weight:bold;
+}
 #n64tbki {
      .AxlThunder;
 }
@@ -450,11 +469,7 @@ a.links {
      background-color:#FF8229;
      font-weight:bold;
 }
-.Oxylen {
-     color:white;
-     background-color:#30D5C8;
-     font-weight:bold;
-}
+
 
 p.guide {
  color:white;
