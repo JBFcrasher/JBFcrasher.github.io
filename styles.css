@@ -481,7 +481,7 @@ h4.guide {
 .fancy {
   text-align: center;
   
-  background: linear-gradient(to right, black 20%, black 40%, red 60%, black 80%);
+  background: linear-gradient(to right, red 20%, red 40%, black 60%, red 80%);
   background-size: 200% auto;
   
   color: #000;
