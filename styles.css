@@ -414,11 +414,11 @@ a.links {
      background-color:black;
      font-weight:bold;
 }
-/*.JBFcrasher {
+.JBFcrasher {
      color:#00f0f0;
      background-color:darkred;
      font-weight:bold;
-}*/
+}
 .inphlox {
      color:white;
      background-color:#DF00FF;
@@ -477,24 +477,4 @@ h4.guide {
 }
 .unverified {
      font-weight:italic;
-}
-
-.JBFcrasher {
-     color:#00f0f0;
-     background-color:darkred;
-     font-weight:bold;
-
-	background: linear-gradient(-45deg, red, red, white, white);
-	background-size: 300%;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	animation: animated_text 5s cubic-bezier(.1,.8,.9,.2) infinite;
-	-moz-animation: animated_text 5s cubic-bezier(.1,.8,.9,.2) infinite;
-	-webkit-animation: animated_text 5s cubic-bezier(.1,.8,.9,.2) infinite;
-}
-
-@keyframes animated_text {
-	0% { background-position: 0px 50%; }
-	50% { background-position: 100% 50%; }
-	100% { background-position: 0px 50%; }
 }
