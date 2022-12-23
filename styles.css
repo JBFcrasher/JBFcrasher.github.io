@@ -479,28 +479,17 @@ h4.guide {
      font-weight:italic;
 }
 .fancy {
-  --bg-size: 400%;
-  --color-one: hsl(0, 100%, 50%);
-  --color-two: hsl(0, 100%, 0%);
- /* font-size: clamp(3rem, 25vmin, 8rem);*/
-  background: linear-gradient(
-                90deg,
-                var(--color-one),
-                var(--color-two),
-                var(--color-one)
-              ) 0 0 / var(--bg-size) 100%;
-  color: transparent;
-  background-clip: text;
+  font-family:arial black;
+  font-size:70px;
+  background-image: 
+    linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, red); 
   -webkit-background-clip: text;
-  animation: move-bg 8s infinite linear;
+    -webkit-text-fill-color: transparent;  
+  animation: rainbow-animation 35s linear infinite;
 }
-@media (prefers-reduced-motion: no-preference) {
-  .fancy {
-    animation: move-bg 8s linear infinite;
-  }
-  @keyframes move-bg {
+
+@keyframes rainbow-animation {
     to {
-      background-position: var(--bg-size) 0;
+        background-position: 4500vh;
     }
-  }
 }
