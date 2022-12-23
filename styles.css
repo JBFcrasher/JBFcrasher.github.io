@@ -479,13 +479,13 @@ h4.guide {
      font-weight:italic;
 }
 .fancy{
-	background: linear-gradient(-45deg, #6355a4, #6355a4, #e89a3e, #e89a3e);
+	background: linear-gradient(-45deg, red, red, blue, blue);
 	background-size: 300%;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	animation: animated_text 10s ease-in-out infinite;
-	-moz-animation: animated_text 10s ease-in-out infinite;
-	-webkit-animation: animated_text 10s ease-in-out infinite;
+	animation: animated_text 8s cubic-bezier(.75,.14,.2,.86) infinite;
+	-moz-animation: animated_text 8s cubic-bezier(.75,.14,.2,.86) infinite;
+	-webkit-animation: animated_text 8s cubic-bezier(.75,.14,.2,.86) infinite;
 }
 
 @keyframes animated_text {
