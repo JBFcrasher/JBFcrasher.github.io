@@ -478,7 +478,7 @@ h4.guide {
 .unverified {
      font-weight:italic;
 }
-div.text {
+.fancy{
 	background: linear-gradient(-45deg, #6355a4, #6355a4, #e89a3e, #e89a3e);
 	background-size: 300%;
 	-webkit-background-clip: text;
