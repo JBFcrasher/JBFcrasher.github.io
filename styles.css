@@ -482,7 +482,7 @@ h4.guide {
   --bg-size: 400%;
   --color-one: hsl(15 90% 55%);
   --color-two: hsl(40 95% 55%);
-  font-size: clamp(3rem, 25vmin, 8rem);
+ /* font-size: clamp(3rem, 25vmin, 8rem);*/
   background: linear-gradient(
                 90deg,
                 var(--color-one),
