@@ -478,19 +478,18 @@ h4.guide {
 .unverified {
      font-weight:italic;
 }
-.fancy{
-  background: linear-gradient(to right, red 20%, red 40%, black 60%, red 80%);
-  background-size: 200% auto;
-  font-size: 20vw;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  
-  animation: shine 8s cubic-bezier(.75,.14,.2,.86) infinite;
-  @keyframes shine {
-    to {
-      background-position: 200% center;
-    }
-  }
+div.text {
+	background: linear-gradient(-45deg, #6355a4, #6355a4, #e89a3e, #e89a3e);
+	background-size: 300%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: animated_text 10s ease-in-out infinite;
+	-moz-animation: animated_text 10s ease-in-out infinite;
+	-webkit-animation: animated_text 10s ease-in-out infinite;
+}
+
+@keyframes animated_text {
+	0% { background-position: 0px 50%; }
+	50% { background-position: 100% 50%; }
+	100% { background-position: 0px 50%; }
 }
