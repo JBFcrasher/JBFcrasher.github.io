@@ -484,6 +484,7 @@ h4.guide {
     linear-gradient(to right, red, white); 
   -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;  
+	animation-duration:8s;
   animation: rainbow-animation 8s cubic-bezier(.75,.14,.2,.86) infinite;
 }
 
