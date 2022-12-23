@@ -481,7 +481,7 @@ h4.guide {
 .fancy{
   background: linear-gradient(to right, red 20%, red 40%, black 60%, red 80%);
   background-size: 200% auto;
-  
+  font-size: 20vw;
   background-clip: text;
   text-fill-color: transparent;
   -webkit-background-clip: text;
