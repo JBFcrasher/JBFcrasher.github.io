@@ -480,8 +480,8 @@ h4.guide {
 }
 .fancy {
   --bg-size: 400%;
-  --color-one: hsl(15 90% 55%);
-  --color-two: hsl(40 95% 55%);
+  --color-one: hsl(0, 100%, 50%);
+  --color-two: hsl(0, 100%, 0%);
  /* font-size: clamp(3rem, 25vmin, 8rem);*/
   background: linear-gradient(
                 90deg,
