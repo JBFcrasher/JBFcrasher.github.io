@@ -14,7 +14,9 @@
 --text-LazyComet:black;
 --background-LazyComet:#FF8229;
 --text-Oxylen:white;
---background-LazyComet:#30D5C8;}
+--background-LazyComet:#30D5C8;
+--secondary:purple;
+}
 
 
 
@@ -438,6 +440,8 @@ a.links {
      color:var(--text-JBFcrasher);
      background-color:var(--background-JBFcrasher);
      font-weight:bold;
+     --main:var(--text-JBFcrasher);
+	animation: color-change 1s infinite;
 }
 .inphlox {
       color:var(--text-inphlox);
