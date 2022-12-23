@@ -478,3 +478,19 @@ h4.guide {
 .unverified {
      font-weight:italic;
 }
+.fancy {
+  --bg-size: 400%;
+  --color-one: hsl(15 90% 55%);
+  --color-two: hsl(40 95% 55%);
+  font-size: clamp(3rem, 25vmin, 8rem);
+  background: linear-gradient(
+                90deg,
+                var(--color-one),
+                var(--color-two),
+                var(--color-one)
+              ) 0 0 / var(--bg-size) 100%;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: move-bg 8s infinite linear;
+}
