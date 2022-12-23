@@ -414,11 +414,11 @@ a.links {
      background-color:black;
      font-weight:bold;
 }
-.JBFcrasher {
+/*.JBFcrasher {
      color:#00f0f0;
      background-color:darkred;
      font-weight:bold;
-}
+}*/
 .inphlox {
      color:white;
      background-color:#DF00FF;
@@ -478,7 +478,12 @@ h4.guide {
 .unverified {
      font-weight:italic;
 }
-.fancy{
+
+.JBFcrasher {
+     color:#00f0f0;
+     background-color:darkred;
+     font-weight:bold;
+
 	background: linear-gradient(-45deg, red, red, white, white);
 	background-size: 300%;
 	-webkit-background-clip: text;
