@@ -480,17 +480,15 @@ h4.guide {
 }
 .fancy {
   font-family:arial black;
-  font-size:70px;
   background-image: 
-    linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, red); 
+    linear-gradient(to right, red, black); 
   -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;  
-  animation: rainbow-animation 35s linear infinite;
+  animation: rainbow-animation 10s cubic-bezier(.75,.14,.2,.86) infinite;
 }
 
-/*@keyframes rainbow-animation {
+@keyframes rainbow-animation {
     to {
         background-position: 4500vh;
     }
 }
-*/
