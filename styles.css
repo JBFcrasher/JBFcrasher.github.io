@@ -8,6 +8,7 @@
 --text-JBFcrasher:#00f0f0;
 --text2-JBFcrasher:black;
 --background-JBFcrasher:darkred;
+--background2-JBFcrasher:darkred;
 --text-inphlox:white;
 --background-inphlox:#DF00FF;
 --text-Gamedraco:#555500;
@@ -443,6 +444,8 @@ a.links {
      font-weight:bold;
      --main:var(--text-JBFcrasher);
 	--secondary:var(--text2-JBFcrasher);
+	--bgmain:var(--background-JBFcrasher);
+	--bgsecondary:var(--background2-JBFcrasher);
 	animation: color-change 5s infinite;
 }
 .inphlox {
@@ -506,7 +509,7 @@ h4.guide {
      font-weight:italic;
 }
 @keyframes color-change {
-  0% { color: var(--main); }
-  50% { color: var(--secondary); }
-  100% { color: var(--main); }
+  0% { color: var(--main) background-color:var(--bgmain);}
+  50% { color: var(--secondary) background-color:var(bgsecondary); }
+  100% { color: var(--main) background-color:var(--bgmain); }
 }
