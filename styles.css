@@ -6,6 +6,7 @@
 --text-WeenieWhistle:lightgray;
 --background-WeenieWhistle:#39FF14;
 --text-JBFcrasher:#00f0f0;
+--text2-JBFcrasher:black;
 --background-JBFcrasher:darkred;
 --text-inphlox:white;
 --background-inphlox:#DF00FF;
@@ -441,7 +442,7 @@ a.links {
      background-color:var(--background-JBFcrasher);
      font-weight:bold;
      --main:var(--text-JBFcrasher);
-	--secondary:black;
+	--secondary:var(--text2-JBFcrasher);
 	animation: color-change 5s infinite;
 }
 .inphlox {
