@@ -508,7 +508,7 @@ h4.guide {
      font-weight:italic;
 }
 @keyframes color-change {
-  0% { color: var(--main) background-color:var(--bgmain);}
-  50% { color: var(--secondary) background-color:var(--bgsecondary); }
-  100% { color: var(--main) background-color:var(--bgmain); }
+  0% { color: var(--main); background-color:var(--bgmain);}
+  50% { color: var(--secondary); background-color:var(--bgsecondary); }
+  100% { color: var(--main); background-color:var(--bgmain); }
 }
