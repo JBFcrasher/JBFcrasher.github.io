@@ -17,6 +17,8 @@
 --background-LazyComet:#FF8229;
 --text-Oxylen:white;
 --background-LazyComet:#30D5C8;
+--text-TCDejw:red;
+--background-TCDejw:black
 }
 
 
@@ -467,6 +469,13 @@ a.links {
      background-color:var(--background-Oxylen);
      font-weight:bold;
 }
+.TCDejw {
+     color:var(--text-TCDejw);
+    background-color:var(--background-TCDejw);
+    font-weight:bold;
+}
+
+
 #n64tbki {
      .AxlThunder;
 }
