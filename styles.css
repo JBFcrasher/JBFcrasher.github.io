@@ -18,7 +18,9 @@
 --text-Oxylen:white;
 --background-LazyComet:#30D5C8;
 --text-TCDejw:red;
---background-TCDejw:black
+--background-TCDejw:black;
+--text-LamontyMonty:red;
+--background-LamontyMonty:#2B1700;
 }
 
 
@@ -474,7 +476,11 @@ a.links {
     background-color:var(--background-TCDejw);
     font-weight:bold;
 }
-
+.LamontyMonty {
+     color:var(--text-LamontyMonty);
+    background-color:var(--background-LamontyMonty);
+    font-weight:bold;
+}
 
 #n64tbki {
      .AxlThunder;
