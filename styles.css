@@ -34,7 +34,7 @@ body {
 }
 a.links {
      color:red;
-     font-family:serif:
+     font-family:serif;
 }
 .navbar {
   overflow: hidden;
@@ -346,6 +346,28 @@ a.links {
      color:white;
      border-collapse: collapse;
 }
+table.locationtable_{
+     margin: auto;
+     width: 70%;
+     padding: 10px;
+     border: 1px solid white;
+     height: 30px;
+     color:white;
+     border-collapse: collapse;
+}
+ table.locationtable_ tr{
+     border: 1px solid white;
+     height: 30px;
+     color:white;
+     border-collapse: collapse;
+}
+ table.locationtable_ td{
+     border: 1px solid white;
+     height: 30px;
+     color:white;
+     border-collapse: collapse;
+     text-align: center;
+}
  table.tablehead {
      font-weight:bold;
 }
@@ -400,6 +422,7 @@ a.links {
      border-collapse: collapse;
      color:white;
 }
+
  tr.first td {
      background-color: #DAA520;
 }
@@ -482,9 +505,9 @@ a.links {
     font-weight:bold;
 }
 
-#n64tbki {
+/*#n64tbki {
      .AxlThunder;
-}
+}*/
 
 
 #idtest {
