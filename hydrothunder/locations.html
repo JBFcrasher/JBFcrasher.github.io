@@ -33,7 +33,7 @@ xmlhttp.open("GET", "test.csv", true);
 xmlhttp.send();
 
 // Or using fetch() 
-fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLETTXhdDuBrEh7hBobnYaUNkZRDYXHbJzlTpu6tFpoEoK9Du3wK8Tquozmn0-Znh764whB0YR0tG4/pub?gid=1632082873&single=true&output=csv')
+fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLETTXhdDuBrEh7hBobnYaUNkZRDYXHbJzlTpu6tFpoEoK9Du3wK8Tquozmn0-Znh764whB0YR0tG4/pub?gid=1632082873&single=true&output=tsv')
 .then(function(response){
     return response.text();
 })
@@ -50,7 +50,7 @@ fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLETTXhdDuBrEh7hBobnYaUN
 
     rows.forEach(function(row, row_index) {
         var table_columns = '';
-        var columns = row.split(','); // split/separate the columns in a row
+        var columns = row.split('\t'); // split/separate the columns in a row
         columns.forEach(function(column, column_index) {
             table_columns += row_index == 0 ? '<th>' + column + '</th>' : '<td>' + column + '</td>';
         });
