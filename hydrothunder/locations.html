@@ -1,0 +1,85 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Boat/Track Times</title>
+  <meta name="description" content="JBFcrasher">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="/styles.css">
+
+</head><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-MMM5Z2XVY5"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-MMM5Z2XVY5');</script>
+
+
+<<body><div class="navbar"><a href="/hydrothunder/index.html">Home</a><a href="/hydrothunder/records.html">Extended Leaderboard</a><a href="/hydrothunder/submission.html">Submit a Time</a></div>>
+<center><h1>Boat Track Leaderboard</h1></center></br>
+
+<div id="table-container"></div>
+
+<script>
+	// Using XMLHttpRequest().
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == XMLHttpRequest.DONE) {
+        if (xmlhttp.status == 200) {
+            var table_container = document.getElementById('table-container');
+            csv_string_to_table(xmlhttp.responseText, table_container);
+        }
+    }
+};
+xmlhttp.open("GET", "test.csv", true);
+xmlhttp.send();
+
+// Or using fetch() 
+fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTLETTXhdDuBrEh7hBobnYaUNkZRDYXHbJzlTpu6tFpoEoK9Du3wK8Tquozmn0-Znh764whB0YR0tG4/pub?gid=1632082873&single=true&output=csv')
+.then(function(response){
+    return response.text();
+})
+.then(function(data){
+    var table_container = document.getElementById('table-container');
+    csv_string_to_table(data, table_container);
+});
+</script>
+<script>function csv_string_to_table(csv_string, element_to_insert_table) {
+    var rows = csv_string.trim().split(/\r?\n|\r/); // Regex to split/separate the CSV rows
+    var table = '';
+    var table_rows = '';
+    var table_header = '';
+
+    rows.forEach(function(row, row_index) {
+        var table_columns = '';
+        var columns = row.split(','); // split/separate the columns in a row
+        columns.forEach(function(column, column_index) {
+            table_columns += row_index == 0 ? '<th>' + column + '</th>' : '<td>' + column + '</td>';
+        });
+        if (row_index == 0) {
+            table_header += '<tr>' + table_columns + '</tr>';
+        } else {
+            table_rows += '<tr>' + table_columns + '</tr>';
+        }
+    });
+
+    table += '<table class="httable_">';
+        table += '<thead>';
+            table += table_header;
+        table += '</thead>';
+        table += '<tbody>';
+            table += table_rows;
+        table += '</tbody>';
+    table += '</table>';
+
+    element_to_insert_table.innerHTML += table;
+}
+
+
+
+</script>
+
+<center><table class="bttable_">
+	
+</table>
+</center>
+</body><div class="navbar"><a href="/hydrothunder/index.html">Home</a><a href="/hydrothunder/records.html">Extended Leaderboard</a><a href="/hydrothunder/submission.html">Submit a Time</a></div>>
+</html>
