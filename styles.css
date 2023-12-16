@@ -21,6 +21,8 @@
 --background-TCDejw:black;
 --text-LamontyMonty:red;
 --background-LamontyMonty:#2B1700;
+--text-tofercakes:white;
+--background-tofercakes:#8B188B;
 }
 
 
@@ -504,7 +506,11 @@ table.locationtable_{
     background-color:var(--background-LamontyMonty);
     font-weight:bold;
 }
-
+.tofercakes {
+     color:var(--text-tofercakes);
+    background-color:var(--background-tofercakes);
+    font-weight:bold;
+}
 /*#n64tbki {
      .AxlThunder;
 }*/
