@@ -61,8 +61,7 @@ a.links {
   background: #5A5A5A;
   color: red;
 }
-.list{
-}
+
 .button {
   color:black;
   border: none;
@@ -180,9 +179,7 @@ a.links {
      color:white;
     /* text-indent: 40px;*/
 }
- ul {
-     /*padding-left: 10px;*/
-}
+
  img {
      display:inline-block;
 }
@@ -293,8 +290,7 @@ a.links {
  .achievementvalue_ {
      text-align: center;
 }
- .achievementdescription_ {
-}
+ 
  table.timestable{
       color:#0fdcf7;
      border: 1px solid white;
@@ -373,8 +369,6 @@ table.locationtable_{
  table.tablehead {
      font-weight:bold;
 }
- table.tabletime {
-}
  .easy {
      background-color: #0000ff;
       color:black;
@@ -434,8 +428,7 @@ table.locationtable_{
  tr.third td {
      background-color: #cd7f32;
 }
- tr.fourth td {
-}
+
  tr.linktest {
      color:coral;
 }
