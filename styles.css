@@ -506,6 +506,11 @@ table.locationtable_{
     background-color:var(--background-tofercakes);
     font-weight:bold;
 }
+.DrewUniverse {
+     color:var(--text-DrewUniverse);
+    background-color:var(--background-DrewUniverse);
+    font-weight:bold;
+}
 /*#n64tbki {
      .AxlThunder;
 }*/
