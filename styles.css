@@ -25,6 +25,8 @@
 --background-tofercakes:#8B188B;
 --text-DrewUniverse:#8866FF;
 --background-DrewUniverse:#2D2D2D;
+--text-Spin:White;
+--background-Spin:LightBlue;
 }
 
 
@@ -509,6 +511,11 @@ table.locationtable_{
 .DrewUniverse {
      color:var(--text-DrewUniverse);
     background-color:var(--background-DrewUniverse);
+    font-weight:bold;
+}
+.Spin {
+     color:var(--text-Spin);
+    background-color:var(--background-Spin);
     font-weight:bold;
 }
 /*#n64tbki {
