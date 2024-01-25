@@ -93,10 +93,10 @@
 --background-TheFarEast: var(--medium);
 --text-ShipGraveyard: black;
 --background-ShipGraveyard: var(--hard);
---text-VeniceCanals: black;
---background-VeniceCanals: var(--hard);
---text-NYDisaster: black;
---background-NYDisaster: var(--hard);
+--text-VeniceCanal: black;
+--background-VeniceCanal: var(--hard);
+--text-NewYorkDisaster: black;
+--background-NewYorkDisaster: var(--hard);
 --text-Catacomb: black;
 --background-Catacomb: var(--bonus);
 --text-HydroSpeedway: black;
@@ -784,15 +784,15 @@ table.locationtable_{
      font-weight: bold;
    }
    
-   .VeniceCanals {
-     color: var(--text-VeniceCanals);
-     background-color: var(--background-VeniceCanals);
+   .VeniceCanal {
+     color: var(--text-VeniceCanal);
+     background-color: var(--background-VeniceCanal);
      font-weight: bold;
    }
    
-   .NYDisaster {
-     color: var(--text-NYDisaster);
-     background-color: var(--background-NYDisaster);
+   .NewYorkDisaster {
+     color: var(--text-NewYorkDisaster);
+     background-color: var(--background-NewYorkDisaster);
      font-weight: bold;
    }
    
