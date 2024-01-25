@@ -75,6 +75,47 @@
 --background-Blowfish:#46298E;
 --text-Chumdinger:#B3A078;
 --background-Chumdinger:#741402;
+
+
+
+/*tracks*/
+--text-ThunderPark: black;
+--background-ThunderPark: var(--easy);
+--text-LostIsland: black;
+--background-LostIsland: var(--easy);
+--text-ArcticCircle: black;
+--background-ArcticCircle: var(--easy);
+--text-GreekIsles: black;
+--background-GreekIsles: var(--medium);
+--text-LakePowell: black;
+--background-LakePowell: var(--medium);
+--text-TheFarEast: black;
+--background-TheFarEast: var(--medium);
+--text-ShipGraveyard: black;
+--background-ShipGraveyard: var(--hard);
+--text-VeniceCanals: black;
+--background-VeniceCanals: var(--hard);
+--text-NYDisaster: black;
+--background-NYDisaster: var(--hard);
+--text-Catacomb: black;
+--background-Catacomb: var(--bonus);
+--text-HydroSpeedway: black;
+--background-HydroSpeedway: var(--bonus);
+--text-CastleVonDandy: black;
+--background-CastleVonDandy: var(--bonus);
+--text-NileAdventure: black;
+--background-NileAdventure: var(--bonus);
+
+
+
+
+--easy:#0000ff;
+--medium:#eecc22;
+--hard:#ee1100;
+--bonus:#00cc66;
+
+
+
 }
 
 
@@ -699,6 +740,86 @@ table.locationtable_{
     font-weight:bold;
 }
 
+/*tracks*/
+
+.ThunderPark {
+     color: var(--text-ThunderPark);
+     background-color: var(--background-ThunderPark);
+     font-weight: bold;
+   }
+   
+   .LostIsland {
+     color: var(--text-LostIsland);
+     background-color: var(--background-LostIsland);
+     font-weight: bold;
+   }
+   
+   .ArcticCircle {
+     color: var(--text-ArcticCircle);
+     background-color: var(--background-ArcticCircle);
+     font-weight: bold;
+   }
+   
+   .GreekIsles {
+     color: var(--text-GreekIsles);
+     background-color: var(--background-GreekIsles);
+     font-weight: bold;
+   }
+   
+   .LakePowell {
+     color: var(--text-LakePowell);
+     background-color: var(--background-LakePowell);
+     font-weight: bold;
+   }
+   
+   .TheFarEast {
+     color: var(--text-TheFarEast);
+     background-color: var(--background-TheFarEast);
+     font-weight: bold;
+   }
+   
+   .ShipGraveyard {
+     color: var(--text-ShipGraveyard);
+     background-color: var(--background-ShipGraveyard);
+     font-weight: bold;
+   }
+   
+   .VeniceCanals {
+     color: var(--text-VeniceCanals);
+     background-color: var(--background-VeniceCanals);
+     font-weight: bold;
+   }
+   
+   .NYDisaster {
+     color: var(--text-NYDisaster);
+     background-color: var(--background-NYDisaster);
+     font-weight: bold;
+   }
+   
+   .Catacomb {
+     color: var(--text-Catacomb);
+     background-color: var(--background-Catacomb);
+     font-weight: bold;
+   }
+   
+   .HydroSpeedway {
+     color: var(--text-HydroSpeedway);
+     background-color: var(--background-HydroSpeedway);
+     font-weight: bold;
+   }
+   
+   .CastleVonDandy {
+     color: var(--text-CastleVonDandy);
+     background-color: var(--background-CastleVonDandy);
+     font-weight: bold;
+   }
+   
+   .NileAdventure {
+     color: var(--text-NileAdventure);
+     background-color: var(--background-NileAdventure);
+     font-weight: bold;
+   }
+   
 
 
 
