@@ -27,6 +27,24 @@
 --background-DrewUniverse:#2D2D2D;
 --text-Spin:White;
 --background-Spin:#2488e2;
+
+
+--text-N64:lightgray;
+--background-N64:#4d5458;
+--text-PS1:red;
+--background-PS1:lightgray;
+--text-PC:black;
+--background-PC:white;
+--text-Dreamcast:orange;
+--background-Dreamcast:white;
+--text-MAT3GameCube:black;
+--background-MAT3GameCube:#535486;
+--text-MAT3PlayStation2:blue;
+--background-MAT3PlayStation2:black;
+--text-MAT3Xbox:green;
+--background-MAT3Xbox:black;
+--text-Arcade:orange;
+--background-Arcade:black;
 }
 
 
@@ -521,6 +539,54 @@ table.locationtable_{
 /*#n64tbki {
      .AxlThunder;
 }*/
+
+.Dreamcast {
+     color:var(--text-Dreamcast);
+    background-color:var(--background-Dreamcast);
+    font-weight:bold;
+}
+.N64 {
+     color:var(--text-N64);
+    background-color:var(--background-N64);
+    font-weight:bold;
+}
+.PC {
+     color:var(--text-PC);
+    background-color:var(--background-PC);
+    font-weight:bold;
+}
+.Arcade {
+     color:var(--text-Arcade);
+    background-color:var(--background-Arcade);
+    font-weight:bold;
+}
+.PS1 {
+     color:var(--text-PS1);
+    background-color:var(--background-PS1);
+    font-weight:bold;
+}
+.MAT3GameCube {
+     color:var(--text-MAT3GameCube);
+    background-color:var(--background-MAT3GameCube);
+    font-weight:bold;
+}
+.MAT3Playstation2 {
+     color:var(--text-MAT3Playstation2);
+    background-color:var(--background-MAT3PlayStation2);
+    font-weight:bold;
+}
+.MAT3Xbox {
+     color:var(--text-MAT3Xbox);
+    background-color:var(--background-MAT3Xbox);
+    font-weight:bold;
+}
+
+
+
+
+
+
+
 
 
 #idtest {
