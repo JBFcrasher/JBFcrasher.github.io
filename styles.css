@@ -1,4 +1,5 @@
 :root{
+     /*users*/
 --text-test:coral;
 --background-test:red;
 --text-AxlThunder:lightgray;
@@ -28,7 +29,7 @@
 --text-Spin:White;
 --background-Spin:#2488e2;
 
-
+/*platforms*/
 --text-N64:lightgray;
 --background-N64:#4d5458;
 --text-PS1:red;
@@ -45,6 +46,35 @@
 --background-MAT3Xbox:black;
 --text-Arcade:#FF8410;
 --background-Arcade:#008CAD;
+
+
+/*boats*/
+--text-DamntheTorpedoes:Black;
+--background-DamntheTorpedoes:#FD0062;
+--text-Midway:#FD0000;
+--background-Midway:White;
+--text-MissBehave:#405106;
+--background-MissBehave:White;
+--text-Banshee:#FFFE00;
+--background-Banshee:#00CBAE;
+--text-TidalBlade:#FFFE00;
+--background-TidalBlade:Black;
+--text-Thresher:#2B40A8;
+--background-Thresher:Black;
+--text-Cutthroat:#45049F;
+--background-Cutthroat:#FEDF00;
+--text-RadHazard:#1DB800;
+--background-RadHazard:#A9C4ED;
+--text-Razorback:#FFFE00;
+--background-Razorback:#FE0000;
+--text-Tinytanic:#FF8410;
+--background-Tinytanic:#000101;
+--text-ArmedResponse:#0405E0;
+--background-ArmedResponse:#4C5062;
+--text-Blowfish:#76CA18;
+--background-Blowfish:#46298E;
+--text-Chumdinger:#B3A078;
+--background-Chumdinger:#741402;
 }
 
 
@@ -472,6 +502,17 @@ table.locationtable_{
      background-color:var(--background-test);
      font-weight:bold;
 }
+
+
+
+
+
+
+
+
+
+
+/*users*/
 .AxlThunder {
       color:var(--text-AxlThunder);
      background-color:var(--background-AxlThunder);
@@ -537,9 +578,14 @@ table.locationtable_{
     background-color:var(--background-Spin);
     font-weight:bold;
 }
-/*#n64tbki {
-     .AxlThunder;
-}*/
+
+
+
+
+
+
+
+/*platforms*/
 
 .Dreamcast {
      color:var(--text-Dreamcast);
@@ -582,6 +628,76 @@ table.locationtable_{
     font-weight:bold;
 }
 
+
+
+
+
+/*boats*/
+.DamntheTorpedoes {
+     color:var(--text-DamntheTorpedoes);
+    background-color:var(--background-DamntheTorpedoes);
+    font-weight:bold;
+}
+.Midway {
+     color:var(--text-Midway);
+    background-color:var(--background-Midway);
+    font-weight:bold;
+}
+.MissBehave {
+     color:var(--text-MissBehave);
+    background-color:var(--background-MissBehave);
+    font-weight:bold;
+}
+.Banshee {
+     color:var(--text-Banshee);
+    background-color:var(--background-Banshee);
+    font-weight:bold;
+}
+.TidalBlade {
+     color:var(--text-TidalBlade);
+    background-color:var(--background-TidalBlade);
+    font-weight:bold;
+}
+.Thresher {
+     color:var(--text-Thresher);
+    background-color:var(--background-Thresher);
+    font-weight:bold;
+}
+.Cutthroat {
+     color:var(--text-Cutthroat);
+    background-color:var(--background-Cutthroat);
+    font-weight:bold;
+}
+.RadHazard {
+     color:var(--text-RadHazard);
+    background-color:var(--background-RadHazard);
+    font-weight:bold;
+}
+.Razorback {
+     color:var(--text-Razorback);
+    background-color:var(--background-Razorback);
+    font-weight:bold;
+}
+.Tinytanic {
+     color:var(--text-Tinytanic);
+    background-color:var(--background-Tinytanic);
+    font-weight:bold;
+}
+.ArmedResponse {
+     color:var(--text-ArmedResponse);
+    background-color:var(--background-ArmedResponse);
+    font-weight:bold;
+}
+.Blowfish {
+     color:var(--text-Blowfish);
+    background-color:var(--background-Blowfish);
+    font-weight:bold;
+}
+.Chumdinger {
+     color:var(--text-Chumdinger);
+    background-color:var(--background-Chumdinger);
+    font-weight:bold;
+}
 
 
 
