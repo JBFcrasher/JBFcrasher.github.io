@@ -41,10 +41,10 @@
 --background-MAT3GameCube:#535486;
 --text-MAT3PlayStation2:blue;
 --background-MAT3PlayStation2:black;
---text-MAT3Xbox:green;
+--text-MAT3Xbox:#7eb900;
 --background-MAT3Xbox:black;
---text-Arcade:orange;
---background-Arcade:black;
+--text-Arcade:#FF8410;
+--background-Arcade:#008CAD;
 }
 
 
@@ -344,6 +344,7 @@ a.links {
      height: 30px;
      border-collapse: collapse;
      font-size: 20pt;
+     text-align: center;
 }
  table.httable_{
      margin: auto;
@@ -570,8 +571,8 @@ table.locationtable_{
     background-color:var(--background-MAT3GameCube);
     font-weight:bold;
 }
-.MAT3Playstation2 {
-     color:var(--text-MAT3Playstation2);
+.MAT3PlayStation2 {
+     color:var(--text-MAT3PlayStation2);
     background-color:var(--background-MAT3PlayStation2);
     font-weight:bold;
 }
