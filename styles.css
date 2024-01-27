@@ -75,7 +75,8 @@
 --background-Blowfish:#46298E;
 --text-Chumdinger:#B3A078;
 --background-Chumdinger:#741402;
-
+--text-MultiBoat:White;
+--background-MultiBoat:Black;
 
 
 /*tracks*/
@@ -105,8 +106,8 @@
 --background-CastleVonDandy: var(--bonus);
 --text-NileAdventure: black;
 --background-NileAdventure: var(--bonus);
---text-AnyBoat: black;
---background-AnyBoat: white;
+--text-NoRestrictions: black;
+--background-NoRestrictions: white;
 
 
 
@@ -741,7 +742,11 @@ table.locationtable_{
     background-color:var(--background-Chumdinger);
     font-weight:bold;
 }
-
+.MultiBoat {
+     color: var(--text-MultiBoat);
+     background-color: var(--background-MultiBoat);
+     font-weight: bold;
+   }
 /*tracks*/
 
 .ThunderPark {
@@ -821,9 +826,9 @@ table.locationtable_{
      background-color: var(--background-NileAdventure);
      font-weight: bold;
    }
-   .AnyBoat {
-     color: var(--text-AnyBoat);
-     background-color: var(--background-AnyBoat);
+   .NoRestrictions {
+     color: var(--text-NoRestrictions);
+     background-color: var(--background-NoRestrictions);
      font-weight: bold;
    }
 .Variety {
