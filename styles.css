@@ -846,7 +846,6 @@ table.locationtable_{
      margin-top: 0px;
      margin-bottom: 10px;
      font-family: sans-serif;
-     font-size: 6rem;
      background: linear-gradient(to right, var(--easy), var(--medium), var(--hard), var(--bonus));
      -webkit-background-clip: text;
      -webkit-text-fill-color: transparent;
