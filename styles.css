@@ -28,7 +28,10 @@
 --background-DrewUniverse:#2D2D2D;
 --text-Spin:White;
 --background-Spin:#2488e2;
+--text-Mustinclude3to25:#0C5CD6;
+--background-Mustinclude3to25:black;
 
+	
 /*platforms*/
 --text-N64:lightgray;
 --background-N64:#4d5458;
@@ -622,7 +625,11 @@ table.locationtable_{
     background-color:var(--background-Spin);
     font-weight:bold;
 }
-
+.Mustinclude3to25 {
+     color:var(--text-Mustinclude3to25);
+    background-color:var(--background-Mustinclude3to25);
+    font-weight:bold;
+}
 
 
 
