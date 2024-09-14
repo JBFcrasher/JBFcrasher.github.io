@@ -30,7 +30,86 @@
 --background-Spin:#2488e2;
 --text-Mustinclude3to25:#0C5CD6;
 --background-Mustinclude3to25:black;
+--text-ArcadeStriker:orange;
+--background-ArcadeStriker:teal;
 
+ArcadeStriker
+/*users*/
+.AxlThunder {
+     color:var(--text-AxlThunder);
+    background-color:var(--background-AxlThunder);
+    font-weight:bold;
+}
+.WeenieWhistle {
+     color:var(--text-WeenieWhistle);
+    background-color:var(--background-WeenieWhistle);
+    font-weight:bold;
+}
+.JBFcrasher {
+    color:var(--text-JBFcrasher);
+    background-color:var(--background-JBFcrasher);
+    font-weight:bold;
+    --main:var(--text-JBFcrasher);
+    --secondary:var(--text2-JBFcrasher);
+    --bgmain:var(--background-JBFcrasher);
+    --bgsecondary:var(--background2-JBFcrasher);
+    animation: color-change 5s infinite;
+}
+.inphlox {
+     color:var(--text-inphlox);
+    background-color:var(--background-inphlox);
+    font-weight:bold;
+}
+.Gamedraco {
+     color:var(--text-Gamedraco);
+    background-color:var(--background-Gamedraco);
+    font-weight:bold;
+}
+.LazyComet {
+     color:var(--text-LazyComet);
+    background-color:var(--background-LazyComet);
+    font-weight:bold;
+}
+.Oxylen {
+     color:var(--text-Oxylen);
+    background-color:var(--background-Oxylen);
+    font-weight:bold;
+}
+.TCDejw {
+    color:var(--text-TCDejw);
+   background-color:var(--background-TCDejw);
+   font-weight:bold;
+}
+.LamontyMonty {
+    color:var(--text-LamontyMonty);
+   background-color:var(--background-LamontyMonty);
+   font-weight:bold;
+}
+.tofercakes {
+    color:var(--text-tofercakes);
+   background-color:var(--background-tofercakes);
+   font-weight:bold;
+}
+.DrewUniverse {
+    color:var(--text-DrewUniverse);
+   background-color:var(--background-DrewUniverse);
+   font-weight:bold;
+}
+.Spin {
+    color:var(--text-Spin);
+   background-color:var(--background-Spin);
+   font-weight:bold;
+}
+.Mustinclude3to25 {
+    color:var(--text-Mustinclude3to25);
+   background-color:var(--background-Mustinclude3to25);
+   font-weight:bold;
+}
+.ArcadeStriker {
+     color:var(--text-ArcadeStriker);
+    background-color:var(--background-ArcadeStriker);
+    font-weight:bold;
+}
 	
 /*platforms*/
 --text-N64:lightgray;
@@ -559,77 +638,7 @@ table.locationtable_{
 
 
 
-/*users*/
-.AxlThunder {
-      color:var(--text-AxlThunder);
-     background-color:var(--background-AxlThunder);
-     font-weight:bold;
-}
-.WeenieWhistle {
-      color:var(--text-WeenieWhistle);
-     background-color:var(--background-WeenieWhistle);
-     font-weight:bold;
-}
-.JBFcrasher {
-     color:var(--text-JBFcrasher);
-     background-color:var(--background-JBFcrasher);
-     font-weight:bold;
-     --main:var(--text-JBFcrasher);
-	--secondary:var(--text2-JBFcrasher);
-	--bgmain:var(--background-JBFcrasher);
-	--bgsecondary:var(--background2-JBFcrasher);
-	animation: color-change 5s infinite;
-}
-.inphlox {
-      color:var(--text-inphlox);
-     background-color:var(--background-inphlox);
-     font-weight:bold;
-}
-.Gamedraco {
-      color:var(--text-Gamedraco);
-     background-color:var(--background-Gamedraco);
-     font-weight:bold;
-}
-.LazyComet {
-      color:var(--text-LazyComet);
-     background-color:var(--background-LazyComet);
-     font-weight:bold;
-}
-.Oxylen {
-      color:var(--text-Oxylen);
-     background-color:var(--background-Oxylen);
-     font-weight:bold;
-}
-.TCDejw {
-     color:var(--text-TCDejw);
-    background-color:var(--background-TCDejw);
-    font-weight:bold;
-}
-.LamontyMonty {
-     color:var(--text-LamontyMonty);
-    background-color:var(--background-LamontyMonty);
-    font-weight:bold;
-}
-.tofercakes {
-     color:var(--text-tofercakes);
-    background-color:var(--background-tofercakes);
-    font-weight:bold;
-}
-.DrewUniverse {
-     color:var(--text-DrewUniverse);
-    background-color:var(--background-DrewUniverse);
-    font-weight:bold;
-}
-.Spin {
-     color:var(--text-Spin);
-    background-color:var(--background-Spin);
-    font-weight:bold;
-}
-.Mustinclude3to25 {
-     color:var(--text-Mustinclude3to25);
-    background-color:var(--background-Mustinclude3to25);
-    font-weight:bold;
-}
+
 
 
 
