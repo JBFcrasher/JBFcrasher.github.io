@@ -43,6 +43,11 @@
     font-weight:bold;
 }
 */
+.AxlThunder {
+     color:var(--text-AxlThunderr);
+    background-color:var(--background-AxlThunder);
+    font-weight:bold;
+}
 .WeenieWhistle {
      color:var(--text-WeenieWhistle);
     background-color:var(--background-WeenieWhistle);
