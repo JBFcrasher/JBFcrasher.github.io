@@ -33,13 +33,16 @@
 --text-ArcadeStriker:orange;
 --background-ArcadeStriker:teal;
 
-ArcadeStriker
+
 /*users*/
-.AxlThunder {
-     color:var(--text-AxlThunder);
-    background-color:var(--background-AxlThunder);
+
+/*template
+.template {
+     color:var(--text-template);
+    background-color:var(--background-template);
     font-weight:bold;
 }
+*/
 .WeenieWhistle {
      color:var(--text-WeenieWhistle);
     background-color:var(--background-WeenieWhistle);
