@@ -32,6 +32,8 @@
 --background-Mustinclude3to25:black;
 --text-ArcadeStriker:#FF5E00;
 --background-ArcadeStriker:#00BAB5;
+--text-BillDire:Black;
+--background-BillDire:White;
 
 
 /*users*/
@@ -116,6 +118,11 @@
 .ArcadeStriker {
      color:var(--text-ArcadeStriker);
     background-color:var(--background-ArcadeStriker);
+    font-weight:bold;
+}
+.BillDire {
+     color:var(--text-BillDire);
+    background-color:var(--background-BillDire);
     font-weight:bold;
 }
 	
